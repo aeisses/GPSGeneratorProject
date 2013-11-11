@@ -1,0 +1,2476 @@
+Stop_street,stop_lat,stop_name,stop_region,zone_id,stop_country,stop_lon,stop_city,stop_id,stop_desc,stop_postcode,location_type
+,44.630074,ridge Valley Rd in front of civic address 39,,,,-63.621403,,8167,,,0
+,44.712811,lake Major Rd in front of civic address 190,,,,-63.46751,,7109,,,0
+,44.640781,terminal Rd before and opposite Lower Water St,,,,-63.568546,,8827,,,0
+,44.653362,st Margarets Bay Rd after civic address 2172,,,,-63.728149,,6150,,,0
+,44.658607,st Margarets Bay Rd after civic address 2395,,,,-63.738003,,6151,,,0
+,44.65863,st Margarets Bay Rd after civic address 2404,,,,-63.738319,,6152,,,0
+,44.638039,st Margarets Bay Rd after County Ind. Park Entr.,,,,-63.689541,,6153,,,0
+,44.636257,st Margarets Bay Rd opposite Beech Tree Run,,,,-63.681747,,6154,,,0
+,44.637112,st Margarets Bay Rd after Greenhead Rd,,,,-63.700184,,6156,,,0
+,44.635757,st Margarets Bay Rd in front of civic address 1075,,,,-63.677231,,6157,,,0
+,44.640923,st Margarets Bay Rd after Keating Rd,,,,-63.624115,,6158,,,0
+,44.640236,st Margarets Bay Rd in front of Fairmount Rd,,,,-63.624603,,6159,,,0
+,44.599689,greystone Dr [inbound] in front of civic address 146,,,,-63.612789,,6796,,,0
+,44.599342,greystone Dr before civic address 192,,,,-63.614296,,6797,,,0
+,44.684856,gregory Dr before Wildwood Blvd,,,,-63.497841,,6794,,,0
+,44.599735,greystone Dr in front of civic address 146,,,,-63.612728,,6795,,,0
+,44.685867,gregory Dr after Flying Cloud Dr,,,,-63.494934,,6792,,,0
+,44.685749,gregory Dr in front of Joseph Giles Sch,,,,-63.49485,,6793,,,0
+,44.651844,gottingen St [southbound] after civic address 2128,,,,-63.583302,,6790,,,0
+,44.662655,fraser Rd opposite civic address 12,,,,-63.747265,,6722,,,0
+,44.647533,franklyn St in front of civic address 5,,,,-63.541462,,6721,,,0
+,44.599331,greystone Dr [inbound] before civic address 192,,,,-63.614246,,6798,,,0
+,44.60001,greystone Dr before Cranberry Crt,,,,-63.612526,,6799,,,0
+,44.646355,franklyn St after civic address 35,,,,-63.539429,,6720,,,0
+,44.664776,gaston Rd in front of civic address 96,,,,-63.535114,,6727,,,0
+,44.664803,gaston Rd in front of civic address 76,,,,-63.537067,,6726,,,0
+,44.664627,gaston Rd in front of civic address 103 (turning Loop),,,,-63.533588,,6725,,,0
+,44.66621,gaston Rd after Regency Dr,,,,-63.541874,,6724,,,0
+,44.666641,duffus St after Isleville St,,,,-63.607098,,6581,,,0
+,44.670361,duffus St before Barrington St,,,,-63.602131,,6587,,,0
+,44.669163,duffus St before Albert St,,,,-63.603687,,6586,,,0
+,44.665855,duffus St before Agricola St,,,,-63.608551,,6585,,,0
+,44.668461,duffus St before Acadia St,,,,-63.604954,,6584,,,0
+,44.650105,robie St [northbound] before Cunard St,,,,-63.591885,,8206,,,0
+,44.664749,robie St [northbound] before Duffus St,,,,-63.609859,,8207,,,0
+,44.797588,beaverbank Rd in front of civic address 278,,,,-63.689381,,8756,,,0
+,44.791546,beaverbank Rd in front of civic address 204,,,,-63.692566,,8757,,,0
+,44.657413,robie St [southbound] before Almon St,,,,-63.599163,,8202,,,0
+,44.663498,robie St [southbound] before Cabot St,,,,-63.608299,,8203,,,0
+,44.750275,damascus Rd opposite Verdi Dr,,,,-63.641396,,8200,,,0
+,44.657295,robie St [northbound] before Almon St,,,,-63.59864,,8201,,,0
+,44.540451,ketch Harbour Rd opposite civic address 438,,,,-63.548027,,7625,,,0
+,44.644917,horseshoe Lake Dr after Suzie Lake Cr,,,,-63.675407,,6378,,,0
+,44.637562,chain Lake Dr [outbound] before Lakelands Blvd,,,,-63.669502,,6379,,,0
+,44.68919,caledonia Rd before Westwood Dr,,,,-63.531628,,6370,,,0
+,44.690601,caledonia Rd before Kennedy Dr,,,,-63.532337,,6371,,,0
+,44.700096,caledonia Rd before Montebello Dr,,,,-63.537933,,6372,,,0
+,44.6502,carlisle Dr after and opposite Huntington Dr,,,,-63.47765,,6373,,,0
+,44.651516,carlisle Dr before Shrewsbury Rd,,,,-63.479744,,6374,,,0
+,44.637772,chain Lake Dr after Lakelands Blvd,,,,-63.669418,,6375,,,0
+,44.638321,horseshoe Lake Dr [inbound] in front of civic address 255,,,,-63.67152,,6376,,,0
+,44.644615,chain Lake Dr [inbound] in front of Greystone Ct,,,,-63.666508,,6377,,,0
+,44.687572,mount Edward Rd opposite Stewart Harris Dr,,,,-63.509869,,7269,,,0
+,44.681908,mount Edward Rd opposite civic address 58,,,,-63.521004,,7268,,,0
+,44.687401,mount Edward Rd before Stewart Harris Dr,,,,-63.50996,,7265,,,0
+,44.688961,mount Edward Rd before Cranberry Cr,,,,-63.5051,,7264,,,0
+,44.688396,mount Edward Rd opposite civic address 195,,,,-63.507294,,7267,,,0
+,44.685375,mount Edward Rd opposite civic address 119,,,,-63.513969,,7266,,,0
+,44.680202,mount Edward Rd in front of civic address 16,,,,-63.524601,,7261,,,0
+,44.680332,mount Edward Rd in front of civic address 15,,,,-63.52422,,7260,,,0
+,44.681957,mount Edward Rd before civic address 58,,,,-63.521294,,7263,,,0
+,44.688145,mount Edward Rd before civic address 195,,,,-63.507599,,7262,,,0
+,44.679138,beacon St after civic address 3,,,,-63.542431,,6204,,,0
+,44.679165,beacon St before Harris Rd,,,,-63.542229,,6205,,,0
+,44.633797,beaufort Ave [southbound] after South St,,,,-63.595139,,6206,,,0
+,44.631451,beaufort Ave [northbound] in front of civic address 1021,,,,-63.59005,,6207,,,0
+,44.652344,bayers Rd [westbound] before Connaught Ave,,,,-63.614887,,6200,,,0
+,44.653576,bayers Rd [westbound] in front of Connolly St,,,,-63.612698,,6201,,,0
+,44.634712,robie St before and opposite Oakland,,,,-63.583958,,6202,,,0
+,44.653248,bayers Rd [eastbound] in front of Connolly St,,,,-63.612846,,6203,,,0
+,44.630924,beaufort Ave [southbound] before Inglis St,,,,-63.5891,,6208,,,0
+,44.632816,beaufort Ave [southbound] before Oakland Rd,,,,-63.59343,,6209,,,0
+,44.757957,cobequid Rd before civic address 160 To Sackville Terminal,,,,-63.661491,,8687,,,0
+,44.733692,hammonds Plains Rd opposite Glenn Arbour Way,,,,-63.78426,,6808,,,0
+,44.733784,hammonds Plains Rd in front of Glenn Arbour Way,,,,-63.784096,,6809,,,0
+,44.735813,hammonds Plains Rd after civic address 2211,,,,-63.793854,,6806,,,0
+,44.733067,hammonds Plains Rd after civic address 1684,,,,-63.762348,,6807,,,0
+,44.717411,hammonds Plains Rd after Basinview,,,,-63.683483,,6804,,,0
+,44.718971,hammonds Plains Rd after Bedford Hills,,,,-63.685738,,6805,,,0
+,44.727852,hammonds Plains Rd opposite Yankeetown Rd,,,,-63.816788,,6802,,,0
+,44.721195,hammonds Plains Rd opposite Brookshire Crt,,,,-63.688271,,6803,,,0
+,44.599968,greystone Dr [inbound] before Cranberry Crt,,,,-63.612572,,6800,,,0
+,44.727833,hammonds Plains Rd after Yankeetown Rd,,,,-63.816662,,6801,,,0
+,44.666672,portland Hills Dr in front of civic address 537,,,,-63.50795,,8839,,,0
+,44.665558,portland Hills Dr in front of Regal Luxury,,,,-63.505627,,8838,,,0
+,44.664314,portland Hills Dr in front of civic address 159,,,,-63.510265,,8835,,,0
+,44.665569,portland Hills Dr in front of civic address 8,,,,-63.515194,,8834,,,0
+,44.664097,portland Hills Dr in front of civic address 367,,,,-63.503891,,8837,,,0
+,44.663273,portland Hills Dr before civic address 257,,,,-63.507614,,8836,,,0
+,44.663956,portland Hills Dr in front of civic address 366,,,,-63.504219,,8831,,,0
+,44.665329,portland Hills Dr before civic address 460,,,,-63.506233,,8830,,,0
+,44.664818,portland Hills Dr before civic address 146,,,,-63.510571,,8833,,,0
+,44.663353,portland Hills Dr after civic address 276,,,,-63.506908,,8832,,,0
+,44.662498,lacewood Dr before Dunbrack St,,,,-63.65554,,7078,,,0
+,44.660351,lacewood Dr [eastbound] before Evans Ave,,,,-63.635254,,7079,,,0
+,44.663311,lacewood Dr in front of civic address 159,,,,-63.643612,,7074,,,0
+,44.663872,lacewood Dr before Bayview Ave,,,,-63.645535,,7075,,,0
+,44.664112,lacewood Dr before Cedarbrae Lane,,,,-63.648682,,7076,,,0
+,44.663227,lacewood Dr [westbound] before Dunbrack St,,,,-63.654144,,7077,,,0
+,44.66164,lacewood Dr after Radcliffe Dr,,,,-63.662727,,7070,,,0
+,44.661087,lacewood Dr after Radcliffe Dr,,,,-63.664402,,7071,,,0
+,44.662178,lacewood Dr after Willet St,,,,-63.658695,,7072,,,0
+,44.659855,lacewood Dr after and opposite Stratford Way,,,,-63.665707,,7073,,,0
+,44.658558,james St in front of civic address 30,,,,-63.743195,,6976,,,0
+,44.658707,james St before civic address 27,,,,-63.743156,,6977,,,0
+,44.688545,inverary Dr before Strath Ln,,,,-63.536205,,6974,,,0
+,44.646587,irving St before Pleasant St,,,,-63.543484,,6975,,,0
+,44.635208,inglis St opposite South Bland St,,,,-63.572784,,6972,,,0
+,44.694122,ilsley Ave opposite Civ 200 [to Bridge Terminal],,,,-63.583008,,6973,,,0
+,44.671803,richmond Manor Turning Loop [to Mumford],,,,-63.61618,,8165,,,0
+,44.724899,innovation Dr before Hammonds Plains Rd (to Bedford),,,,-63.696087,,6971,,,0
+,44.627693,ridge Valley Rd before Highfield St,,,,-63.619133,,8169,,,0
+,44.629822,ridge Valley Rd before Bromley Rd,,,,-63.621174,,8168,,,0
+,44.651295,joseph Howe Dr [southbound] in front of Bi-hi,,,,-63.630638,,6979,,,0
+,44.854393,beaverbank Rd in front of Sportsfield,,,,-63.684265,,8724,,,0
+,44.700024,ross Rd in front of civic address 36,,,,-63.460476,,8765,,,0
+,44.69603,ross Rd in front of civic address 156,,,,-63.458611,,8764,,,0
+,44.708462,highway 7 after civic address 1776,,,,-63.439407,,8767,,,0
+,44.703381,ross Rd [outbound] before Highway 7,,,,-63.46468,,8766,,,0
+,44.685116,ross Rd in front of civic address 436,,,,-63.453583,,8761,,,0
+,44.682392,cole Harbour Rd [outbound] before Ross Rd,,,,-63.454086,,8760,,,0
+,44.690784,ross Rd in front of civic address 284,,,,-63.455364,,8763,,,0
+,44.687263,ross Rd in front of civic address 370,,,,-63.453537,,8762,,,0
+,44.656082,maplewood Ave [outbound] before Norway Maple Dr,,,,-63.737453,,7180,,,0
+,44.656334,maplewood Ave [inbound] before Norway Maple Dr,,,,-63.737171,,7181,,,0
+,44.632957,margaret Rd before Mountain Rd,,,,-63.621788,,7182,,,0
+,44.633362,margaret Rd opposite civic address 4,,,,-63.62027,,7183,,,0
+,44.720066,brooks Dr opposite East Preston Rec Centre,,,,-63.432541,,8769,,,0
+,44.714714,highway 7 before Lower Governor St,,,,-63.435081,,8768,,,0
+,44.633305,osborne St in front of civic address 16,,,,-63.625854,,7186,,,0
+,44.634277,mayo St in front of civic address 7,,,,-63.624756,,7187,,,0
+,44.653816,willet St before Main Ave,,,,-63.646553,,8501,,,0
+,44.671066,thistle St in front of Dartmouth High Sch,,,,-63.572002,,8389,,,0
+,44.675686,thistle St in front of civic address 99,,,,-63.566895,,8388,,,0
+,44.672752,thistle St in front of civic address 23,,,,-63.570145,,8387,,,0
+,44.675568,thistle St after Mayflower St,,,,-63.566795,,8386,,,0
+,44.673515,thistle St after Maple St,,,,-63.569035,,8385,,,0
+,44.677689,thistle St after Chrichton Pk Rd,,,,-63.565147,,8384,,,0
+,44.674667,thistle St after Beech St,,,,-63.56778,,8383,,,0
+,44.684238,highfield Terminal Exit before Pinecrest Dr,,,,-63.588165,,8382,,,0
+,44.694466,taranaki Dr opposite civic address 171,,,,-63.494549,,8381,,,0
+,44.690754,taranaki Dr before civic address 278,,,,-63.49398,,8380,,,0
+,44.670784,portland St after Woodlawn Rd,,,,-63.531178,,8050,,,0
+,44.659439,windsor St [northbound] before and opposite Maxwell St,,,,-63.611431,,8549,,,0
+,44.698521,windmill Rd [inbound] before Wright Ave Metrolink,,,,-63.605427,,8548,,,0
+,44.631687,pleasant St opposite Shearwater Pmq's,,,,-63.521645,,8019,,,0
+,44.62957,pleasant St [southbound] opposite Nsp Sub Station,,,,-63.519402,,8018,,,0
+,44.677834,windmill Rd opposite Sunnydale Ave,,,,-63.592213,,8545,,,0
+,44.668045,pleasant St before Portland St civic address 61,,,,-63.559071,,8016,,,0
+,44.616924,pleasant St opposite Legion,,,,-63.500397,,8015,,,0
+,44.61417,pleasant St [southbound] opposite Langille's Lane,,,,-63.49741,,8014,,,0
+,44.641171,pleasant St [eastbound] opposite Imperial Refn,,,,-63.534054,,8013,,,0
+,44.623299,pleasant St [southbound] opposite Howard Ave,,,,-63.510181,,8012,,,0
+,44.644451,pleasant St [southbound] opposite Everette St,,,,-63.541286,,8011,,,0
+,44.653587,pleasant St [southbound] opposite Dartmouth General,,,,-63.548702,,8010,,,0
+,44.659622,valour Way - Dockyard 3rd [northbound] Stop,,,,-63.586994,,6572,,,0
+,44.655594,valour Way - Dockyard 3rd [southbound] Stop,,,,-63.581593,,6573,,,0
+,44.658024,valour Way - Dockyard 2nd [northbound] Stop,,,,-63.584816,,6570,,,0
+,44.657242,valour Way - Dockyard 2nd [southbound] Stop,,,,-63.583996,,6571,,,0
+,44.67733,dorothea Dr opposite Regal Rd,,,,-63.514988,,6576,,,0
+,44.68594,pinecrest Dr in front of civic address 106,,,,-63.586155,,7453,,,0
+,44.67881,dorothea Dr [westbound] before Topsail Blvd,,,,-63.512199,,6574,,,0
+,44.678143,dorothea Dr [westbound] opposite civic address 78,,,,-63.509274,,6575,,,0
+,44.641651,downs Ave before Milsom St,,,,-63.636845,,6578,,,0
+,44.771423,downsview opposite Wendy's,,,,-63.693176,,6579,,,0
+,44.685829,pinecrest Dr before Crystal Dr,,,,-63.584492,,7458,,,0
+,44.684921,pinecrest Dr before Primrose St,,,,-63.582642,,7459,,,0
+,44.653793,willet St after Main Ave,,,,-63.646755,,8493,,,0
+,44.656532,willet St after Glenforest Dr,,,,-63.649319,,8492,,,0
+,44.657204,willet St after Dunbrack St,,,,-63.651264,,8491,,,0
+,44.651932,willet St after Coronation Ave,,,,-63.645157,,8490,,,0
+,44.65794,willet St opposite Westridge Dr,,,,-63.653934,,8497,,,0
+,44.659756,willet St opposite Sheridan St,,,,-63.655788,,8496,,,0
+,44.656235,willet St opposite Glenforest Dr,,,,-63.649132,,8495,,,0
+,44.654415,willet St after Main Ave,,,,-63.647064,,8494,,,0
+,44.654877,willet St before Apollo Ct,,,,-63.64769,,8499,,,0
+,44.652718,willet St before Adelaide Ave,,,,-63.645615,,8498,,,0
+,44.674068,crichton Ave [eastbound] after Oak St,,,,-63.564701,,6536,,,0
+,44.672176,crichton Ave before St.peters Church,,,,-63.564514,,6537,,,0
+,44.676308,crichton Ave [eastbound] in front of civic address 90,,,,-63.563793,,6534,,,0
+,44.639069,south St [westbound] after Queen St,,,,-63.574318,,8292,,,0
+,44.638363,south St [eastbound] in front of civic address 5650,,,,-63.576443,,8295,,,0
+,44.639469,south St [westbound] in front of civic address 5283,,,,-63.572666,,8294,,,0
+,44.636826,south St [eastbound] in front of I.w.k Hospital,,,,-63.583618,,8297,,,0
+,44.636585,south St [eastbound] in front of civic address 5966,,,,-63.584106,,8296,,,0
+,44.649109,st Margarets Bay Rd opposite civic address 1996,,,,-63.719002,,6143,,,0
+,44.721622,basinview Dr opposite Roy Cr,,,,-63.678513,,6142,,,0
+,44.724796,basinview Dr opposite Granville Rd,,,,-63.682724,,6141,,,0
+,44.718277,basinview Dr opposite civic address 64,,,,-63.681187,,6140,,,0
+,44.637188,st Margarets Bay Rd after civic address 1505,,,,-63.700275,,6147,,,0
+,44.634914,st Margarets Bay Rd after civic address 1025,,,,-63.675137,,6146,,,0
+,44.645554,st Margarets Bay Rd in front of civic address 1813,,,,-63.712364,,6145,,,0
+,44.636368,st Margarets Bay Rd in front of civic address 1140,,,,-63.680588,,6144,,,0
+,44.648216,st Margarets Bay Rd after civic address 1939,,,,-63.717499,,6149,,,0
+,44.643787,st Margarets Bay Rd after civic address 1737,,,,-63.707901,,6148,,,0
+,44.689636,highfield Park Dr opposite civic address 21,,,,-63.586021,,6927,,,0
+,44.657375,gottingen St before North St,,,,-63.591476,,6781,,,0
+,44.654625,gottingen St [southbound] before Gerrish St,,,,-63.587482,,6780,,,0
+,44.661526,gottingen St [southbound] before Russell St,,,,-63.597534,,6783,,,0
+,44.661446,gottingen St [northbound] before Russell St,,,,-63.596992,,6782,,,0
+,44.658566,gottingen St [northbound] opposite Black St,,,,-63.5928,,6785,,,0
+,44.716057,hammonds Plains Rd in front of civic address 69,,,,-63.681206,,6784,,,0
+,44.655708,gottingen St [northbound] opposite Sunrise Manor,,,,-63.588676,,6787,,,0
+,44.653542,gottingen St [southbound] opposite Prince William St,,,,-63.585884,,6786,,,0
+,44.724979,innovation Dr [to Lacewood],,,,-63.696285,,6788,,,0
+,44.688202,highfield Park Dr in front of civic address 60,,,,-63.588947,,6920,,,0
+,44.683941,highfield Park Dr before Terminal,,,,-63.589638,,6923,,,0
+,44.688599,highfield Park Dr in front of civic address 35,,,,-63.58778,,6922,,,0
+,44.691921,caledonia Rd before Paul David Ct,,,,-63.532936,,6369,,,0
+,44.685406,caledonia Rd before Main St,,,,-63.529888,,6368,,,0
+,44.69043,caledonia Rd before Strath Lane,,,,-63.532291,,6363,,,0
+,44.695763,caledonia Rd before Gourok Ave,,,,-63.535355,,6362,,,0
+,44.69997,caledonia Rd after Montebello Dr,,,,-63.537922,,6361,,,0
+,44.689198,caledonia Rd after and opposite Westwood Dr,,,,-63.531567,,6360,,,0
+,44.693466,caledonia Rd before Dunbarton Ave,,,,-63.533905,,6367,,,0
+,44.687275,caledonia Rd before Roleika Dr,,,,-63.530716,,6366,,,0
+,44.702045,breeze Dr before Appian Way,,,,-63.539467,,6365,,,0
+,44.698044,caledonia Rd in front of civic address 212,,,,-63.536655,,6364,,,0
+,44.686131,micmac Terminal [inbound],,,,-63.561821,,7218,,,0
+,44.68618,micmac Terminal [outbound],,,,-63.561489,,7219,,,0
+,44.684551,micmac Blvd in front of Manor Apts,,,,-63.556698,,7210,,,0
+,44.686699,micmac Blvd after Horizon Ct,,,,-63.564308,,7211,,,0
+,44.722546,bluewater Rd in front of civic address 107,,,,-63.710236,,7212,,,0
+,44.686409,micmac Blvd before Kings Apts,,,,-63.564857,,7213,,,0
+,44.684803,micmac Blvd after Woodland Ave,,,,-63.567871,,7214,,,0
+,44.685165,micmac Blvd before Woodland Ave,,,,-63.568176,,7215,,,0
+,44.721069,bluewater Rd in front of civic address 155,,,,-63.713524,,7216,,,0
+,44.718658,bluewater Rd in front of civic address 217,,,,-63.715073,,7217,,,0
+,44.669888,bedford Hwy before Sherbrooke Dr,,,,-63.641006,,6217,,,0
+,44.672749,bedford Hwy in front of Melody [msvu],,,,-63.644279,,6216,,,0
+,44.777344,beaver Bank Rd in front of civic address 5,,,,-63.695236,,6215,,,0
+,44.780457,beaver Bank Rd before Gloria Ave,,,,-63.692917,,6214,,,0
+,44.780476,beaver Bank Rd after Gloria Ave,,,,-63.693119,,6213,,,0
+,44.777309,beaver Bank Rd after Judy Ave,,,,-63.695477,,6212,,,0
+,44.634007,beaufort Ave [northbound] before South St,,,,-63.59507,,6211,,,0
+,44.632492,beaufort Ave [northbound] before Oakland Rd,,,,-63.592297,,6210,,,0
+,44.672913,bedford Hwy [outbound] opposite Msvu,,,,-63.644367,,6219,,,0
+,44.721004,bluewater Rd opposite Command Ct,,,,-63.713383,,6218,,,0
+,44.730793,hammonds Plains Rd before civic address 1541,,,,-63.754322,,6819,,,0
+,44.721283,hammonds Plains Rd in front of Brookshire Crt,,,,-63.688198,,6818,,,0
+,44.732533,hammonds Plains Rd after Lucasville Rd,,,,-63.760208,,6811,,,0
+,44.735683,hammonds Plains Rd opposite Pockwock Rd,,,,-63.794487,,6810,,,0
+,44.722095,hammonds Plains Rd after Northwood Rd,,,,-63.823257,,6813,,,0
+,44.725952,hammonds Plains Rd after Crestfield Dr,,,,-63.740688,,6812,,,0
+,44.707539,hammonds Plains Rd after Stillwater Lake Dr,,,,-63.848854,,6815,,,0
+,44.714043,hammonds Plains Rd after Rockcliffe Crt,,,,-63.83432,,6814,,,0
+,44.727139,hammonds Plains Rd in front of M & S Bakery,,,,-63.744724,,6817,,,0
+,44.726608,hammonds Plains Rd after St.george Blvd,,,,-63.743229,,6816,,,0
+,44.794281,sackville Dr before Old Sackville Rd,,,,-63.720177,,7324,,,0
+,44.766888,sackville Dr before and opposite Leaside Dr,,,,-63.682976,,7325,,,0
+,44.796158,sackville Dr before Orchard Dr,,,,-63.731224,,7326,,,0
+,44.764267,sackville Dr before Pinehill Dr,,,,-63.67662,,7327,,,0
+,44.782104,sackville Dr before Lucasville Rd,,,,-63.710991,,7320,,,0
+,44.785576,sackville Dr before Melham Dr,,,,-63.713253,,7321,,,0
+,44.781487,sackville Dr before Millwood Dr,,,,-63.707649,,7322,,,0
+,44.763447,sackville Dr before Oakdale Dr,,,,-63.674992,,7323,,,0
+,44.764378,sackville Dr opposite Pinehill Dr,,,,-63.677048,,7328,,,0
+,44.769913,sackville Dr before Riverside Dr,,,,-63.689236,,7329,,,0
+,44.65892,baker Dr opposite Kent Building Supplies,,,,-63.529842,,8848,,,0
+,44.661766,baker Dr after Lindenwood,,,,-63.529797,,8849,,,0
+,44.668812,portland Hills Dr in front of civic address 621,,,,-63.507622,,8840,,,0
+,44.667542,baker Dropposite civic address 59,,,,-63.531387,,8841,,,0
+,44.66539,baker Dr in front of civic address 76,,,,-63.53019,,8842,,,0
+,44.663597,baker Dr opposite civic address 105,,,,-63.529972,,8843,,,0
+,44.660812,baker Dr after civic address 144,,,,-63.530388,,8844,,,0
+,44.658779,baker Dr in front of Kent Buliding Supplies,,,,-63.530338,,8845,,,0
+,44.656361,baker Dr after Basswood,,,,-63.529144,,8846,,,0
+,44.656239,baker Dr before Basswood,,,,-63.528572,,8847,,,0
+,44.594044,old Sambro Rdin front ofleiblen Dr,,,,-63.638489,,7669,,,0
+,44.585533,old Sambro Rdin front ofcivic 702,,,,-63.641132,,7668,,,0
+,44.554737,old Sambro Rdin front ofgospel Light Church,,,,-63.640453,,7661,,,0
+,44.545799,old Sambro Rdin front offancyview Dr,,,,-63.641106,,7660,,,0
+,44.570057,old Sambro Rdoppositeharriet Lane,,,,-63.634262,,7663,,,0
+,44.566654,old Sambro Rdin front ofvenus Dr,,,,-63.636024,,7662,,,0
+,44.577583,old Sambro Rdin front ofcivic 1000,,,,-63.63615,,7665,,,0
+,44.572388,old Sambro Rdin front ofcivic 1060,,,,-63.632431,,7664,,,0
+,44.581715,old Sambro Rdin front ofduggan Lane,,,,-63.640202,,7667,,,0
+,44.579605,old Sambro Rdin front ofweavers Lake Dr,,,,-63.638176,,7666,,,0
+,44.662971,lacewood Dr after and opposite Gateway Rd,,,,-63.642937,,7069,,,0
+,44.661144,lacewood Dr after Glenforest Dr,,,,-63.638283,,7068,,,0
+,44.663216,lacewood Dr after Dunbrack St,,,,-63.654053,,7067,,,0
+,44.66378,lacewood Dr after Clayton Park Dr,,,,-63.645332,,7066,,,0
+,44.66201,lacewood Dr after Braeside Lane,,,,-63.641102,,7065,,,0
+,44.659584,lacewood Dr [outbound] after Stratford Way,,,,-63.666653,,7064,,,0
+,44.661148,lacewood Dr [outbound] after Vimy St,,,,-63.636303,,7063,,,0
+,44.671471,knightsridge Dr before Flamingo Dr,,,,-63.660229,,7062,,,0
+,44.671604,knightsridge Dr after Flamingo Dr,,,,-63.660252,,7061,,,0
+,44.670322,knightsridge Dr after Dunbrack St,,,,-63.662075,,7060,,,0
+,44.631897,inglis St after Bellvue Ave,,,,-63.585899,,6961,,,0
+,44.633228,inglis St opposite Smu,,,,-63.580746,,6960,,,0
+,44.635895,inglis St before Barrington St,,,,-63.569874,,6963,,,0
+,44.632648,inglis St after Robie St,,,,-63.582825,,6962,,,0
+,44.633152,inglis St before Can Martyrs Church,,,,-63.58073,,6965,,,0
+,44.631954,inglis St before Bellevue Ave,,,,-63.586124,,6964,,,0
+,44.635078,inglis St before South Bland St,,,,-63.572781,,6967,,,0
+,44.632759,inglis St before Robie St,,,,-63.582657,,6966,,,0
+,44.63369,inglis St [eastbound] before Tower Rd,,,,-63.578423,,6969,,,0
+,44.634483,inglis St [eastbound] before South Park St,,,,-63.575596,,6968,,,0
+,44.640579,quinpool Rd [westbound] opposite Horseshoe Island,,,,-63.613907,,8154,,,0
+,44.64159,quinpool Rd [eastbound] opposite Quinn St,,,,-63.609413,,8155,,,0
+,44.641983,quinpool Rd [eastbound] before Woodlawn Terr,,,,-63.608185,,8152,,,0
+,44.641129,quinpool Rd opposite civic address 7111,,,,-63.616531,,8153,,,0
+,44.646839,quinpool Rd [eastbound] before Windsor St,,,,-63.591663,,8150,,,0
+,44.647121,quinpool Rd [westbound] before Windsor St,,,,-63.591301,,8151,,,0
+,44.790909,beaverbank Rd after Stokil Dr,,,,-63.692215,,8710,,,0
+,44.79636,beaverbank Rd in front of civic address 273,,,,-63.690071,,8711,,,0
+,44.67593,merrimac Dr after Silistria Dr,,,,-63.489796,,7199,,,0
+,44.676884,merrimac Dr after Forest Hills Pkwy,,,,-63.490902,,7198,,,0
+,44.807209,beaverbank Rd before Majestic,,,,-63.68808,,8714,,,0
+,44.813271,beaverbank Rd in front of civic address 619,,,,-63.686058,,8715,,,0
+,44.817745,beaverbank Rd in front of civic address 743,,,,-63.684353,,8716,,,0
+,44.821999,beaverbank Rd in front of civic address 849,,,,-63.680965,,8717,,,0
+,44.725834,meadowbrook Dr before Pleasant St,,,,-63.669807,,7193,,,0
+,44.726822,meadowbrook Dr in front of civic address 60,,,,-63.67305,,7192,,,0
+,44.72728,meadowbrook Dr in front of civic address 105,,,,-63.67765,,7191,,,0
+,44.727051,meadowbrook Dr after Beech St,,,,-63.67725,,7190,,,0
+,44.674507,victoria Rd [northbound] before Boland Rd,,,,-63.576153,,7197,,,0
+,44.72694,meadowbrook Dr opposite civic address 60,,,,-63.673061,,7195,,,0
+,44.725903,meadowbrook Dr opposite Pleasant St,,,,-63.670235,,7194,,,0
+,44.668697,windmill Rd opposite Dawson St,,,,-63.582958,,8538,,,0
+,44.672668,windmill Rd opposite Elmwood Ave,,,,-63.588924,,8539,,,0
+,44.668449,portland St before Joffere St,,,,-63.543957,,8028,,,0
+,44.802685,fall River Park And Ride [outbound],,,,-63.597622,,8029,,,0
+,44.626621,point Pleasant Dr [eastbound] opposite Young St,,,,-63.572784,,8022,,,0
+,44.627506,point Pleasant Park opposite Canteen,,,,-63.566086,,8023,,,0
+,44.703896,lake Major Rd before Hwy #7,,,,-63.467102,,8020,,,0
+,44.627003,point Pleasant Dr [westbound] in front of Young St,,,,-63.571716,,8021,,,0
+,44.676571,poplar Dr before civic address 117,,,,-63.498199,,8026,,,0
+,44.674622,poplar Dr before Evergreen Dr,,,,-63.497364,,8027,,,0
+,44.676628,poplar Dr in front of civic address 118,,,,-63.498386,,8024,,,0
+,44.674358,poplar Dr in front of civic address 62,,,,-63.497444,,8025,,,0
+,44.670197,peddar's Way before Bow St,,,,-63.544205,,7441,,,0
+,44.644726,atholea Dr in front of Caldwell Rd,,,,-63.47987,,7440,,,0
+,44.672031,peddar's Way before civic address 47,,,,-63.544907,,7443,,,0
+,44.670277,peddar's Way opposite Bow St,,,,-63.543987,,7442,,,0
+,44.659679,valour Way - Dockyard 1st [southbound] Stop,,,,-63.587364,,6569,,,0
+,44.655708,valour Way - Dockyard 1st [northbound] Stop,,,,-63.581364,,6568,,,0
+,44.711987,pettipas Dr after Vidito Dr,,,,-63.610306,,7447,,,0
+,44.670631,penhorn Terminal [downtown],,,,-63.538811,,7446,,,0
+,44.656158,desmond Ave [northbound] before Scot St,,,,-63.627586,,6565,,,0
+,44.654499,desmond Ave [southbound] before Bayers Rd,,,,-63.628098,,6564,,,0
+,44.723911,innovation Dr before Gary Martin,,,,-63.703777,,6567,,,0
+,44.614834,dentith Rd before Lewis St,,,,-63.620613,,6561,,,0
+,44.613266,dentith Rd before Lamark St,,,,-63.618317,,6560,,,0
+,44.65451,desmond Ave [northbound] in front of Rear Entrance To Brsc,,,,-63.627884,,6563,,,0
+,44.614826,dentith Rd opposite Lewis St,,,,-63.620724,,6562,,,0
+,44.638481,robie St [northbound] after University Ave,,,,-63.585762,,8187,,,0
+,44.639755,robie St [southbound] after Spring Garden Rd,,,,-63.58675,,8186,,,0
+,44.585117,herring Cove Rd in front of civic address 749,,,,-63.588833,,6879,,,0
+,44.586918,herring Cove Rd in front of civic address 725,,,,-63.591133,,6878,,,0
+,44.71743,waverley Rd in front of civic address 451,,,,-63.545319,,8444,,,0
+,44.72723,waverley Rd in front of civic address 765,,,,-63.542091,,8445,,,0
+,44.708805,waverley Rd before Breeze Dr,,,,-63.548492,,8446,,,0
+,44.701229,waverley Rd before Mountbatten Ave,,,,-63.548351,,8447,,,0
+,44.705223,waverley Rd after Lethbridge Ave,,,,-63.549484,,8440,,,0
+,44.698532,waverley Rd after Locks Rd,,,,-63.547825,,8441,,,0
+,44.693836,waverley Rd after Mic Mac Dr,,,,-63.546829,,8442,,,0
+,44.730827,waverley Rd after civic address 867,,,,-63.549606,,8443,,,0
+,44.693848,waverley Rd opposite civic address 208,,,,-63.547047,,8448,,,0
+,44.738297,waverley Rd in front of civic address 1007,,,,-63.554638,,8449,,,0
+,44.606071,herring Cove Rd in front of civic address 457,,,,-63.613903,,6874,,,0
+,44.702915,hwy #7 opposite Cherrybrook Rd,,,,-63.470146,,6943,,,0
+,44.642475,st Margarets Bay Rd before Governor's Lake Rd,,,,-63.707287,,6178,,,0
+,44.635818,st Margarets Bay Rd opposite Sheppards Run,,,,-63.677128,,6179,,,0
+,44.651218,st Margarets Bay Rd before Devonshire Dr,,,,-63.723522,,6176,,,0
+,44.639675,st Margarets Bay Rd before Donovon Dr,,,,-63.705498,,6177,,,0
+,44.657211,st Margarets Bay Rd before civic address 2357,,,,-63.736183,,6174,,,0
+,44.650944,st Margarets Bay Rd before Clearwater Dr,,,,-63.722794,,6175,,,0
+,44.648708,st Margarets Bay Rd before civic address 1966,,,,-63.718586,,6172,,,0
+,44.653645,st Margarets Bay Rd before civic address 2177,,,,-63.728279,,6173,,,0
+,44.647423,st Margarets Bay Rd in front of Timberlea Vil Pkwy,,,,-63.715931,,6170,,,0
+,44.638992,st Margarets Bay Rd before Alderwood Dr,,,,-63.628456,,6171,,,0
+,44.652283,gottingen St [northbound] before Cornwallis St,,,,-63.583729,,6778,,,0
+,44.653309,gottingen St [northbound] before Cunard St,,,,-63.58522,,6779,,,0
+,44.65575,gottingen St [southbound] in front of Sunrise Manor,,,,-63.589119,,6774,,,0
+,44.654346,gottingen St [northbound] before Ahern Manor,,,,-63.586685,,6775,,,0
+,44.660133,gottingen St before Almon St,,,,-63.595448,,6776,,,0
+,44.658432,gottingen St [southbound] before Black St,,,,-63.593018,,6777,,,0
+,44.662216,gottingen St [southbound] after Young St,,,,-63.598549,,6770,,,0
+,44.650841,gottingen St [southbound] before Cogswell St,,,,-63.581764,,6771,,,0
+,44.620258,exhibition Park - Park & Ride,,,,-63.664608,,6772,,,0
+,44.65065,gottingen St [northbound] after Cogswell St,,,,-63.581276,,6773,,,0
+,44.768692,first Lake Dr before Cobequid Rd,,,,-63.644432,,6688,,,0
+,44.77132,first Lake Dr before Crimson Dr,,,,-63.657684,,6689,,,0
+,44.771332,first Lake Dr after civic address 373,,,,-63.657909,,6680,,,0
+,44.768875,first Lake Dr after Cobequid Rd,,,,-63.644554,,6681,,,0
+,44.777481,first Lake Dr after Lakehead Ct,,,,-63.672871,,6682,,,0
+,44.776581,first Lake Dr after St.francis,,,,-63.664204,,6683,,,0
+,44.776722,first Lake Dr after and opposite Quaker Cr,,,,-63.666386,,6684,,,0
+,44.772869,first Lake Dr before Cabot Cr,,,,-63.659077,,6685,,,0
+,44.774166,first Lake Dr before Cavendish Dr,,,,-63.660511,,6686,,,0
+,44.774288,first Lake Dr before Cavendish Dr,,,,-63.661114,,6687,,,0
+,44.697926,caledonia Rd after civic address 207,,,,-63.536568,,6356,,,0
+,44.693485,caledonia Rd after Dunbarton Ave,,,,-63.533878,,6357,,,0
+,44.646599,caldwell Rd in front of civic address 692,,,,-63.481495,,6354,,,0
+,44.687283,caledonia Rd after Roleika Dr,,,,-63.530663,,6355,,,0
+,44.660099,caldwell Rd in front of civic address 307,,,,-63.492531,,6352,,,0
+,44.668404,caldwell Rd before civic address 61,,,,-63.500748,,6353,,,0
+,44.662788,caldwell Rd before Deerbrooke Dr,,,,-63.494728,,6350,,,0
+,44.669708,caldwell Rd before Cole Harbour Rd,,,,-63.501709,,6351,,,0
+,44.696323,caledonia Rd opposite Gourok Ave,,,,-63.535675,,6358,,,0
+,44.685513,caledonia Rd after Main St,,,,-63.529873,,6359,,,0
+,44.653629,bayers Rd [westbound] in front of Bayers Rd Centre,,,,-63.627605,,6194,,,0
+,44.65506,bayers Rd [eastbound] after Oxford St,,,,-63.610043,,6195,,,0
+,44.655178,bayers Rd [westbound] before Oxford St,,,,-63.609978,,6196,,,0
+,44.652637,bayers Rd [eastbound] in front of Romans Ave,,,,-63.621853,,6197,,,0
+,44.659409,st Margarets Bay Rd after James St,,,,-63.739929,,6190,,,0
+,44.656532,bayers Rd [eastbound] before Windsor St,,,,-63.607964,,6191,,,0
+,44.656467,bayers Rd [westbound] after Windsor St,,,,-63.608181,,6192,,,0
+,44.651516,bayers Rd [eastbound] before Coleman Ct,,,,-63.617672,,6193,,,0
+,44.652786,bayers Rd [westbound] after Romans Ave,,,,-63.621727,,6198,,,0
+,44.651936,bayers Rd [westbound] in front of civic address 6779,,,,-63.61824,,6199,,,0
+,44.677414,ellenvale Ave in front of civic address 54,,,,-63.520462,,6629,,,0
+,44.684704,micmac Blvd opposite Manor Apts,,,,-63.55703,,7209,,,0
+,44.778614,metropolitan Ave opposite Met Ball Field,,,,-63.674015,,7208,,,0
+,44.675461,merrimac Dr opposite civic address 8,,,,-63.486679,,7203,,,0
+,44.675911,merrimac Dr before civic address 87,,,,-63.489597,,7202,,,0
+,44.675434,merrimac Dr before Arklow Dr,,,,-63.486477,,7201,,,0
+,44.676884,merrimac Dr in front of civic address 145,,,,-63.491547,,7200,,,0
+,44.778667,metropolitan Ave in front of Met Ball Field,,,,-63.674191,,7207,,,0
+,44.781422,metropolitan Ave after Polara Dr,,,,-63.673042,,7206,,,0
+,44.693928,ilsley Transit Center,,,,-63.583134,,7205,,,0
+,44.781235,metropolitan Ave before Polara Dr,,,,-63.673283,,7204,,,0
+,44.690662,bedford Hwy opposite Kent Ave,,,,-63.659851,,6222,,,0
+,44.69236,bedford Hwy opposite Lodge Dr,,,,-63.660343,,6223,,,0
+,44.702305,bedford Hwy opposite Larry Uteck Blvd,,,,-63.661411,,6220,,,0
+,44.704773,bedford Hwy opposite Fern Ave,,,,-63.663105,,6221,,,0
+,44.7341,bedford Hwy opposite Rocky Lake Dr,,,,-63.655724,,6226,,,0
+,44.72662,bedford Hwy opposite Spring Ave,,,,-63.666161,,6227,,,0
+,44.706757,bedford Hwy in front of civic address 748,,,,-63.664742,,6224,,,0
+,44.699081,macdonald Ave in front of Nscsa,,,,-63.595299,,6225,,,0
+,44.731358,bedford Hwy in front of Bedford Tower,,,,-63.659462,,6228,,,0
+,44.720165,bedford Hwy in front of civic address 1157,,,,-63.672123,,6229,,,0
+,44.641243,quinpool Rd before Macdonald St,,,,-63.610905,,8143,,,0
+,44.67915,john Stewart Dr before 1st Inglewood Cr,,,,-63.481392,,6997,,,0
+,44.642845,quinpool Rd before Newton St,,,,-63.606167,,8145,,,0
+,44.686005,john Stewart Dr after Auburn Dr,,,,-63.486141,,6991,,,0
+,44.645069,quinpool Rd before and in front of Preston St,,,,-63.598057,,8147,,,0
+,44.682068,john Stewart Dr after 2nd Inglewood Cr,,,,-63.483559,,6993,,,0
+,44.769722,sackville Dr opposite Riverside Dr,,,,-63.689228,,7337,,,0
+,44.785404,sackville Dr opposite Melham Dr,,,,-63.713017,,7336,,,0
+,44.7985,sackville Dr opposite civic address 1815,,,,-63.734631,,7335,,,0
+,44.79631,sackville Dr before Orchard Dr,,,,-63.731186,,7334,,,0
+,44.753342,sackville Dr in front of Twelve Mile House Ln,,,,-63.665421,,7333,,,0
+,44.781071,sackville Dr before Stanley St,,,,-63.700493,,7332,,,0
+,44.760597,sackville Dr before Skyridge Ave,,,,-63.671997,,7331,,,0
+,44.758823,sackville Dr before Rock Church,,,,-63.669296,,7330,,,0
+,44.784241,nordic Cr after Stokil Dr,,,,-63.679306,,7339,,,0
+,44.753395,sackville Dr opposite Twelve Mile House Ln,,,,-63.665257,,7338,,,0
+,44.708191,wright Ave after Williams Ave,,,,-63.584591,,8859,,,0
+,44.709061,wright Ave after John Savage Ave,,,,-63.578548,,8858,,,0
+,44.700451,commodore Dr after Country View Dr,,,,-63.565956,,8853,,,0
+,44.668705,baker Dr in front of civic address 35,,,,-63.531242,,8852,,,0
+,44.666439,baker Dr after Coldstream,,,,-63.530334,,8851,,,0
+,44.663555,baker Dr in front of civic address 105,,,,-63.52948,,8850,,,0
+,44.709873,wright Ave after Burridge,,,,-63.575344,,8857,,,0
+,44.710224,wright Ave after Wilkinson,,,,-63.56982,,8856,,,0
+,44.707737,findlay Dr after Shubie Dr,,,,-63.5662,,8855,,,0
+,44.704273,findlay Dr after Mcclure Close,,,,-63.568501,,8854,,,0
+,44.665771,king St [northbound] after Portland St,,,,-63.567051,,7058,,,0
+,44.666409,king St [northbound] before Ochterloney St,,,,-63.568176,,7059,,,0
+,44.69083,kennedy Dr [eastbound] in front of civic address 37,,,,-63.528378,,7052,,,0
+,44.689709,kennedy Dr [eastbound] in front of civic address 55a,,,,-63.527374,,7053,,,0
+,44.672466,kencrest Ave [southbound] before Glebe St,,,,-63.609657,,7050,,,0
+,44.691357,kennedy Dr [westbound] after Rolieka Dr,,,,-63.531227,,7051,,,0
+,44.565525,ketch Harbour Rd after civic address 67,,,,-63.566277,,7056,,,0
+,44.690399,kincardine Dr [southbound] after Greenoch Dr,,,,-63.536415,,7057,,,0
+,44.569775,ketch Harbour Rd opposite civic address 18,,,,-63.567657,,7054,,,0
+,44.567795,ketch Harbour Rd after civic address 39,,,,-63.566654,,7055,,,0
+,44.675903,parkland Dr opposite civic address 634,,,,-63.677128,,9026,,,0
+,44.646305,quinpool Rd [eastbound] before Vernon St,,,,-63.59362,,8149,,,0
+,44.64534,quinpool Rd [westbound] before Preston St,,,,-63.597752,,8148,,,0
+,44.686111,john Stewart Dr before Auburn Dr,,,,-63.485874,,6998,,,0
+,44.679207,john Stewart Dr opposite civic address 153,,,,-63.481693,,6999,,,0
+,44.651142,cogswell St [eastbound] after Albermarle St,,,,-63.577911,,8639,,,0
+,44.658581,macdonald Bridge Exit Ramp,,,,-63.589745,,8638,,,0
+,44.670254,pehnorn Terminal [inbound] 159 Metrolink,,,,-63.538906,,8637,,,0
+,44.684643,john Stewart Dr after Gammon Cr,,,,-63.484726,,6995,,,0
+,44.683949,john Stewart Dr before Roseway Ct,,,,-63.484638,,6996,,,0
+,44.656796,young St [westbound] before Windsor St,,,,-63.606297,,8634,,,0
+,44.680431,john Stewart Dr in front of civic address 293,,,,-63.48267,,6990,,,0
+,44.661427,young St [eastbound] before Isleville St,,,,-63.599945,,8632,,,0
+,44.682224,john Stewart Dr opposite and after Tamara Dr,,,,-63.483849,,6992,,,0
+,44.660484,young St [eastbound] before Agricola St,,,,-63.601223,,8630,,,0
+,44.656029,halifax West High School,,,,-63.663879,,8703,,,0
+,44.656128,astral Jr High School [greenwich St],,,,-63.479172,,8702,,,0
+,44.799061,sackville Dr after civic address 1815,,,,-63.735077,,8701,,,0
+,44.64962,gesner St in front of Fairview Junior High,,,,-63.647175,,8700,,,0
+,44.681782,kearney Lake Rd opposite St Peters Church,,,,-63.661087,,8706,,,0
+,44.740658,rocky Lake Rd in front of Bedford Jr High,,,,-63.643154,,8705,,,0
+,44.740593,rocky Lake Rd opposite Bedford Jr High,,,,-63.643002,,8704,,,0
+,44.783287,beaverbank Rd after Glendale Dr,,,,-63.691654,,8709,,,0
+,44.661301,clayton Park Junior High,,,,-63.643085,,8708,,,0
+,44.667671,portland St [eastbound] after Canal St,,,,-63.563049,,8035,,,0
+,44.663387,portland Estates Blvd West before Old Birch Rd,,,,-63.517662,,8034,,,0
+,44.671841,portland St [eastbound] after Eisener Dr,,,,-63.524666,,8037,,,0
+,44.669304,portland St [eastbound] after Chestnut Ln,,,,-63.54282,,8036,,,0
+,44.664886,portland Estates Blvd West in front of civic address 51,,,,-63.51627,,8031,,,0
+,44.802776,fall River Park And Ride [inbound],,,,-63.597458,,8030,,,0
+,44.668732,portland St [westbound] after Hawthorne St,,,,-63.55954,,8039,,,0
+,44.6674,portland St [eastbound] after Gaston Rd,,,,-63.544464,,8038,,,0
+,44.677982,windmill Rd before Sunnydale Ave,,,,-63.592587,,8529,,,0
+,44.700523,windmill Rd before Ralston Ave,,,,-63.606911,,8528,,,0
+,44.672634,windmill Rd before Elmwood Ave,,,,-63.588799,,8523,,,0
+,44.702152,windmill Rd before Dawn Dr,,,,-63.608299,,8522,,,0
+,44.68261,windmill Rd before civic address 395,,,,-63.597321,,8521,,,0
+,44.697563,windmill Rd in front of civic address 618,,,,-63.60376,,8520,,,0
+,44.6875,windmill Rd before Princess Margaret Blvd,,,,-63.599247,,8527,,,0
+,44.676403,windmill Rd before Nivens Ave,,,,-63.591,,8526,,,0
+,44.670795,windmill Rd before Jamieson Dr,,,,-63.584175,,8525,,,0
+,44.671646,windmill Rd before Henry St,,,,-63.587139,,8524,,,0
+,44.682178,cranberry Cr after civic address 67,,,,-63.50214,,6518,,,0
+,44.686546,cranberry Cr after Orquel Cr,,,,-63.503792,,6519,,,0
+,44.611565,cow Bay Rd after Oceanlea Dr,,,,-63.475834,,6510,,,0
+,44.611954,cow Bay Rd before Briarwood Dr,,,,-63.487869,,6511,,,0
+,44.611217,cow Bay Rd before Garrison Dr,,,,-63.480083,,6512,,,0
+,44.610744,cow Bay Rd before Yorks Ln,,,,-63.484539,,6513,,,0
+,44.632092,cowie Hill in front of civic address 41,,,,-63.620262,,6514,,,0
+,44.631393,cowie Hill in front of Seniors Manor,,,,-63.621822,,6515,,,0
+,44.632141,cowie Hill opposite civic address 41,,,,-63.619732,,6516,,,0
+,44.631325,cowie Hill opposite Seniors Manor,,,,-63.622013,,6517,,,0
+,44.725975,waverley Rd in front of civic address 742,,,,-63.541618,,8457,,,0
+,44.724602,waverley Rd in front of civic address 732,,,,-63.542095,,8456,,,0
+,44.71991,waverley Rd in front of civic address 468,,,,-63.544975,,8455,,,0
+,44.714912,waverley Rd in front of civic address 409,,,,-63.545677,,8454,,,0
+,44.711479,waverley Rd in front of civic address 365,,,,-63.547539,,8453,,,0
+,44.708851,waverley Rd in front of civic address 342,,,,-63.548252,,8452,,,0
+,44.704872,waverley Rd in front of civic address 306,,,,-63.549198,,8451,,,0
+,44.695705,waverley Rd in front of civic address 221,,,,-63.547634,,8450,,,0
+,44.743198,waverley Rd in front of Turning Loop,,,,-63.559948,,8459,,,0
+,44.728699,waverley Rd in front of civic address 804,,,,-63.54472,,8458,,,0
+,44.677013,circassion Dr in front of civic address 19,,,,-63.493008,,6424,,,0
+,44.678871,circassion Dr in front of civic address 78,,,,-63.494438,,6425,,,0
+,44.678787,circassion Dr in front of civic address 85,,,,-63.494213,,6426,,,0
+,44.679432,circassion Dr opposite civic address 134,,,,-63.496941,,6427,,,0
+,44.708336,cherry Brook Rd in front of civic address 202,,,,-63.478546,,6420,,,0
+,44.679031,circassion Dr after civic address 199,,,,-63.499557,,6421,,,0
+,44.678879,circassion Dr after Poplar Dr,,,,-63.499535,,6422,,,0
+,44.679497,circassion Dr in front of civic address 110,,,,-63.495991,,6423,,,0
+,44.676968,circassion Dr opposite civic address 19,,,,-63.493134,,6428,,,0
+,44.760242,cobequid Rd [outbound] after Glendale Dr,,,,-63.659096,,6429,,,0
+,44.639526,st Margarets Bay Rd in front of civic address 46,,,,-63.6269,,6169,,,0
+,44.716873,bluewater Rd opposite civic address 223,,,,-63.715778,,6168,,,0
+,44.645725,st Margarets Bay Rd in front of civic address 1820,,,,-63.712727,,6161,,,0
+,44.634975,st Margarets Bay Rd after Lakelands Blvd,,,,-63.669754,,6160,,,0
+,44.637821,st Margarets Bay Rd in front of Post Office,,,,-63.697186,,6163,,,0
+,44.636536,st Margarets Bay Rd [inbound] in front of civic address 1210,,,,-63.684326,,6162,,,0
+,44.637833,st Margarets Bay Rd in front of civic address 1569,,,,-63.703609,,6165,,,0
+,44.638012,st Margarets Bay Rd in front of civic address 1370,,,,-63.693089,,6164,,,0
+,44.639477,st Margarets Bay Rd in front of civic address 1618,,,,-63.705463,,6167,,,0
+,44.638187,st Margarets Bay Rd in front of civic address 1578,,,,-63.70422,,6166,,,0
+,44.657761,gottingen St [northbound] after North St,,,,-63.591732,,6769,,,0
+,44.660164,gottingen St in front of Stadacona Entr.,,,,-63.595158,,6768,,,0
+,44.719711,gloria Mccluskey Ave before Colford Ave,,,,-63.589794,,6767,,,0
+,44.719917,gloria Mccluskey Ave after civic address 80,,,,-63.586456,,6766,,,0
+,44.718098,gloria Mccluskey Ave after Akerley Blvd,,,,-63.583153,,6765,,,0
+,44.65863,glenforest Dr opposite Southill Dr,,,,-63.643593,,6764,,,0
+,44.658756,glenforest Dr before Southill Dr,,,,-63.64349,,6763,,,0
+,44.657326,glenforest Dr before Hillwood Cr,,,,-63.646183,,6762,,,0
+,44.659664,glenforest Dr before Smart St,,,,-63.63987,,6761,,,0
+,44.659737,glenforest Dr after and opposite Evans Ave,,,,-63.639706,,6760,,,0
+,44.610001,herring Cove Rd opposite 382,,,,-63.617004,,6907,,,0
+,44.639111,coburg Rd [westbound] before Lemarchant St,,,,-63.591057,,6450,,,0
+,44.672119,spring Ave after Clysdale Dr,,,,-63.518318,,8680,,,0
+,44.670147,flamingo Dr after and opposite Nightingale Dr,,,,-63.657585,,6699,,,0
+,44.670471,flamingo Dr after Nightingale Dr,,,,-63.65781,,6698,,,0
+,44.776081,first Lake Dr opposite civic address 200,,,,-63.663666,,6693,,,0
+,44.777409,first Lake Dr before Sackville Leisure Ctr,,,,-63.66798,,6692,,,0
+,44.777058,first Lake Dr before Quaker Cr,,,,-63.665672,,6691,,,0
+,44.77742,first Lake Dr before and opposite Lake Head Ct,,,,-63.673553,,6690,,,0
+,44.675171,flamingo Dr [westbound] after Bedford Hwy,,,,-63.648396,,6697,,,0
+,44.777393,first Lake Dr in front of Town Centre [outbound],,,,-63.671337,,6696,,,0
+,44.777237,first Lake Dr opposite Town Centre [inbound],,,,-63.6712,,6695,,,0
+,44.777084,first Lake Dr opposite Sackville Leisure Ctr,,,,-63.666973,,6694,,,0
+,44.637142,herring Cove Rd before Melwood Ave,,,,-63.620579,,6901,,,0
+,44.650433,cogswell St [westbound] after Gottingen St,,,,-63.58152,,6456,,,0
+,44.650265,cogswell St [eastbound] before Gottingen St,,,,-63.581352,,6459,,,0
+,44.648422,cogswell St [eastbound] in front of Common,,,,-63.587959,,6458,,,0
+,44.701611,ilsley Ave in front of civic address 81,,,,-63.589783,,6953,,,0
+,44.644566,quinpool Rd [eastbound] after Oxford St,,,,-63.599846,,8136,,,0
+,44.657467,caldwell Rd before civic address 385,,,,-63.490334,,6341,,,0
+,44.60638,caldwell Rd in front of Oceanview Manor,,,,-63.468742,,6340,,,0
+,44.665184,caldwell Rd before Delta Dr,,,,-63.49696,,6343,,,0
+,44.650597,caldwell Rd before civic address 564,,,,-63.484829,,6342,,,0
+,44.657448,caldwell Rd before Nova Terrace,,,,-63.490158,,6345,,,0
+,44.668484,caldwell Rd before Hampton Green,,,,-63.50066,,6344,,,0
+,44.667484,caldwell Rd in front of civic address 96,,,,-63.499493,,6347,,,0
+,44.601032,caldwell Rd before Shore Rd,,,,-63.466534,,6346,,,0
+,44.66642,caldwell Rd after Delta Dr,,,,-63.498386,,6349,,,0
+,44.660023,caldwell Rd [inbound] opposite civic address 300,,,,-63.492229,,6348,,,0
+,44.639637,st Margarets Bay Rd opposite civic address 46,,,,-63.626881,,6187,,,0
+,44.64246,st Margarets Bay Rd opposite civic address 1697,,,,-63.707363,,6186,,,0
+,44.637508,st Margarets Bay Rd opposite civic address 1264,,,,-63.686848,,6185,,,0
+,44.637184,st Margarets Bay Rd opposite civic address 1254,,,,-63.685516,,6184,,,0
+,44.638805,st Margarets Bay Rd opposite Bakers Dr,,,,-63.629055,,6183,,,0
+,44.644287,st Margarets Bay Rd before Timberlea Manor Entr.,,,,-63.708927,,6182,,,0
+,44.637756,st Margarets Bay Rd in front of civic address 1440,,,,-63.694252,,6181,,,0
+,44.637959,st Margarets Bay Rd before Raines Mills Rd,,,,-63.69384,,6180,,,0
+,44.591183,herring Cove Rd opposite Bronson Ave,,,,-63.595718,,6908,,,0
+,44.634743,st Margarets Bay Rd opposite and before civic address 1025,,,,-63.674889,,6189,,,0
+,44.637848,st Margarets Bay Rd opposite Lakeside Ind Park Entr.,,,,-63.688499,,6188,,,0
+,44.791012,millwood Dr opposite Beaverbank Cross Rd,,,,-63.702694,,7236,,,0
+,44.791233,millwood Dr opposite civic address 144,,,,-63.708729,,7237,,,0
+,44.790146,millwood Dr before and opposite Crossroads Ct,,,,-63.699963,,7234,,,0
+,44.792549,millwood Dr before and opposite Jackladder Dr,,,,-63.707539,,7235,,,0
+,44.792824,millwood Dr before Jackladder Dr,,,,-63.707333,,7232,,,0
+,44.782169,millwood Dr before Kindling Cr,,,,-63.708401,,7233,,,0
+,44.793015,millwood Dr in front of civic address 192,,,,-63.705051,,7230,,,0
+,44.784256,millwood Dr before civic address 30,,,,-63.709557,,7231,,,0
+,44.790226,millwood Dr opposite civic address 424,,,,-63.69733,,7238,,,0
+,44.786541,millwood Dr opposite civic address 55,,,,-63.709564,,7239,,,0
+,44.698753,bedford Hwy before Larry Uteck Blvd,,,,-63.66098,,6239,,,0
+,44.7327,bedford Hwy [outbound] after Dartmouth Rd,,,,-63.656223,,6238,,,0
+,44.718258,bedford Hwy in front of Convoy Run,,,,-63.67466,,6235,,,0
+,44.695919,bedford Hwy in front of Shaunslieve Dr,,,,-63.660873,,6234,,,0
+,44.731354,bedford Hwy in front of Sunnyside Esso,,,,-63.658707,,6237,,,0
+,44.732479,bedford Hwy [inbound] in front of Dartmouth Rd,,,,-63.656605,,6236,,,0
+,44.72271,bluewater Rd in front of civic address 112,,,,-63.709942,,6231,,,0
+,44.710907,bedford Hwy in front of civic address 836,,,,-63.671383,,6230,,,0
+,44.692513,bedford Hwy in front of Lodge Dr,,,,-63.66058,,6233,,,0
+,44.708126,bedford Hwy in front of Esquire Motel,,,,-63.666286,,6232,,,0
+,44.741837,johnson Rd in front of civic address 114,,,,-63.467827,,7001,,,0
+,44.739246,johnson Rd after civic address 16,,,,-63.465145,,7000,,,0
+,44.740738,johnson Rd before civic address 50,,,,-63.466801,,7003,,,0
+,44.794376,sackville Dr after Old Sackville Rd,,,,-63.719784,,7302,,,0
+,44.756683,sackville Dr after and opposite Hillcrest Ave,,,,-63.667938,,7303,,,0
+,44.782146,sackville Dr after Lucasville Rd,,,,-63.710735,,7300,,,0
+,44.709885,wright Ave opposite Winkinson,,,,-63.569786,,8865,,,0
+,44.781647,sackville Dr after Sharon Dr,,,,-63.700912,,7306,,,0
+,44.780304,sackville Dr after Stanley St,,,,-63.699352,,7307,,,0
+,44.763229,sackville Dr after and opposite Oakdale Dr,,,,-63.67498,,7304,,,0
+,44.767384,sackville Dr after Sackville Cross Rd,,,,-63.684231,,7305,,,0
+,44.645554,joseph Howe Dr before Ascot Ave,,,,-63.627506,,7005,,,0
+,44.795589,sackville Dr after and opposite Hamilton Dr,,,,-63.728374,,7308,,,0
+,44.768505,sackville Dr in front of civic address 614,,,,-63.68663,,7309,,,0
+,44.688816,cranberry Cr in front of civic address 3,,,,-63.504547,,8868,,,0
+,44.699112,larry Uteck Blvd before Bedford Highway,,,,-63.662128,,8869,,,0
+,44.643639,joseph Howe Dr before Lexington Ave,,,,-63.62373,,7007,,,0
+,44.662945,kempt Rd opposite Halifax Chrysler,,,,-63.619942,,7045,,,0
+,44.659225,kempt Rd before Young St,,,,-63.603352,,7044,,,0
+,44.672775,kencrest Ave [southbound] in front of civic address 3782,,,,-63.611008,,7047,,,0
+,44.662086,kempt Rd in front of Swiss Chalet,,,,-63.612991,,7046,,,0
+,44.660004,kempt Rd [inbound] opposite Livingstone St,,,,-63.605629,,7041,,,0
+,44.677685,valleyfield Rd before [northbound] Virginia Ave,,,,-63.532314,,7040,,,0
+,44.660995,kempt Rd before and opposite Colombus St,,,,-63.60865,,7043,,,0
+,44.661457,kempt Rd [inbound] before Hood St,,,,-63.615009,,7042,,,0
+,44.673389,kencrest Ave after Novalea Dr,,,,-63.614464,,7049,,,0
+,44.67313,kencrest Ave [eastbound] in front of Newbury St,,,,-63.612724,,7048,,,0
+,44.703655,wright Ave after Burley Ct,,,,-63.598057,,8608,,,0
+,44.698536,wright Ave after Windmill Rd,,,,-63.604,,8609,,,0
+,44.715271,joseph Zatzman Dr before and opposite Topple Dr,,,,-63.604389,,6989,,,0
+,44.713837,joseph Zatzman Dr after Simmonds Dr,,,,-63.601696,,6988,,,0
+,44.711819,joseph Zatzman Dr after Akerley Blvd,,,,-63.60025,,6987,,,0
+,44.681675,woodlawn Rd opposite Spikenard St,,,,-63.527695,,8603,,,0
+,44.656513,joseph Howe Dr before Scot St,,,,-63.629776,,6985,,,0
+,44.658405,joseph Howe Dr [northbound] before Dutch Village Rd,,,,-63.628967,,6984,,,0
+,44.660339,joseph Howe Dr before civic address 3825,,,,-63.628132,,6983,,,0
+,44.657948,joseph Howe Dr [southbound] in front of Harris & Roome,,,,-63.629375,,6982,,,0
+,44.652702,joseph Howe Dr [northbound] after Spruce,,,,-63.630325,,6981,,,0
+,44.651402,joseph Howe Dr [northbound] in front of Bi-hi,,,,-63.630539,,6980,,,0
+,44.883034,beaverbank Rd in front of civic address 2438,,,,-63.702694,,8738,,,0
+,44.878654,beaverbank Rd opposite Esso Station,,,,-63.699589,,8739,,,0
+,44.891266,beaverbank Rd in front of civic address 2693,,,,-63.705658,,8736,,,0
+,44.887569,beaverbank Rd opposite Gilby,,,,-63.704529,,8737,,,0
+,44.903736,beaverbank Villa,,,,-63.710144,,8734,,,0
+,44.897064,beaverbank Rd in front of civic address 2838,,,,-63.707821,,8735,,,0
+,44.891796,beaverbank Rd in front of civic address 2661,,,,-63.705379,,8732,,,0
+,44.89719,beaverbank Rd opposite civic address 2846,,,,-63.70731,,8733,,,0
+,44.882519,beaverbank Rd in front of civic address 2443,,,,-63.701813,,8730,,,0
+,44.887146,beaverbank Rd after Gilby,,,,-63.703995,,8731,,,0
+,44.672031,portland St [eastbound] opposite Jersey Dr,,,,-63.521713,,8040,,,0
+,44.672077,portland St [westbound] after Jersey Dr,,,,-63.523304,,8041,,,0
+,44.667458,portland St [westbound] after Lakefront Rd,,,,-63.548828,,8042,,,0
+,44.668091,portland St [westbound] after Maynard St,,,,-63.553696,,8043,,,0
+,44.68441,windmill Rd after Shannon Plaza,,,,-63.598469,,8512,,,0
+,44.671024,portland St [westbound] after Settle,,,,-63.529366,,8045,,,0
+,44.671619,portland St [eastbound] after Spring Ave,,,,-63.518124,,8046,,,0
+,44.67194,portland St [westbound] after Spring Ave,,,,-63.518848,,8047,,,0
+,44.670219,portland Hills Terminal [outbound],,,,-63.505966,,8048,,,0
+,44.669933,portland Hills Terminal [inbound],,,,-63.505589,,8049,,,0
+,44.690998,windmill Rd in front of civic address 520,,,,-63.600006,,8518,,,0
+,44.693436,windmill Rd in front of civic address 552,,,,-63.600574,,8519,,,0
+,44.674721,sinclair St [westbound] opposite Highwood St,,,,-63.558811,,8286,,,0
+,44.676998,somerset after civic address 4a,,,,-63.542831,,8287,,,0
+,44.674801,sinclair St [eastbound] after Highwood St,,,,-63.558582,,8284,,,0
+,44.678024,sinclair St after Prince Albert Rd,,,,-63.555466,,8285,,,0
+,44.74572,simmonds Rd in front of Rec Center,,,,-63.46743,,8282,,,0
+,44.746216,simmonds Rd after North Preston Rd,,,,-63.465225,,8280,,,0
+,44.74612,simmonds Rd before North Preston Rd,,,,-63.465023,,8281,,,0
+,44.67495,somerset after Glenwood Ave,,,,-63.545071,,8288,,,0
+,44.674892,somerset before Glenwood Ave,,,,-63.544895,,8289,,,0
+,44.612171,cow Bay Rd opposite Seniors Manor,,,,-63.491394,,6509,,,0
+,44.650826,cornwallis St before North Park St,,,,-63.586468,,6508,,,0
+,44.652435, Cornwallis St [eastbound] after Gottingen St,,,,-63.583664,,6503,,,0
+,44.652218,cornwallis St [westbound] after Gottingen St,,,,-63.584309,,6502,,,0
+,44.653236,cornwallis St after Brunswick St,,,,-63.582779,,6501,,,0
+,44.652748,connaught Ave opposite Roslyn Rd,,,,-63.615978,,6500,,,0
+,44.653259,cornwallis St before Brunswick St,,,,-63.58247,,6507,,,0
+,44.650875,cornwallis St before Bauer St,,,,-63.586102,,6506,,,0
+,44.651596,cornwallis St in front of G.b.isnor Manor To Joe Howe Man,,,,-63.585285,,6504,,,0
+,44.700539,waverley Rd before civic address 272,,,,-63.547882,,8462,,,0
+,44.719025,waverley Rd before civic address 457,,,,-63.545547,,8463,,,0
+,44.68573,braemar Dr opposite civic address 105,,,,-63.547306,,8460,,,0
+,44.742054,waverley Rd before civic address 1053,,,,-63.55864,,8461,,,0
+,44.691353,waverley Rd after Braemar Apts,,,,-63.546139,,8466,,,0
+,44.738338,waverley Rd in front of civic address 1008,,,,-63.554432,,8467,,,0
+,44.728661,waverley Rd before Lake Charles Dr,,,,-63.5453,,8464,,,0
+,44.698547,waverley Rd before Montebello Dr,,,,-63.547649,,8465,,,0
+,44.695587,waverley Rd opposite civic address 221,,,,-63.547382,,8468,,,0
+,44.731236,waverley Rd opposite civic address 867,,,,-63.549587,,8469,,,0
+,44.759369,cobequid Rd before Glendale Dr,,,,-63.660069,,6437,,,0
+,44.757931,cobequid Rd before civic address 160,,,,-63.661503,,6436,,,0
+,44.756107,cobequid Rd before civic address 112,,,,-63.662033,,6435,,,0
+,44.758484,cobequid Rd after Zinck Ave,,,,-63.660824,,6434,,,0
+,44.75502,cobequid Rd after Exit Ramp,,,,-63.661945,,6433,,,0
+,44.661625,robie St [southbound] in front of civic address 3244,,,,-63.605488,,8197,,,0
+,44.764889,cobequid Rd after Maple Grove Dr,,,,-63.649403,,6431,,,0
+,44.766815,cobequid Rd after Macintyre Lane,,,,-63.64706,,6430,,,0
+,44.750011,damascus Rd in front of Verdi Dr,,,,-63.641418,,8199,,,0
+,44.762127,cobequid Rd after Judy Anne Ct,,,,-63.651917,,6439,,,0
+,44.759953,cobequid Rd before Glendale Dr,,,,-63.659767,,6438,,,0
+,44.625298,herring Cove Rd before civic address 170,,,,-63.616982,,6891,,,0
+,44.779568,glendale Dr opposite Rankin Dr,,,,-63.684425,,6758,,,0
+,44.656693,glenforest Dr after Willet St,,,,-63.648273,,6759,,,0
+,44.618492,herring Cove Rd before Circle Dr,,,,-63.615162,,6890,,,0
+,44.765591,glendale Dr before Magee Dr,,,,-63.664082,,6752,,,0
+,44.777145,glendale Dr before Metropolitan Ave,,,,-63.67889,,6753,,,0
+,44.759846,glendale Dr before Cobequid Rd,,,,-63.66011,,6750,,,0
+,44.7728,glendale Dr before Macdougall Ave,,,,-63.675564,,6751,,,0
+,44.770168,glendale Dr before Pinehill Dr,,,,-63.672367,,6756,,,0
+,44.778622,glendale Dr before Riverside Dr,,,,-63.681343,,6757,,,0
+,44.775898,glendale Dr before Metropolitan Ave,,,,-63.677025,,6754,,,0
+,44.782017,glendale Dr before Old Beaver Bank Rd,,,,-63.69075,,6755,,,0
+,44.672428,flamingo Dr in front of Swallow St,,,,-63.652382,,7176,,,0
+,44.655888,main Ave before Homeward Ave,,,,-63.642914,,7171,,,0
+,44.657124,main Ave before Gebhardt St,,,,-63.639999,,7170,,,0
+,44.603813,herring Cove Rd before Greystone Dr,,,,-63.611935,,6897,,,0
+,44.577347,herring Cove Rd before civic address 896,,,,-63.576744,,6896,,,0
+,44.691078,highfield Park Dr before Ultramar,,,,-63.584217,,6925,,,0
+,44.68961,highfield Park Dr before True North Cr,,,,-63.58577,,6924,,,0
+,44.612061,pleasant St [northbound] in front of civic address 1494,,,,-63.494911,,7463,,,0
+,44.687256,highfield Park Dr in front of civic address 80,,,,-63.590778,,6926,,,0
+,44.781906,millwood Dr after Barque Crt,,,,-63.708504,,7221,,,0
+,44.788429,millwood Dr before Lumberman Dr,,,,-63.709362,,7220,,,0
+,44.790977,millwood Dr in front of civic address 132,,,,-63.709225,,7223,,,0
+,44.790329,millwood Dr after Beaver Bank Rd,,,,-63.693279,,7222,,,0
+,44.787449,millwood Dr after Highrigger Cr,,,,-63.709263,,7225,,,0
+,44.790062,millwood Dr after Crossroads Ct,,,,-63.699787,,7224,,,0
+,44.790379,millwood Dr in front of civic address 424,,,,-63.69733,,7227,,,0
+,44.784477,millwood Dr after Kindling Cr,,,,-63.709339,,7226,,,0
+,44.790176,millwood Dr before Beaver Bank Rd,,,,-63.692806,,7229,,,0
+,44.791157,millwood Dr before Beaverbank Cross,,,,-63.703018,,7228,,,0
+,44.685822,highfield Park Dr after Joseph Young Dr,,,,-63.590065,,6921,,,0
+,44.685947,bedford Hwy after Dakin Dr,,,,-63.659615,,6248,,,0
+,44.727425,bedford Hwy after Division St,,,,-63.665543,,6249,,,0
+,44.718407,bedford Hwy in front of Holland Ave,,,,-63.674618,,6240,,,0
+,44.712734,bedford Hwy in front of Nelsons Landing Blvd,,,,-63.675091,,6241,,,0
+,44.688354,bedford Hwy in front of Tall Trees Lane,,,,-63.659328,,6242,,,0
+,44.741173,bedford Hwy in front of civic address 1749,,,,-63.655052,,6243,,,0
+,44.722557,bedford Hwy in front of civic address 1189,,,,-63.670624,,6244,,,0
+,44.735275,bedford Hwy in front of Bedford Place Mall,,,,-63.655178,,6245,,,0
+,44.68137,bedford Hwy in front of civic address 364,,,,-63.659126,,6246,,,0
+,44.686886,bedford Hwy after Cresthaven Estates,,,,-63.659058,,6247,,,0
+,44.721901,innovation Dr in front of Cp Allen High,,,,-63.698776,,8871,,,0
+,44.722118,innovation Dr opposite Cp Allen High,,,,-63.69899,,8870,,,0
+,44.699196,larry Uteck Blvd after Starboard,,,,-63.667492,,8873,,,0
+,44.69936,larry Uteck Blvd after Bedford Highway,,,,-63.662399,,8872,,,0
+,44.795467,sackville Dr before Lively Rd,,,,-63.726227,,7319,,,0
+,44.774788,sackville Dr opposite Superstore,,,,-63.694145,,7318,,,0
+,44.700665,larry Uteck Blvd before Roundabout,,,,-63.683033,,8877,,,0
+,44.700817,larry Uteck Blvd opposite Ecole Secondaire Du Sommet,,,,-63.679535,,8876,,,0
+,44.77655,sackville Dr before Beaver Bank Rd,,,,-63.696384,,7315,,,0
+,44.781876,sackville Dr before Beaver Bank Cross Rd,,,,-63.703613,,7314,,,0
+,44.795784,sackville Dr before Hamilton Dr,,,,-63.728245,,7317,,,0
+,44.795277,sackville Dr before civic address 1658,,,,-63.726257,,7316,,,0
+,44.767654,sackville Dr in front of Knox Church,,,,-63.68438,,7311,,,0
+,44.768658,sackville Dr in front of Kingsway Court,,,,-63.686604,,7310,,,0
+,44.760765,sackville Dr before Armoyan Dr,,,,-63.672516,,7313,,,0
+,44.765335,sackville Dr in front of Mainway Auto,,,,-63.679699,,7312,,,0
+,44.616154,herring Cove Rd opposite Williams Lake Rd,,,,-63.614632,,6905,,,0
+,44.660923,richard before civic address 56,,,,-63.748798,,8163,,,0
+,44.684219,raymoor Dr before Main St,,,,-63.531693,,8162,,,0
+,44.685688,raymoor Dr in front of civic address 22,,,,-63.533604,,8161,,,0
+,44.688171,kearney Lake Rd opposite Lafarge Construction,,,,-63.683365,,7030,,,0
+,44.875702,barnes Dr [inbound] in front of Park And Fly Lot,,,,-63.525402,,9015,,,0
+,44.723473,kearney Lake Rd after Hammonds Plains Rd,,,,-63.730873,,7032,,,0
+,44.723465,kearney Lake Rd before Hammonds Plains Rd,,,,-63.730736,,7033,,,0
+,44.673759,valleyfield Rd in front of civic address 79,,,,-63.530159,,7034,,,0
+,44.674053,valleyfield Rd before Hilton Dr,,,,-63.530643,,7035,,,0
+,44.873264,barnes Dr [inbound] before Baldwin,,,,-63.527798,,9012,,,0
+,44.675949,valleyfield Rd before Skeena Lane,,,,-63.531258,,7037,,,0
+,44.678913,valleyfield Rd before Spikenard St,,,,-63.534096,,7038,,,0
+,44.67775,valleyfield Rd before [southbound] Virginia Ave,,,,-63.532742,,7039,,,0
+,44.67421,dortohea Dr civic address 26,,,,-63.503841,,9018,,,0
+,44.659012,young St [eastbound] in front of civic address 6050,,,,-63.603134,,9019,,,0
+,44.62886,ridge Valley Rd after Cavendish Rd,,,,-63.619984,,8166,,,0
+,44.634052,inglis St [westbound] before Tower Rd,,,,-63.577469,,6970,,,0
+,44.653412,brentwood Ave before civic address 52,,,,-63.73555,,6318,,,0
+,44.680569,lucien Dr in front of civic address 62,,,,-63.508587,,7148,,,0
+,44.695202,macdonald Ave in front of civic address 65,,,,-63.587513,,7149,,,0
+,44.636543,lemarchant St after South St,,,,-63.589779,,7144,,,0
+,44.667332,windmill Rd in front of Hare Lane,,,,-63.57584,,7145,,,0
+,44.701569,lexington Ave in front of Walnut Hall,,,,-63.537594,,7146,,,0
+,44.612522,hornes Rd after Cow Bay Rd,,,,-63.488064,,7147,,,0
+,44.603729,leiblin Dr opposite Carnation Cr,,,,-63.626801,,7140,,,0
+,44.602043,leiblin Dr opposite Elmdale Cr,,,,-63.628792,,7141,,,0
+,44.59877,leiblin Dr opposite Guildwood Cr,,,,-63.632706,,7142,,,0
+,44.595203,leiblin Dr before 2nd Juniper Cr,,,,-63.636829,,7143,,,0
+,44.879108,beaverbank Rd in front of Esso Station,,,,-63.699287,,8729,,,0
+,44.873783,beaverbank Rd in front of civic address 2217,,,,-63.697468,,8728,,,0
+,44.837212,beaverbank Rd in front of Pinehurst,,,,-63.679119,,8721,,,0
+,44.834175,beaverbank Rd in front of civic address 1163,,,,-63.681252,,8720,,,0
+,44.849155,beaverbank Rd after Kinsac Rd,,,,-63.685272,,8723,,,0
+,44.844166,beaverbank Rd in front of civic address 1459,,,,-63.684547,,8722,,,0
+,44.858025,beaverbank Rd in front of civic address 1799,,,,-63.68602,,8725,,,0
+,44.726395, Hwy 101 / Magazine Hill / Bedford Bypass,,,,-63.642265,,1002,,,0
+,44.871883,beaverbank Rd in front of civic address 2155,,,,-63.695953,,8727,,,0
+,44.868847,beaverbank Rd after Davis Dr,,,,-63.693058,,8726,,,0
+,44.667824,portland St [westbound] in front of civic address 347,,,,-63.550903,,8053,,,0
+,44.66814,portland St [eastbound] in front of civic address 308,,,,-63.55439,,8052,,,0
+,44.668587,portland St [eastbound] in front of civic address 254,,,,-63.559452,,8051,,,0
+,44.650749,willet St before Rosedale Ave,,,,-63.644112,,8502,,,0
+,44.667809,portland St [westbound] before and opposite Canal St,,,,-63.563034,,8057,,,0
+,44.715878,bluewater Rd in front of civic address 347,,,,-63.716171,,8056,,,0
+,44.671272,portland St [eastbound] before Eisener Dr,,,,-63.527565,,8055,,,0
+,44.743683,clarence St in front of civic address 32,,,,-63.466961,,8506,,,0
+,44.675907,windmill Rd after Albro Lake Rd,,,,-63.590679,,8509,,,0
+,44.703587,windmill Rd after Akerley Blvd,,,,-63.612278,,8508,,,0
+,44.667339,portland St [eastbound] before Lakefront Rd,,,,-63.548767,,8059,,,0
+,44.669212,portland St [westbound] before James St,,,,-63.557915,,8058,,,0
+,44.634979,south St [eastbound] after Dalplex,,,,-63.591278,,8291,,,0
+,44.676918,somerset opposite civic address 4a,,,,-63.542683,,8290,,,0
+,44.639645,south St [eastbound] in front of civic address 5244,,,,-63.571632,,8293,,,0
+,44.673042,crichton Ave [northbound] before Dahlia St,,,,-63.56469,,6535,,,0
+,44.68111,crichton Ave [westbound] in front of civic address 201,,,,-63.562077,,6532,,,0
+,44.724274,bluewater Rd in front of civic address 62,,,,-63.70866,,6533,,,0
+,44.679268,crichton Ave [northbound] after Oakdale Cr,,,,-63.563568,,6530,,,0
+,44.678608,crichton Ave [westbound] in front of civic address 121,,,,-63.564285,,6531,,,0
+,44.638905,south St [eastbound] before Queen St,,,,-63.574192,,8299,,,0
+,44.637272,south St [westbound] before I.w.k Hospital,,,,-63.581768,,8298,,,0
+,44.699238,ronald Smith after Burnside Dr,,,,-63.584709,,8240,,,0
+,44.671436,crichton Ave opposite St.peters Church,,,,-63.564251,,6538,,,0
+,44.686626,crystal Dr in front of Highland Manor,,,,-63.583305,,6539,,,0
+,44.645676,pleasant St before Shirley St,,,,-63.543335,,7498,,,0
+,44.648018,pleasant St before Trunk 111,,,,-63.545311,,7499,,,0
+,44.646156,pleasant St before Irving civic address 513,,,,-63.543617,,7492,,,0
+,44.666931,pleasant St [northbound] before Linden Lea,,,,-63.557159,,7493,,,0
+,44.625332,pleasant St [northbound] before Hines Rd,,,,-63.513245,,7490,,,0
+,44.623306,pleasant St [northbound] before Howard Ave,,,,-63.509941,,7491,,,0
+,44.662682,pleasant St [southbound] before Newcastle St,,,,-63.553822,,7496,,,0
+,44.611725,pleasant St before Quigleys Corner,,,,-63.494705,,7497,,,0
+,44.621311,pleasant St [northbound] before Morris Ave,,,,-63.507393,,7494,,,0
+,44.614304,pleasant St [northbound] before Myers Lane,,,,-63.497292,,7495,,,0
+,44.675282,wyse Rd in front of civic address 254,,,,-63.58577,,8615,,,0
+,44.673023,wyse Rd before Jamieson St,,,,-63.583031,,8617,,,0
+,44.671734,wyse Rd before Boland Rd,,,,-63.580566,,8616,,,0
+,44.700077,wright Ave opposite Mccurdy Ave,,,,-63.60191,,8611,,,0
+,44.703793,wright Ave before Fielding Ave,,,,-63.59819,,8610,,,0
+,44.670979,wyse Rd after Dawson St,,,,-63.579609,,8613,,,0
+,44.672443,wyse Rd after Boland Rd,,,,-63.581867,,8612,,,0
+,44.655525,rosedale Ave after Dutch Village Rd,,,,-63.632496,,8245,,,0
+,44.676537,wyse Rd before Albro Lake Rd,,,,-63.587463,,8619,,,0
+,44.673954,wyse Rd in front of civic address 200,,,,-63.584038,,8618,,,0
+,44.678505,wedgewood Ave before Beechwood Terr,,,,-63.671211,,8479,,,0
+,44.681305,wedgewood Ave after Edward Laurie Dr,,,,-63.672138,,8478,,,0
+,44.723248,waverley Rd opposite civic address 725,,,,-63.542839,,8474,,,0
+,44.72155,waverley Rd in front of civic address 706,,,,-63.543976,,8477,,,0
+,44.714867,waverley Rd in front of civic address 408,,,,-63.545475,,8476,,,0
+,44.711056,waverley Rd opposite civic address 359,,,,-63.547329,,8471,,,0
+,44.741577,waverley Rd opposite civic address 1053,,,,-63.557728,,8470,,,0
+,44.72216,waverley Rd opposite civic address 710,,,,-63.543854,,8473,,,0
+,44.71785,waverley Rd opposite civic address 453,,,,-63.545212,,8472,,,0
+,44.649254,chebucto Rd in front of civic address 6361,,,,-63.600578,,6402,,,0
+,44.645962,chebucto Rd [eastbound] before Benjamin Green Dr,,,,-63.610779,,6403,,,0
+,44.650089,chebucto Rd after Saint Matthias St,,,,-63.597073,,6400,,,0
+,44.649357,chebucto Rd [eastbound] after and opposite Dublin St,,,,-63.599335,,6401,,,0
+,44.647881,chebucto Rd [eastbound] before Elm St,,,,-63.605553,,6406,,,0
+,44.64661,chebucto Rd [eastbound] before Newton St,,,,-63.608555,,6407,,,0
+,44.64756,chebucto Rd [westbound] before Connaught Ave,,,,-63.60714,,6404,,,0
+,44.648125,chebucto Rd [westbound] before Connolly St,,,,-63.604897,,6405,,,0
+,44.640762,robie St [northbound] after Spring Garden Rd,,,,-63.586956,,8185,,,0
+,44.647614,robie St [northbound] after Quinpool Rd,,,,-63.590538,,8184,,,0
+,44.644386,chebucto Rd [eastbound] before Phillips St,,,,-63.617535,,6408,,,0
+,44.645672,chebucto Rd [eastbound] before Quinn St,,,,-63.612946,,6409,,,0
+,44.654816,robie St [northbound] after North St,,,,-63.59499,,8181,,,0
+,44.665543,robie St [northbound] after Lady Hammond Rd,,,,-63.610962,,8180,,,0
+,44.646622,robie St [southbound] before Pepperell St,,,,-63.590359,,8183,,,0
+,44.655945,robie St [southbound] after May St,,,,-63.59692,,8182,,,0
+,44.64893,duke St [westbound] after Barrington St,,,,-63.576424,,6589,,,0
+,44.779823,glendale Dr after Rankin Dr,,,,-63.684891,,6745,,,0
+,44.769905,glendale Dr after Pinehill Dr,,,,-63.672119,,6744,,,0
+,44.781513,glendale Dr after Smokey Dr,,,,-63.689453,,6747,,,0
+,44.778439,glendale Dr after Riverside Dr,,,,-63.68132,,6746,,,0
+,44.765678,glendale Dr after Magee Dr,,,,-63.663944,,6741,,,0
+,44.77282,glendale Dr after Macdougall Ave,,,,-63.675373,,6740,,,0
+,44.777279,glendale Dr after Metropolitan Ave,,,,-63.67881,,6743,,,0
+,44.775673,glendale Dr after Metropolitan Ave,,,,-63.677052,,6742,,,0
+,44.768044,glendale Dr before Chandler Dr,,,,-63.667294,,6749,,,0
+,44.782333,glendale Dr before Beaver Bank Rd,,,,-63.691162,,6748,,,0
+,44.634251,mayo St before Withrod Dr,,,,-63.624668,,7188,,,0
+,44.669662,duffus St before Dartmouth Ave,,,,-63.603306,,6588,,,0
+,44.728001,meadowbrook Dr after Basinview Dr,,,,-63.679901,,7189,,,0
+,44.759045,glendale Ave in front of civic address 21,,,,-63.658707,,8681,,,0
+,44.633198,margaret Rd after Knobhill Cr,,,,-63.621368,,7184,,,0
+,44.641224,morris St in front of civic address 5234,,,,-63.572906,,8884,,,0
+,44.641464,morris St in front of O'brien Hall,,,,-63.57254,,8885,,,0
+,44.726387,gary Martin Dr after Hammonds Plains Rd,,,,-63.703152,,8886,,,0
+,44.663918,novalea Dr [southbound] in front of Livingstone St,,,,-63.601028,,7363,,,0
+,44.663902,novalea Dr before Livingstone St,,,,-63.601105,,7364,,,0
+,44.701645,larry Uteck Blvd in front of civic address 324,,,,-63.671665,,8881,,,0
+,44.699417,larry Uteck Blvd before Starboard,,,,-63.667999,,8882,,,0
+,44.639137,hollis St after Barrington St,,,,-63.569054,,6938,,,0
+,44.712906,bedford Hwy after Nelsons Landing Blvd,,,,-63.675167,,6259,,,0
+,44.70821,bedford Hwy [inbound] after Millview Ave,,,,-63.666725,,6258,,,0
+,44.714149,bedford Hwy [inbound] in front of Moirs Mill Rd,,,,-63.677986,,6253,,,0
+,44.677349,bedford Hwy before Forest Hill Dr,,,,-63.649357,,6252,,,0
+,44.674892,bedford Hwy [inbound] in front of Flamingo Dr,,,,-63.647415,,6251,,,0
+,44.675194,bedford Hwy before Flamingo Dr,,,,-63.647575,,6250,,,0
+,44.724777,bedford Hwy [inbound] in front of Meadowbrook Dr,,,,-63.669292,,6257,,,0
+,44.682796,bedford Hwy after Kearney Lake Rd,,,,-63.66082,,6256,,,0
+,44.715912,bedford Hwy [inbound] in front of Hammonds Plains Rd,,,,-63.678326,,6255,,,0
+,44.71563,bedford Hwy [outbound] in front of Hammonds Plains Rd,,,,-63.678104,,6254,,,0
+,44.651722,pleasant St opposite Nova Scotia Hospital,,,,-63.547382,,8017,,,0
+,44.684933,windmill Rd opposite Shannon Plaza Entrance,,,,-63.598549,,8544,,,0
+,44.69865,windmill Rd [outbound] after Wright Ave Metrolink,,,,-63.605282,,8547,,,0
+,44.671429,novalea Dr [southbound] in front of Samuel Prince To Joe Howe Ma,,,,-63.612282,,7368,,,0
+,44.667259,novalea Dr [northbound] in front of Duffus St,,,,-63.605927,,7369,,,0
+,44.674759,windmill Rd opposite Wallace St,,,,-63.590366,,8546,,,0
+,44.656834,acadia St in front of Ragus Rd,,,,-63.545868,,8889,,,0
+,44.673325,north Ridge Rd [westbound] after Novalea Dr To Joehowe Man,,,,-63.615437,,7360,,,0
+,44.673203,novalea Dr [southbound] opposite Kencrest Ave,,,,-63.615017,,7361,,,0
+,44.666229,novalea Dr in front of Cabot Place,,,,-63.604675,,7362,,,0
+,44.726551,gary Martin Dr before Hammonds Plains Rd,,,,-63.702801,,8887,,,0
+,44.701595,larry Uteck Blvd after Southgate,,,,-63.676613,,8880,,,0
+,44.664825,novalea Dr [southbound] in front of Stanley Place,,,,-63.602451,,7365,,,0
+,44.662594,novalea Dr [northbound] after Young St,,,,-63.598751,,7366,,,0
+,44.638134,university Ave after Robie St,,,,-63.585026,,8883,,,0
+,44.700638,windmill Rd opposite Ralston Ave,,,,-63.607162,,8543,,,0
+,44.669712,windmill Rd opposite Pelzant St,,,,-63.583534,,8542,,,0
+,44.684204,pinecrest Dr in front of civic address 63,,,,-63.581669,,7456,,,0
+,44.685753,pinecrest Dr before Crystal Dr,,,,-63.584091,,7457,,,0
+,44.684887,pinecrest Dr in front of civic address 122,,,,-63.587383,,7454,,,0
+,44.681118,kearney Lake Rd after Wedgewood Ave,,,,-63.667263,,7023,,,0
+,44.707283,kearney Lake Rd after Matheson Windows,,,,-63.708298,,7022,,,0
+,44.688297,kearney Lake Rd [outbound] after Lafarge Construction,,,,-63.683525,,7021,,,0
+,44.68462,pinecrest Dr in front of civic address 123,,,,-63.587463,,7455,,,0
+,44.704845,kearney Lake Rd before K.l. Estates,,,,-63.706348,,7027,,,0
+,44.714066,kearney Lake Rd [inbound] after Bluewater Rd,,,,-63.716106,,7026,,,0
+,44.772106,downsview Dr opposite Sobeys,,,,-63.695969,,9001,,,0
+,44.772072,downsview Dr in front of Sobeys,,,,-63.69574,,9000,,,0
+,44.686054,pinecrest Dr in front of civic address 103,,,,-63.585762,,7452,,,0
+,44.721661,kearney Lake Rd opposite and after Fraser Construction,,,,-63.728867,,7029,,,0
+,44.683014,kearney Lake Rd opposite Cambria Park,,,,-63.671082,,7028,,,0
+,44.727711,sunrise Hill before Shoreview Dr,,,,-63.676636,,9009,,,0
+,44.642899,downs Ave after Winter St,,,,-63.634129,,6577,,,0
+,44.737423,rocky Lake Dr after and opposite Duffus Dr,,,,-63.649551,,9007,,,0
+,44.683319,pinecrest Dr before Albro Lake Rd,,,,-63.580093,,7450,,,0
+,44.644341,lower Water opposite Keith's Brewery,,,,-63.569881,,9006,,,0
+,44.683609,pinecrest Dr [eastbound] after Brule St,,,,-63.587265,,7451,,,0
+,44.686821,kearney Lake Rd after Hamshaw Dr,,,,-63.680733,,7020,,,0
+,44.759068,glendale Ave[inbound] opposite civic address 21,,,,-63.658329,,9002,,,0
+,44.681427,kearney Lake Rd in front of civic address 49,,,,-63.665699,,7025,,,0
+,44.683163,kearney Lake Rd [northbound] in front of Cambria Park,,,,-63.670971,,7024,,,0
+,44.654427,main Ave in front of civic address 202,,,,-63.645706,,7158,,,0
+,44.708904,cherry Brook Rd after Baptist Church,,,,-63.482559,,7157,,,0
+,44.708336,cherry Brook Rd [eastbound] after Riley Rd,,,,-63.485794,,7156,,,0
+,44.697159,macdonald Ave in front of civic address 55,,,,-63.591103,,7155,,,0
+,44.695435,macdonald Ave before Ilsley Ave,,,,-63.584595,,7154,,,0
+,44.701309,macdonald Ave in front of Wright Ave,,,,-63.599957,,7153,,,0
+,44.700207,macdonald Ave in front of civic address 25,,,,-63.597931,,7152,,,0
+,44.658791,macdonald Bridge Ramp in front of Barrington St,,,,-63.588547,,7150,,,0
+,44.658176,young St [eastbound] before Monaghan Dr,,,,-63.604244,,8633,,,0
+,44.737621,rocky Lake Dr before Duffus Dr,,,,-63.649586,,9008,,,0
+,44.679024,prince Albert Rd [eastbound] before Glenwood Ave,,,,-63.551376,,8068,,,0
+,44.678951,prince Albert Rd opposite Celtic Dr,,,,-63.552197,,8069,,,0
+,44.68008,prince Albert Rd [eastbound] opposite Superstore,,,,-63.548458,,8066,,,0
+,44.67804,prince Albert Rd [eastbound] after Sinclair St,,,,-63.555275,,8067,,,0
+,44.681911,primrose St [westbound] in front of civic address 11,,,,-63.586346,,8065,,,0
+,44.667652,portland St [eastbound] opposite civic address 350,,,,-63.550816,,8062,,,0
+,44.669029,portland St [eastbound] before St.george Ln,,,,-63.557453,,8060,,,0
+,44.661217,pleasant St [northbound] before Cameron St,,,,-63.552837,,7485,,,0
+,44.68454,cranberry Cr in front of civic address 43,,,,-63.50264,,6520,,,0
+,44.684956,cranberry Cr before civic address 56,,,,-63.503014,,6523,,,0
+,44.686886,cranberry Cr in front of civic address 27,,,,-63.50375,,6522,,,0
+,44.653702,pleasant St [northbound] in front of Dartmouth General,,,,-63.548649,,7481,,,0
+,44.666695,pleasant St [southbound] in front of civic address 76,,,,-63.557011,,7480,,,0
+,44.620167,pleasant St [northbound] after Auto Port,,,,-63.50494,,7483,,,0
+,44.65136,pleasant St [southbound] in front of Nova Scotia Hospital,,,,-63.547375,,7482,,,0
+,44.68161,crichton Ave [northbound] after Lakeside Terr,,,,-63.56155,,6529,,,0
+,44.676632,crichton Ave [westbound] after civic address 85,,,,-63.563824,,6528,,,0
+,44.685932,sea King Dr opposite civic address 8,,,,-63.576191,,8266,,,0
+,44.648026,sherwood St before Carlisle Dr,,,,-63.476135,,8267,,,0
+,44.76786,sackville Transit Terminal,,,,-63.69957,,8260,,,0
+,44.67215,scotch Pine Terr after Farnham Gate Rd,,,,-63.67181,,8261,,,0
+,44.656425,scot St [eastbound] before Desmond Ave,,,,-63.627945,,8262,,,0
+,44.68708,sea King Dr after Lancaster Dr,,,,-63.572399,,8263,,,0
+,44.614086,hornes Rd in front of Lions Club,,,,-63.485992,,8660,,,0
+,44.615593,hornes Rd opposite civic address 42,,,,-63.48428,,8661,,,0
+,44.618629,hornes Rd in front of civic address 15,,,,-63.480686,,8662,,,0
+,44.617645,caldwell Rd opposite civic address 1592,,,,-63.479328,,8663,,,0
+,44.615444,caldwell Rd in front of civic address 1627,,,,-63.476849,,8664,,,0
+,44.612843,caldwell Rd after civic address 1739,,,,-63.474751,,8665,,,0
+,44.612316,cow Bay Rd after civic address 385,,,,-63.472328,,8666,,,0
+,44.614124,cow Bay Rd before civic address 443,,,,-63.469307,,8667,,,0
+,44.61631,cow Bay Rd in front of civic address 535,,,,-63.466011,,8668,,,0
+,44.617165,samuel Danial Dr after Cow Bay Rd,,,,-63.464005,,8669,,,0
+,44.632729,tower Rd before Inglis St,,,,-63.578117,,8408,,,0
+,44.626034,tower Rd Loop in front of Point Pleasant Park,,,,-63.574329,,8409,,,0
+,44.682594,topsail Blvd opposite civic address 17,,,,-63.514103,,8400,,,0
+,44.62952,tower Rd after Rogers Dr,,,,-63.5774,,8401,,,0
+,44.631588,tower Rd after and opposite Atlantic St,,,,-63.577999,,8402,,,0
+,44.631523,tower Rd before Atlantic St,,,,-63.577843,,8403,,,0
+,44.627907,tower Rd before Harborview Dr,,,,-63.576107,,8404,,,0
+,44.627029,tower Rd before Ogilvie St,,,,-63.575241,,8405,,,0
+,44.626232,tower Rd before Point Pleasant Dr,,,,-63.574642,,8406,,,0
+,44.627975,tower Rd opposite Harbourview Dr,,,,-63.576355,,8407,,,0
+,44.703056,cherry Brook Rd before Hwy #7,,,,-63.470863,,6419,,,0
+,44.704903,cherry Brook Rd in front of Jr High Sch,,,,-63.472736,,6418,,,0
+,44.643566,chebucto Rd [eastbound] before Joseph St,,,,-63.618614,,6415,,,0
+,44.645927,chebucto Rd [westbound] opposite Quinn St,,,,-63.61235,,6414,,,0
+,44.709484,cherry Brook Rd before Bundy Lane,,,,-63.479786,,6417,,,0
+,44.707184,cherry Brook Rd in front of civic address 126,,,,-63.475132,,6416,,,0
+,44.643726,chebucto Rd [westbound] opposite Joseph St,,,,-63.618618,,6411,,,0
+,44.642437,chebucto Rd before Armdale Roundabout,,,,-63.619869,,6410,,,0
+,44.646225,chebucto Rd opposite Benjamin Green Dr,,,,-63.610485,,6413,,,0
+,44.649998,chebucto Rd opposite Saint Matthias St,,,,-63.596725,,6412,,,0
+,44.664886,gaston Rd before Marilyn Dr,,,,-63.535412,,6730,,,0
+,44.66544,gaston Rd opposite Cleary Dr,,,,-63.539162,,6731,,,0
+,44.666916,gaston Rd after Portland St,,,,-63.54451,,6732,,,0
+,44.64835,george St after Granville St,,,,-63.573605,,6733,,,0
+,44.671238,glebe St in front of civic address 5413,,,,-63.609428,,6734,,,0
+,44.683437,glen Manor Dr after Mic Mac Blvd,,,,-63.560562,,6735,,,0
+,44.683197,glen Manor Dr before Mic Mac Blvd,,,,-63.560894,,6736,,,0
+,44.78104,glendale Dr opposite Smokey Dr,,,,-63.688992,,6737,,,0
+,44.768131,glendale Dr after Chandler Dr,,,,-63.667114,,6738,,,0
+,44.760155,glendale Dr after Cobequid Rd,,,,-63.660206,,6739,,,0
+,44.681149,spikenard St after Woodlawn Rd,,,,-63.527943,,8318,,,0
+,44.679489,spikenard St in front of civic address 59,,,,-63.533783,,8319,,,0
+,44.606716,purcells Cove Rd in front of Ferguson Cove Rd,,,,-63.563614,,8084,,,0
+,44.600956,purcells Cove Rd in front of Stanbrae Rd,,,,-63.560955,,8085,,,0
+,44.636795,purcells Cove Rd after Anchor Dr,,,,-63.619915,,8086,,,0
+,44.6227,purcells Cove Rd after Halls Rd,,,,-63.58923,,8087,,,0
+,44.622128,purcells Cove Rd in front of Saraguay Club,,,,-63.584568,,8080,,,0
+,44.630268,purcells Cove Rd opposite civic address 144,,,,-63.608948,,8081,,,0
+,44.622215,purcells Cove Rd opposite Saraguay Club,,,,-63.584854,,8082,,,0
+,44.636059,purcells Cove Rd in front of Braeburn Rd,,,,-63.619926,,8083,,,0
+,44.622829,purcells Cove Rd after Halls Rd,,,,-63.589733,,8088,,,0
+,44.637775,purcells Cove Rd after Herring Cove Rd,,,,-63.619659,,8089,,,0
+,44.603378,herring Cove Rd before Sylvia Ave,,,,-63.611347,,6904,,,0
+,44.645741,connaught Ave in front of civic address 2405,,,,-63.606316,,6495,,,0
+,44.716755,hammonds Plains Rd opposite civic address 69,,,,-63.68269,,6718,,,0
+,44.637978,herring Cove Rd before Purcells Cove Rd,,,,-63.619961,,6903,,,0
+,44.657078,barrington St [southbound] after Artz St,,,,-63.585773,,6088,,,0
+,44.654202,barrington St [northbound] after Cornwallis St,,,,-63.581802,,6089,,,0
+,44.650291,barrington St [southbound] in front of Scotia Square,,,,-63.575794,,6086,,,0
+,44.650246,barrington St [northbound] opposite Scotia Square,,,,-63.575569,,6087,,,0
+,44.64727,barrington St before Prince St,,,,-63.574257,,6084,,,0
+,44.646755,barrington St [northbound] in front of civic address 1663,,,,-63.573837,,6085,,,0
+,44.701267,avenue Du Portage before civic address 138,,,,-63.534874,,6082,,,0
+,44.682629,baffin Blvd before Hudson Way,,,,-63.60667,,6083,,,0
+,44.687447,auburn Dr before Hirandale Cr,,,,-63.484413,,6080,,,0
+,44.693031,auburn Dr opposite civic address 122,,,,-63.486019,,6081,,,0
+,44.659763,forestglen Dr in front of civic address 69,,,,-63.745487,,6715,,,0
+,44.671959,farnham Gate before Chelton Woods Ln,,,,-63.667763,,6648,,,0
+,44.672176,farnham Gate before civic address 220,,,,-63.669552,,6649,,,0
+,44.661987,fairview Overpass after Main Ave,,,,-63.628826,,6644,,,0
+,44.673298,farnham Gate after Dunbrack St,,,,-63.664371,,6645,,,0
+,44.673306,farnham Gate after Dunbrack St,,,,-63.664551,,6646,,,0
+,44.672775,farnham Gate after and opposite Landsdowne Dr,,,,-63.666176,,6647,,,0
+,44.644905,everette St after Pleasant St,,,,-63.540371,,6640,,,0
+,44.69669,eileen Stubbs Ave opposite civic address 100,,,,-63.576523,,6641,,,0
+,44.696728,eileen Stubbs Ave before and opposite civic address 100 To Sackville,,,,-63.576649,,6642,,,0
+,44.662312,fairview Overpass before Windsor St,,,,-63.622929,,6643,,,0
+,44.570778,herring Cove Rd before Oceanview Dr,,,,-63.569466,,6902,,,0
+,44.666691,robie St [northbound] before Normandy Dr,,,,-63.612598,,8211,,,0
+,44.656025,robie St [northbound] before May St,,,,-63.596725,,8210,,,0
+,44.654903,robie St [southbound] before North St,,,,-63.595425,,8213,,,0
+,44.666836,robie St [southbound] before Normandy Dr,,,,-63.613121,,8212,,,0
+,44.658726,robie St before Russell St,,,,-63.6008,,8215,,,0
+,44.647453,robie St [southbound] before Quinpool Rd,,,,-63.590836,,8214,,,0
+,44.661961,robie St [northbound] before Stanley St,,,,-63.605679,,8217,,,0
+,44.661411,massachusetts Ave [northbound] before Stanley St,,,,-63.606373,,8216,,,0
+,44.654739,connaught Ave in front of civic address 3284,,,,-63.617233,,6496,,,0
+,44.659035,lacewood Dr before Parkland Dr [outbound],,,,-63.668919,,7080,,,0
+,44.644417,chebucto Rd [westbound] after Phillips St,,,,-63.617744,,6398,,,0
+,44.642227,chebucto Rd after Armdale Roundabout,,,,-63.619907,,6399,,,0
+,44.660767,young St [westbound] before Agricola St,,,,-63.600941,,8631,,,0
+,44.654289,chain Lake Dr [inbound] in front of Costco Entrance,,,,-63.677502,,6392,,,0
+,44.647999,chain Lake Dr [outbound] before Oland Ct,,,,-63.675098,,6393,,,0
+,44.639038,chain Lake Dr in front of civic address 115,,,,-63.662312,,6390,,,0
+,44.650379,chain Lake Dr [inbound] in front of Dairy Queen,,,,-63.675533,,6391,,,0
+,44.648663,chebucto Rd [westbound] after Oxford St,,,,-63.602764,,6396,,,0
+,44.648705,chebucto Rd [eastbound] after Oxford St,,,,-63.602062,,6397,,,0
+,44.651821,chain Lake Dr [outbound] in front of Subway,,,,-63.676537,,6394,,,0
+,44.6408,horseshoe Lake Dr opposite The Courtyard,,,,-63.671829,,6395,,,0
+,44.699772,commodore Dr before Brownlow Ave [to Sackville],,,,-63.58176,,6491,,,0
+,44.738853,bedford Hwy in front of Arbys,,,,-63.654556,,6266,,,0
+,44.760738,cobequid Rd after Tim Hortons,,,,-63.656799,,6267,,,0
+,44.678173,bedford Hwy [inbound] after Tremont Dr,,,,-63.650066,,6264,,,0
+,44.717106,bedford Hwy after and opposite Valley Rd,,,,-63.677231,,6265,,,0
+,44.68008,bedford Hwy [outbound] after Torrington Dr,,,,-63.655033,,6262,,,0
+,44.737171,bedford Hwy in front of civic address 1683,,,,-63.654327,,6263,,,0
+,44.738979,bedford Hwy after Oakmont Dr,,,,-63.654377,,6260,,,0
+,44.725334,bedford Hwy after Rutledge St,,,,-63.668167,,6261,,,0
+,44.681591,bedford Hwy before Kearney Lake Rd,,,,-63.659451,,6268,,,0
+,44.66563,bedford Hwy in front of civic address 64,,,,-63.636063,,6269,,,0
+,44.649376,atlantic St after Pleasant St [outbound],,,,-63.546677,,6065,,,0
+,44.649349,atlantic St after Pleasant St [inbound],,,,-63.546764,,6066,,,0
+,44.715813,bluewater Rd after Seaway Distributors,,,,-63.715969,,6067,,,0
+,44.657913,astral Dr opposite Spence Dr,,,,-63.485683,,6060,,,0
+,44.645145,pearl Dr before Amethyst Cr,,,,-63.477474,,6061,,,0
+,44.65588,connaught Ave after Regent Rd,,,,-63.617455,,6493,,,0
+,44.649311,atlantic St before Pleasant St [inbound],,,,-63.546501,,6063,,,0
+,44.64933,atlantic St before Pleasant St [outbound],,,,-63.546436,,6068,,,0
+,44.693214,auburn Dr after civic address 14,,,,-63.489346,,6069,,,0
+,44.665203,lady Hammond Rd [eastbound] before Robie St,,,,-63.613205,,7097,,,0
+,44.671532,novalea Dr opposite Samuel Prince Manor [robie],,,,-63.612053,,7379,,,0
+,44.6717,novalea Dr [northbound] opposite Samuel Prince Manor [gottingen],,,,-63.612358,,7378,,,0
+,44.678391,highway 207in front ofcountry Store,,,,-63.258698,,8899,,,0
+,44.66935,highway 207in front of Seaforth Hall,,,,-63.255867,,8898,,,0
+,44.668697,novalea Dr [northbound] before Vestry St,,,,-63.607803,,7373,,,0
+,44.668922,seaforth Back Rdoppositecivic 78,,,,-63.261002,,8896,,,0
+,44.670536,novalea Dr [southbound] before Leeds St To Joe Howe Manor,,,,-63.610882,,7371,,,0
+,44.667435,novalea Dr [southbound] in front of Duffus St,,,,-63.606373,,7370,,,0
+,44.663948,novalea Dr [northbound] opposite Livingstone St,,,,-63.600735,,7377,,,0
+,44.670448,novalea Dr [northbound] opposite Leeds St,,,,-63.610447,,7376,,,0
+,44.655598,mount Hope Ave in front of Eric Spicer Bldg,,,,-63.543449,,8891,,,0
+,44.666424,novalea Dr [northbound] opposite Cabot Place,,,,-63.604561,,7374,,,0
+,44.681721,kearney Lake Rd in front of civic address 30,,,,-63.662743,,9032,,,0
+,44.681778,kearney Lake Rd after Dakin Dr,,,,-63.662853,,9033,,,0
+,44.683243,parkland Dr opposite Lawtons,,,,-63.675346,,9030,,,0
+,44.681564,kearney Lake Rd after Pinewood Terr,,,,-63.664864,,9031,,,0
+,44.677502,parkland Dr before civic address 680,,,,-63.678558,,9036,,,0
+,44.775814,sackville Dr after Beaver Bank Rd,,,,-63.695526,,9037,,,0
+,44.721676,kearney Lake Rd [outbound] after Fraser Construction,,,,-63.728779,,7018,,,0
+,44.681957,kearney Lake Rd after Grosvenor Rd,,,,-63.668148,,7019,,,0
+,44.684006,kearney Lake Rd after Castle Hill Dr,,,,-63.673748,,7016,,,0
+,44.696762,kearney Lake Rd [outbound] after civic address 377,,,,-63.695892,,7017,,,0
+,44.752636,cobequid Rd after Hwy #1,,,,-63.664368,,9038,,,0
+,44.683712,kearney Lake Rd after Broadholme Lane,,,,-63.672951,,7015,,,0
+,44.695362,karen Dr after Hillsboro Dr,,,,-63.493107,,7012,,,0
+,44.695263,karen Dr before Hillsboro Dr,,,,-63.493069,,7013,,,0
+,44.644287,joseph Howe Dr opposite civic address 2885,,,,-63.625122,,7010,,,0
+,44.647667,joseph Howe Dr after Murdock Ave,,,,-63.629528,,7011,,,0
+,44.629574,herring Cove Rd opposite civic address 125,,,,-63.617523,,6909,,,0
+,44.647572,sherwood St opposite Woodbury Dr,,,,-63.478527,,8268,,,0
+,44.573898,herring Cove Rd in front of civic address 946,,,,-63.573318,,6886,,,0
+,44.57188,herring Cove Rd opposite civic address 964,,,,-63.571224,,6887,,,0
+,44.578861,herring Cove Rd in front of civic address 872,,,,-63.578529,,6884,,,0
+,44.574207,herring Cove Rd in front of civic address 935,,,,-63.573692,,6885,,,0
+,44.580284,herring Cove Rd in front of civic address 858,,,,-63.580799,,6882,,,0
+,44.57888,herring Cove Rd in front of civic address 865,,,,-63.578716,,6883,,,0
+,44.582211,herring Cove Rd in front of civic address 822,,,,-63.584332,,6880,,,0
+,44.57983,herring Cove Rd in front of civic address 851,,,,-63.580238,,6881,,,0
+,44.572781,herring Cove Rd in front of civic address 954,,,,-63.572178,,6888,,,0
+,44.570522,herring Cove Rd in front of civic address 988,,,,-63.568703,,6889,,,0
+,44.657444,main Ave before Borden St,,,,-63.638756,,7168,,,0
+,44.661968,main Ave before Fairview Overpass,,,,-63.629028,,7169,,,0
+,44.604378,shore Rd after Chater St,,,,-63.477081,,8269,,,0
+,44.65287,main Ave after Dunbrack St,,,,-63.649181,,7162,,,0
+,44.660686,main Ave after Ford St To Joe Howe Manor,,,,-63.631435,,7163,,,0
+,44.659851,main Ave [eastbound] after Titus St To Mumford,,,,-63.633228,,7166,,,0
+,44.658131,main Ave in front of civic address 103,,,,-63.637749,,7167,,,0
+,44.655567,main Ave after Hillcrest St,,,,-63.643192,,7164,,,0
+,44.65884,main Ave [eastbound] after Maple St To Mumford,,,,-63.635777,,7165,,,0
+,44.686314,princess Margaret Blvd before Ryan Gate,,,,-63.607182,,8079,,,0
+,44.686253,princess Margaret Blvd before Windmill Rd,,,,-63.599422,,8078,,,0
+,44.686588,princess Margaret Blvd in front of Bld 2-16,,,,-63.606544,,8071,,,0
+,44.686115,princess Margaret Blvd after Bio Entrance,,,,-63.603676,,8070,,,0
+,44.687084,princess Margaret Blvd in front of civic address 203,,,,-63.609299,,8073,,,0
+,44.687977,princess Margaret Blvd in front of Bld 8296,,,,-63.607002,,8072,,,0
+,44.686287,princess Margaret Blvd after Windmill Rd,,,,-63.599411,,8075,,,0
+,44.689129,princess Margaret Blvd after Killkee Gate,,,,-63.610268,,8074,,,0
+,44.685963,princess Margaret Blvd before Iroquois Dr,,,,-63.601482,,8077,,,0
+,44.686169,princess Margaret Blvd before Bio Entrance,,,,-63.603676,,8076,,,0
+,44.648792,shrewsbury Rd in front of civic address 147,,,,-63.482075,,8279,,,0
+,44.650928,shrewsbury Rd opposite Huntington Dr,,,,-63.48074,,8278,,,0
+,44.606205,shore Rd before Normans Lane,,,,-63.488235,,8277,,,0
+,44.607327,shore Rd before civic address 1638,,,,-63.490093,,8276,,,0
+,44.609806,shore Rd before Quigley's Corner,,,,-63.492531,,8275,,,0
+,44.601254,shore Rd before Himmelman Dr,,,,-63.469185,,8274,,,0
+,44.602699,shore Rd before civic address 1992,,,,-63.471642,,8273,,,0
+,44.603527,shore Rd after Romkey Dr,,,,-63.473415,,8271,,,0
+,44.606312,shore Rd after Oceanlea Dr,,,,-63.482979,,8270,,,0
+,44.613331,heritage Hills Dr in front of civic address 6,,,,-63.470032,,8673,,,0
+,44.611923,heritage Hills Dr before Serop Cr,,,,-63.468517,,8672,,,0
+,44.613022,melrose Cr in front of civic address 180,,,,-63.464809,,8671,,,0
+,44.615211,melrose Cr after Samuel Danial Dr,,,,-63.462009,,8670,,,0
+,44.610905,cow Bay Rd before civic address 194,,,,-63.484463,,8677,,,0
+,44.61137,cow Bay Rd before civic address 254,,,,-63.480171,,8676,,,0
+,44.611748,cow Bay Rd after Caldwell Rd,,,,-63.475174,,8675,,,0
+,44.612259,cow Bay Rd in front of civic address 386,,,,-63.472836,,8674,,,0
+,44.612343,cow Bay Rd after civic address 36,,,,-63.491379,,8679,,,0
+,44.612297,cow Bay Rd before Hornes Rd,,,,-63.488178,,8678,,,0
+,44.685783,sea King Dr in front of civic address 6,,,,-63.575687,,8264,,,0
+,44.675167,victoria Rd after Boland Rd,,,,-63.577415,,8419,,,0
+,44.679596,victoria Rd after Albro Lake Rd,,,,-63.584488,,8418,,,0
+,44.654247,upper Water St [southbound] after Cornwallis St,,,,-63.580418,,8413,,,0
+,44.651131,upper Water St in front of Purdys Tower,,,,-63.574741,,8412,,,0
+,44.638878,university Ave opposite Summer St,,,,-63.581852,,8411,,,0
+,44.63924,university Ave before Summer St,,,,-63.582005,,8410,,,0
+,44.66888,vestry St in front of Novalea Dr,,,,-63.607925,,8417,,,0
+,44.679432,valleyfield Rd in front of civic address 2,,,,-63.534847,,8416,,,0
+,44.687115,sea King Dr before Lancaster Dr,,,,-63.572098,,8265,,,0
+,44.654324,upper Water St [northbound] before Cornwallis St,,,,-63.580261,,8414,,,0
+,44.665283,colby Dr before Balsam Pl,,,,-63.482742,,6468,,,0
+,44.666016,colby Dr before Boling Green Cr,,,,-63.48016,,6469,,,0
+,44.635708,pleasant St after Belmont Ave,,,,-63.526672,,7484,,,0
+,44.649696,cogswell St [westbound] before North Park St,,,,-63.584702,,6460,,,0
+,44.648701,cogswell St [westbound] in front of Oval,,,,-63.58807,,6461,,,0
+,44.649841,cogswell St [eastbound] opposite Maynard St,,,,-63.583447,,6462,,,0
+,44.660622,colby Dr [bt] Becks & Greenwich,,,,-63.478577,,6463,,,0
+,44.664982,colby Dr [bt] Briarlynn Cr,,,,-63.478058,,6464,,,0
+,44.663433,colby Dr after Bellroyal Ct,,,,-63.477871,,6465,,,0
+,44.666412,colby Dr after Delta Dr,,,,-63.491386,,6466,,,0
+,44.666363,colby Dr before Autumn Pl,,,,-63.485485,,6467,,,0
+,44.626488,pleasant St [northbound] before Cfb Shearwater,,,,-63.514866,,7486,,,0
+,44.681313,cranberry Cr opposite civic address 132,,,,-63.499935,,6525,,,0
+,44.681744,cranberry Cr before Lapierre Cr,,,,-63.502033,,6524,,,0
+,44.673016,crichton Ave [southbound] after civic address 63,,,,-63.564743,,6527,,,0
+,44.674221,crichton Ave [southbound] before Oak St,,,,-63.564686,,6526,,,0
+,44.638496,south Park St [northbound] after South St,,,,-63.577881,,8307,,,0
+,44.63739,south Park St [northbound] after Fenwick St,,,,-63.577366,,8306,,,0
+,44.637505,south St [eastbound] in front of civic address 5784,,,,-63.580135,,8305,,,0
+,44.634796,south St [westbound] opposite Dalplex,,,,-63.592571,,8304,,,0
+,44.636997,south St [eastbound] opposite I.w.k Hospital,,,,-63.582401,,8303,,,0
+,44.635651,south St [westbound] opposite Cataret St,,,,-63.588646,,8302,,,0
+,44.637981,south St [westbound] before Tower Rd,,,,-63.578808,,8301,,,0
+,44.638287,south St [westbound] before South Park St,,,,-63.577469,,8300,,,0
+,44.665825,gaston Rd before Galaxy Ave,,,,-63.540039,,6729,,,0
+,44.664928,gaston Rd before civic address 77,,,,-63.537041,,6728,,,0
+,44.699696,ilsley Ave in front of civic address 100,,,,-63.586773,,6952,,,0
+,44.640244,south Park St [northbound] after University Ave,,,,-63.578697,,8309,,,0
+,44.641987,south Park St [southbound] after Spring Garden Rd,,,,-63.579723,,8308,,,0
+,44.630466,purcells Cove Rd before civic address 142,,,,-63.608818,,8097,,,0
+,44.618267,purcells Cove Rd in front of Melvin Rd,,,,-63.57798,,8096,,,0
+,44.612949,purcells Cove Rd in front of St Cecelia Dr,,,,-63.57534,,8095,,,0
+,44.597073,purcells Cove Rd after York Redoubt,,,,-63.557114,,8094,,,0
+,44.623394,purcells Cove Rd after Willams Lake Rd,,,,-63.6012,,8093,,,0
+,44.623604,purcells Cove Rd after Wenlock Grove,,,,-63.595081,,8092,,,0
+,44.623173,purcells Cove Rd after Litchfield Cr,,,,-63.597809,,8091,,,0
+,44.628326,purcells Cove Rd after Inverness Ave,,,,-63.60778,,8090,,,0
+,44.701778,ilsley Ave in front of Dot Storage,,,,-63.5905,,6954,,,0
+,44.633167,purcells Cove Rd in front of civic address 116a,,,,-63.610703,,8099,,,0
+,44.634506,purcells Cove Rd opposite civic address 45,,,,-63.618988,,8098,,,0
+,44.700222,ilsley Ave before Raddall Dr,,,,-63.587269,,6956,,,0
+,44.704479,ilsley Ave before Wright Ave,,,,-63.595013,,6957,,,0
+,44.672558,barrington St [northbound] in front of civic address 3695,,,,-63.605751,,6099,,,0
+,44.672176,barrington St in front of civic address 3640,,,,-63.604939,,6098,,,0
+,44.660294,barrington St [northbound] after Fleet Club,,,,-63.589645,,6091,,,0
+,44.66362,barrington St [southbound] after Devonshire St,,,,-63.593262,,6090,,,0
+,44.637733,barrington St [northbound] opposite Green St,,,,-63.569679,,6093,,,0
+,44.637306,barrington St [southbound] after Green St,,,,-63.569752,,6092,,,0
+,44.664967,barrington St [southbound] before Young St,,,,-63.594898,,6095,,,0
+,44.665016,barrington St [northbound] after Young St,,,,-63.594833,,6094,,,0
+,44.640141,barrington St [southbound] before South St,,,,-63.570625,,6097,,,0
+,44.640202,barrington St [northbound] after South St,,,,-63.570446,,6096,,,0
+,44.671387,farnham Gate after Aster Ct,,,,-63.674942,,6656,,,0
+,44.672188,farnham Gate before Scotchpine,,,,-63.670853,,6655,,,0
+,44.672291,farnham Gate in front of civic address 185,,,,-63.669125,,6654,,,0
+,44.671291,farnham Gate before Redfern Terr,,,,-63.674168,,6653,,,0
+,44.672955,farnham Gate before Ross,,,,-63.666161,,6652,,,0
+,44.672836,farnham Gate before Ross,,,,-63.666275,,6651,,,0
+,44.671593,farnham Gate before Glenbourne Ct,,,,-63.671906,,6650,,,0
+,44.646217,chain Lake Dr [outbound] after Susie Lake Cr,,,,-63.672997,,6385,,,0
+,44.641262,horseshoe Lake Dr in front of The Courtyard,,,,-63.672726,,6384,,,0
+,44.652359,chain Lake Dr [inbound] in front of Superstore,,,,-63.676411,,6387,,,0
+,44.648148,chain Lake Dr [inbound] after Oland Ct,,,,-63.674797,,6386,,,0
+,44.639011,horseshoe Lake Dr [outbound] in front of civic address 280,,,,-63.671844,,6381,,,0
+,44.637714,chain Lake Dr before Mcquade Lake Dr,,,,-63.666397,,6380,,,0
+,44.645317,horseshoe Lake Dr [inbound] in front of Suzie Lake Cr,,,,-63.675327,,6383,,,0
+,44.653454,chain Lake Dr opposite Costco Entrance,,,,-63.677761,,6382,,,0
+,44.649933,chain Lake Dr [outbound] in front of Burger King,,,,-63.675793,,6389,,,0
+,44.642853,chain Lake Dr in front of Bl Corporate Centre,,,,-63.663025,,6388,,,0
+,44.705765,wright Ave after Joseph Zatzman,,,,-63.593662,,8867,,,0
+,44.709606,wright Ave opposite Burridge,,,,-63.575111,,8864,,,0
+,44.781342,sackville Dr after Millwood Dr,,,,-63.707527,,7301,,,0
+,44.708,wright Ave before Garland Ave,,,,-63.584259,,8862,,,0
+,44.708584,wright Ave after Melnor Ave,,,,-63.580009,,8863,,,0
+,44.7066,bedford Hwy in front of civic address 741,,,,-63.664391,,6271,,,0
+,44.732964,bedford Hwy [inbound] in front of Dartmouth Rd,,,,-63.656296,,6270,,,0
+,44.704773,bedford Hwy before Fern Ave,,,,-63.663292,,6273,,,0
+,44.697872,bedford Hwy in front of civic address 612,,,,-63.66111,,6272,,,0
+,44.68251,bedford Hwy before Kearney Lake Rd,,,,-63.6609,,6275,,,0
+,44.709476,bedford Hwy [inbound] before Glenmont Ave,,,,-63.668865,,6274,,,0
+,44.721512,bedford Hwy before Lindsay Hill,,,,-63.671535,,6277,,,0
+,44.690746,bedford Hwy before Kent Ave,,,,-63.660065,,6276,,,0
+,44.67997,bedford Hwy before Torrington Dr,,,,-63.654762,,6279,,,0
+,44.722942,bedford Hwy before Sullivans Hill,,,,-63.670593,,6278,,,0
+,44.707146,wright Ave before Burnside Dr,,,,-63.58913,,8861,,,0
+,44.691196,auburn Dr before civic address 187,,,,-63.484776,,6077,,,0
+,44.691555,auburn Dr in front of civic address 188,,,,-63.484833,,6076,,,0
+,44.687931,auburn Dr in front of civic address 325,,,,-63.48415,,6075,,,0
+,44.693287,auburn Dr in front of civic address 23,,,,-63.488487,,6074,,,0
+,44.688969,auburn Dr in front of Auburn High School,,,,-63.483227,,6073,,,0
+,44.693581,auburn Dr in front of civic address 60,,,,-63.487862,,6072,,,0
+,44.692978,auburn Dr after Leander Dr,,,,-63.485806,,6071,,,0
+,44.687,auburn Dr after Forest Hills Pkwy,,,,-63.490803,,6070,,,0
+,44.686447,auburn Dr before civic address 426,,,,-63.488518,,6079,,,0
+,44.689819,auburn Dr before civic address 249,,,,-63.483879,,6078,,,0
+,44.657146,north St [westbound] after Gottingen St,,,,-63.591438,,7346,,,0
+,44.657021,north St [eastbound] before Gottingen St,,,,-63.591263,,7347,,,0
+,44.650364,north St [westbound] after Dublin St,,,,-63.601124,,7344,,,0
+,44.650269,north St [eastbound] before Dublin St,,,,-63.600883,,7345,,,0
+,44.65443,north St [eastbound] before Robie St,,,,-63.594982,,7342,,,0
+,44.658287,north St[eastbound] after Brunswick St,,,,-63.588928,,7343,,,0
+,44.784401,nordic Cr before Stokil Dr,,,,-63.679356,,7340,,,0
+,44.655083,north St in front of civic address 5797,,,,-63.594406,,7341,,,0
+,44.658325,north St [westbound] after Lorne Terrace,,,,-63.590298,,7348,,,0
+,44.626766,pleasant St [southbound] in front of Cfb Shearwater,,,,-63.515491,,7462,,,0
+,44.647678,joseph Howe Dr before Springvale Ave,,,,-63.629635,,7009,,,0
+,44.64241,joseph Howe Dr opposite Clinton Ave,,,,-63.621311,,7008,,,0
+,44.682171,parkland Dr after Castlepark Grove,,,,-63.677746,,9029,,,0
+,44.679638,parkland Dr after The Wedgewood,,,,-63.678337,,9028,,,0
+,44.673737,parkland Dr before Heathside Cr,,,,-63.675949,,9025,,,0
+,44.725113,bedford Hwy opposite Meadowbrook Dr,,,,-63.668465,,9024,,,0
+,44.677521,parkland Dr after and opposite civic address 680,,,,-63.678249,,9027,,,0
+,44.741356,johnson Rd in front of civic address 80,,,,-63.467407,,7002,,,0
+,44.600151,leiblin Dr in front of Sportsfield,,,,-63.630962,,9021,,,0
+,44.643398,joseph Howe Dr in front of Craigmore Dr,,,,-63.623386,,7004,,,0
+,44.713749,bedford Hwy opposite Moirs Mill Rd,,,,-63.677414,,9023,,,0
+,44.642323,joseph Howe Dr before Clinton Ave,,,,-63.62104,,7006,,,0
+,44.695801,ross Rd in front of civic address 163,,,,-63.459137,,8934,,,0
+,44.690815,ross Rd in front of civic address 277,,,,-63.455894,,8935,,,0
+,44.687454,ross Rd in front of civic address 371,,,,-63.453968,,8936,,,0
+,44.684643,ross Rd in front of civic address 389,,,,-63.45385,,8937,,,0
+,44.714947,highway 7 after Lower Governor St,,,,-63.435413,,8930,,,0
+,44.70874,highway 7 in front of civic address 1799,,,,-63.439823,,8931,,,0
+,44.703186,ross Rd [inbound] after Highway 7,,,,-63.46497,,8932,,,0
+,44.700176,ross Rd in front of civic address 27,,,,-63.461254,,8933,,,0
+,44.682423,cole Harbour Rd [inbound] in front of Old Lawrencetown Rd,,,,-63.454514,,8938,,,0
+,44.672623,cole Harbour Rd[inbound] opposite Bisset Rd,,,,-63.477306,,8939,,,0
+,44.681892,main St before Major St,,,,-63.540161,,7175,,,0
+,44.68153,main St after Mic Mac Parclo,,,,-63.541977,,7174,,,0
+,44.598839,herring Cove Rd before civic address 569,,,,-63.605194,,6893,,,0
+,44.608162,herring Cove Rd before civic address 427,,,,-63.6157,,6892,,,0
+,44.581928,herring Cove Rd before civic address 819,,,,-63.583946,,6895,,,0
+,44.586853,herring Cove Rd before civic address 726,,,,-63.590908,,6894,,,0
+,44.681705,main St in front of civic address 126,,,,-63.540215,,7173,,,0
+,44.654209,main Ave before Willet St,,,,-63.646603,,7172,,,0
+,44.600845,herring Cove Rd before Mcintosh St,,,,-63.607761,,6899,,,0
+,44.601967,herring Cove Rd before Lynnett Rd,,,,-63.609432,,6898,,,0
+,44.655113,maplewood Ave after Eisener St,,,,-63.739117,,7179,,,0
+,44.655067,maplewood Ave after civic address 67,,,,-63.739319,,7178,,,0
+,44.678398,highway 207oppositecountry Store,,,,-63.258823,,8798,,,0
+,44.621277,cunard Jr High,,,,-63.602604,,8799,,,0
+,44.653049,rosedale Ave in front of civic address 60,,,,-63.637497,,8248,,,0
+,44.653397,rosedale Ave in front of Alex St,,,,-63.636997,,8249,,,0
+,44.654255,rosedale Ave in front of civic address 30,,,,-63.63485,,8242,,,0
+,44.655048,rosedale Ave after civic address 10,,,,-63.633099,,8243,,,0
+,44.729221,highway 207before Johnson Ave,,,,-63.270111,,8792,,,0
+,44.698921,ronald Smith after Ilsley Ave,,,,-63.585274,,8241,,,0
+,44.651657,rosedale Ave after Hillcrest St,,,,-63.640949,,8246,,,0
+,44.652245,rosedale Ave in front of civic address 81,,,,-63.639549,,8247,,,0
+,44.654533,rosedale Ave after civic address 23,,,,-63.63451,,8244,,,0
+,44.689774,highway 207in front ofcivic 6551,,,,-63.25769,,8797,,,0
+,44.627415,point Pleasant Park 1st Canteen,,,,-63.566193,,8648,,,0
+,44.626015,point Pleasant Park Lower Lot,,,,-63.564739,,8649,,,0
+,44.754219,cobequid Terminal[to Bedford]l,,,,-63.663387,,8646,,,0
+,44.662601,dunbrack St after Lacewood Dr,,,,-63.65453,,8647,,,0
+,44.670643,penhorn Terminal [westbound] [outbound],,,,-63.538433,,8645,,,0
+,44.648102,mumford Terminal [outbound In Terminal],,,,-63.620819,,8643,,,0
+,44.681007,victoria Rd before Primrose St,,,,-63.586922,,8426,,,0
+,44.671532,victoria Rd before Thistle St,,,,-63.571743,,8427,,,0
+,44.676132,victoria Rd before Frances St,,,,-63.57888,,8424,,,0
+,44.677567,victoria Rd before Moira St,,,,-63.581203,,8425,,,0
+,44.680519,victoria Rd [southbound] after Farrell St,,,,-63.58643,,8422,,,0
+,44.679035,victoria Rd after Chappell St,,,,-63.583614,,8420,,,0
+,44.678921,victoria Rd after Chappell St,,,,-63.583702,,8421,,,0
+,44.676502,victoria Rd in front of civic address 182,,,,-63.579185,,8428,,,0
+,44.672798,victoria Rd opposite civic address 108,,,,-63.573597,,8429,,,0
+,44.674351,heathside Cr after Blue Thistle Rd,,,,-63.673798,,6842,,,0
+,44.570961,hebridean Dr in front of civic address 78,,,,-63.564087,,6843,,,0
+,44.725548,bluewater in front of civic address 23,,,,-63.707798,,6840,,,0
+,44.671432,cole Harbour Rd in front of civic address 959,,,,-63.495186,,6479,,,0
+,44.671227,cole Harbour Rd after Otago Dr,,,,-63.499439,,6478,,,0
+,44.66061,colby Dr before Grenadier Dr,,,,-63.481377,,6473,,,0
+,44.664055,colby Dr before Deerbrooke Dr,,,,-63.490154,,6472,,,0
+,44.662186,colby Dr before Crestwood Dr,,,,-63.483303,,6471,,,0
+,44.663177,colby Dr before Castlewood Dr,,,,-63.486866,,6470,,,0
+,44.67165,cole Harbour Rd after Cumberland Dr,,,,-63.489128,,6477,,,0
+,44.671265,cole Harbour Rd after civic address 942,,,,-63.496349,,6476,,,0
+,44.672039,cole Harbour Rd after civic address 1106,,,,-63.486183,,6475,,,0
+,44.671089,cole Harbour Rd after Caldwell Rd,,,,-63.501057,,6474,,,0
+,44.633781,herring Cove Rd in front of civic address 65,,,,-63.619694,,6844,,,0
+,44.566887,lancaster Dr before civic address 42,,,,-63.562366,,7121,,,0
+,44.640427,spring Garden Rd [westbound] before Robie St,,,,-63.586746,,8332,,,0
+,44.642117,spring Garden Rd [eastbound] before South Park St,,,,-63.57996,,8333,,,0
+,44.642891,spring Garden Rd [westbound] before Dresden Row,,,,-63.577747,,8330,,,0
+,44.643398,spring Garden Rd [westbound] before Queen St,,,,-63.575798,,8331,,,0
+,44.642654,spring Garden Rd [eastbound] after Dresden Row,,,,-63.577988,,8336,,,0
+,44.641331,spring Garden Rd [eastbound] after Summer St,,,,-63.582977,,8337,,,0
+,44.642372,spring Garden Rd [westbound] before South Park St,,,,-63.579678,,8334,,,0
+,44.641384,spring Garden Rd [westbound] before Summer St,,,,-63.583183,,8335,,,0
+,44.658493,forestglen Dr before Meadowdale Ct,,,,-63.745239,,6716,,,0
+,44.724133,innovation Dr after Angus Morton (to Bedford),,,,-63.69733,,6717,,,0
+,44.658142,forestglen Dr after Meadowdale Ct,,,,-63.745308,,6714,,,0
+,44.677128,spring Ave before civic address 57a,,,,-63.517525,,8339,,,0
+,44.661968,forestglen Dr after civic address 2,,,,-63.746895,,6712,,,0
+,44.660648,forestglen Dr after civic address 50,,,,-63.74588,,6713,,,0
+,44.690189,flying Cloud Dr before Forest Hills Pkwy,,,,-63.495178,,6710,,,0
+,44.682213,flying Cloud Dr after Paxton Dr,,,,-63.493954,,6711,,,0
+,44.650894,willet St before Frederick Ave,,,,-63.643978,,8500,,,0
+,44.658028,willet St before Westridge Dr,,,,-63.654461,,8503,,,0
+,44.688137,forest Hills Pkwy in front of Bell Annex,,,,-63.492325,,6668,,,0
+,44.683823,forest Hills Pkwy in front of Cole Harbour Place,,,,-63.490883,,6669,,,0
+,44.636253,fenwood Rd in front of civic address 23,,,,-63.628448,,6662,,,0
+,44.636009,fenwood Rd before Edgehill Rd,,,,-63.626617,,6663,,,0
+,44.636703,fenwood Rd after St Margarets Bay Rd,,,,-63.630512,,6661,,,0
+,44.681076,forest Hills Pkwy before 2nd Chameau Cr,,,,-63.491348,,6666,,,0
+,44.673538,forest Hills Pkwy before Cole Harbour Rd,,,,-63.490974,,6667,,,0
+,44.672939,forest Hills Pkwy after Woodbury Apt,,,,-63.490543,,6664,,,0
+,44.677074,forest Hills Pkwy after Circassion Dr,,,,-63.491859,,6665,,,0
+,44.748665,damascus Rd in front of Turning Loop,,,,-63.647316,,8505,,,0
+,44.635677,south Park St [northbound] before Victoria Rd,,,,-63.57653,,8314,,,0
+,44.635918,south Park St [southbound] before Victoria Rd,,,,-63.576897,,8315,,,0
+,44.635643,south St [eastbound] after Cataret St,,,,-63.588509,,8316,,,0
+,44.63625,south St [westbound] before Edward St,,,,-63.585903,,8317,,,0
+,44.657162,dunbrack St after Willet St,,,,-63.650452,,8504,,,0
+,44.63451,south Park St [southbound] before Inglis St,,,,-63.576191,,8310,,,0
+,44.63829,south Park St [southbound] before South St,,,,-63.577972,,8311,,,0
+,44.64209,south Park St [northbound] before Spring Garden Rd,,,,-63.579624,,8312,,,0
+,44.693039,dunbarton Ave [westbound] in front of civic address 39,,,,-63.534302,,6591,,,0
+,44.64027,south Park St [southbound] before University Ave,,,,-63.578926,,8313,,,0
+,44.692455,dunbarton Ave [westbound] before civic address 21,,,,-63.536747,,6592,,,0
+,44.743271,clarence St in front of civic address 6,,,,-63.468006,,8507,,,0
+,44.67305,dunbrack St in front of Farnham Gate Rd,,,,-63.664219,,6593,,,0
+,44.678524,bedford Hwy opposite Tremont Dr,,,,-63.650349,,6288,,,0
+,44.665356,bedford Hwy opposite civic address 58,,,,-63.635582,,6289,,,0
+,44.680069,arklow Dr before civic address 238,,,,-63.488678,,6043,,,0
+,44.70953,bedford Hwy opposite Glenmont Ave,,,,-63.66864,,6284,,,0
+,44.729179,bedford Hwy opposite Hatchery Ln,,,,-63.66328,,6285,,,0
+,44.669685,bedford Hwy opposite Sherbrooke Dr,,,,-63.640694,,6286,,,0
+,44.696178,bedford Hwy opposite Shaunslieve Dr,,,,-63.660675,,6287,,,0
+,44.717136,bedford Hwy before Valley Rd,,,,-63.677429,,6280,,,0
+,44.735283,bedford Hwy opposite Bedford Place Mall,,,,-63.654961,,6281,,,0
+,44.728958,bedford Hwy opposite civic address 1394,,,,-63.663372,,6282,,,0
+,44.723946,bedford Hwy opposite Fourth St,,,,-63.669819,,6283,,,0
+,44.678116,arklow Dr before civic address 473,,,,-63.483479,,6042,,,0
+,44.672836,woodlawn Rd opposite Bruce St,,,,-63.531307,,8602,,,0
+,44.680305,arklow Dr in front of civic address 354,,,,-63.484863,,6040,,,0
+,44.680874,arklow Dr before civic address 253,,,,-63.489182,,6041,,,0
+,44.667217,ashgrove Ave in front of Ancaster Crt,,,,-63.485649,,6046,,,0
+,44.67025,ashgrove Ave after Avondale Rd,,,,-63.48262,,6047,,,0
+,44.676441,arklow Dr before John Stewart Dr,,,,-63.480202,,6044,,,0
+,44.65551,joseph Howe Dr after Bayers Rd,,,,-63.629807,,6986,,,0
+,44.672058,ashgrove Ave after Cole Harbour Rd,,,,-63.483395,,6048,,,0
+,44.668358,ashgrove Ave before Addison,,,,-63.483269,,6049,,,0
+,44.671818,woodlawn Rd before Portland St,,,,-63.532272,,8600,,,0
+,44.671417,cole Harbour Rd opposite civic address 983,,,,-63.492287,,6482,,,0
+,44.674023,woodlawn Rd before Woodlawn Trailer Ct,,,,-63.529182,,8601,,,0
+,44.649036,woodside Ferry Terminal [inbound],,,,-63.548134,,8606,,,0
+,44.678284,arklow Dr opposite civic address 181,,,,-63.487335,,6045,,,0
+,44.649193,woodside Ferry Metrolink,,,,-63.548519,,8607,,,0
+,44.658012,north St [eastbound] before Brunswick St,,,,-63.589748,,7351,,,0
+,44.655579,north St [westbound] before Agricola St,,,,-63.593727,,7350,,,0
+,44.653839,north St [westbound] before Clifton St,,,,-63.596218,,7353,,,0
+,44.65353,north St [eastbound] before Clifton St,,,,-63.59626,,7352,,,0
+,44.648895,north St [eastbound] before Oxford St,,,,-63.602955,,7355,,,0
+,44.680672,woodlawn Rd in front of civic address 49,,,,-63.526928,,8604,,,0
+,44.651993,north St [eastbound] before Windsor St,,,,-63.598484,,7357,,,0
+,44.649284,north St [westbound] before Oxford St,,,,-63.602657,,7356,,,0
+,44.652332,north St [westbound] before Windsor St,,,,-63.598373,,7358,,,0
+,44.64912,woodside Ferry Terminal [outbound],,,,-63.548344,,8605,,,0
+,44.716518,colford Ave before Akerley Blvd,,,,-63.586861,,6483,,,0
+,44.630165,ragged Lake Transit Centre,,,,-63.669365,,9052,,,0
+,44.681946,windmill Rd before Fernhill,,,,-63.596615,,9053,,,0
+,44.715462,kearney Lake Rd [inbound] after Blue Mountain Rd,,,,-63.720165,,9054,,,0
+,44.71579,kearney Lake Rd [outbound] after Blue Mountain Rd,,,,-63.720688,,9055,,,0
+,44.725639,hammonds Plains Rd [outbound] after Innovation Dr,,,,-63.692883,,9056,,,0
+,44.725677,hammonds Plains Rd [inbound] before Innovation Dr,,,,-63.692802,,9057,,,0
+,44.728374,brooks Rdoppositecivic 377,,,,-63.421158,,8927,,,0
+,44.726021,upper Partridge River Rdoppositecivic 102,,,,-63.41935,,8926,,,0
+,44.72237,highway 7aftercivic 2365,,,,-63.415436,,8925,,,0
+,44.721455,highway 7aftercivic 2505,,,,-63.409267,,8924,,,0
+,44.721794,highway 7afterbell Rd,,,,-63.401035,,8923,,,0
+,44.729733,highway 7in front ofcivic 2911,,,,-63.394146,,8922,,,0
+,44.734322,highway 7in front offire Hall,,,,-63.391056,,8921,,,0
+,44.73634,highway 7in front ofcivic 3103,,,,-63.388733,,8920,,,0
+,44.720299,brooks Dr in front of East Preston Rec Centre,,,,-63.43277,,8929,,,0
+,44.726357,brooks Rdoppositecivic 253,,,,-63.427437,,8928,,,0
+,44.707439,lake Loon Rd before Maclaughlin Rd,,,,-63.488819,,7100,,,0
+,44.709858,lake Loon Rd after Sparks Dr,,,,-63.496693,,7101,,,0
+,44.742844,north Preston Rd in front of Nelson Whynder School,,,,-63.464642,,7102,,,0
+,44.705044,lake Major Rd after Chamberlain Dr,,,,-63.467384,,7103,,,0
+,44.635704,herring Cove Rd after Withrod Dr,,,,-63.621998,,6868,,,0
+,44.628773,herring Cove Rd in front of civic address 135,,,,-63.617123,,6869,,,0
+,44.704319,lake Major Rd after Hwy #7,,,,-63.466904,,7106,,,0
+,44.744678,north Preston Rd in front of civic address 1032,,,,-63.464558,,7107,,,0
+,44.610332,herring Cove Rd after Levis St,,,,-63.617077,,6864,,,0
+,44.585155,herring Cove Rd after Sarah Dr,,,,-63.588768,,6865,,,0
+,44.612488,herring Cove Rd after Sussex St,,,,-63.617611,,6866,,,0
+,44.616146,herring Cove Rd after Williams Lake Rd,,,,-63.614544,,6867,,,0
+,44.627987,herring Cove Rd after Glenora Ave,,,,-63.616455,,6860,,,0
+,44.595203,herring Cove Rd after Green Acres Rd,,,,-63.599758,,6861,,,0
+,44.594681,herring Cove Rd opposite Green Acres Rd,,,,-63.599339,,6862,,,0
+,44.613739,herring Cove Rd after Hartlen Ave,,,,-63.616608,,6863,,,0
+,44.656021,north St [eastbound] before Fuller Terrace,,,,-63.592697,,7354,,,0
+,44.662258,russell Lake Dr after Portland Estates West,,,,-63.518536,,8255,,,0
+,44.666401,russell Lake Dr after Eisener Dr,,,,-63.521076,,8254,,,0
+,44.662205,russell Lake Dr before Georgian Ct,,,,-63.519379,,8257,,,0
+,44.666187,russell Lake Dr before Eisener Dr,,,,-63.521168,,8256,,,0
+,44.675789,ross St after Norman Cr,,,,-63.666409,,8251,,,0
+,44.651627,rosedale Ave before Hillcrest St,,,,-63.640614,,8250,,,0
+,44.663746,russell Lake Dr opposite civic address 58,,,,-63.520817,,8253,,,0
+,44.675003,ross St after and opposite Oakley Ave,,,,-63.668087,,8252,,,0
+,44.772106,sackville Dr before Downsview Entrance,,,,-63.691719,,8259,,,0
+,44.662804,russell Lake Dr in front of civic address 30,,,,-63.520214,,8258,,,0
+,44.744263,lakeview Shopping Centre,,,,-63.283531,,8789,,,0
+,44.746403,highway 7 in front of civic address 5072,,,,-63.292133,,8788,,,0
+,44.739861,highway 7 in front of civic address 4396,,,,-63.319786,,8783,,,0
+,44.740425,highway 7 in front of civic address 4296,,,,-63.324688,,8782,,,0
+,44.736687,highway 7 in front of civic address 3372,,,,-63.375702,,8781,,,0
+,44.737946,highway 7 opposite St Annes Church,,,,-63.379303,,8780,,,0
+,44.747452,highway 7 opposite Cove Rd,,,,-63.299767,,8787,,,0
+,44.742836,highway 7 opposite civic address 4779,,,,-63.300724,,8786,,,0
+,44.738785,highway 7 after This Street,,,,-63.305065,,8785,,,0
+,44.737423,highway 7 in front of civic address 4560,,,,-63.310631,,8784,,,0
+,44.672554,sheldrake Lake Park & Ride (to Halifax),,,,-63.782852,,7618,,,0
+,44.672615,shelldrake Lake Park & Ride (outbound),,,,-63.782749,,7619,,,0
+,44.670654,dartmouth Bridge Terminal - Bay 14,,,,-63.575027,,7614,,,0
+,44.67075,dartmouth Bridge Terminal - Bay 15,,,,-63.575199,,7615,,,0
+,44.670879,dartmouth Bridge Terminal - Bay 16,,,,-63.575401,,7616,,,0
+,44.670055,dartmouth Bridge Terminal - Bay 10 (320 To Hfx),,,,-63.574005,,7617,,,0
+,44.670105,dartmouth Bridge Terminal - Bay 10,,,,-63.574081,,7610,,,0
+,44.67025,dartmouth Bridge Terminal - Bay 11,,,,-63.574348,,7611,,,0
+,44.670383,dartmouth Bridge Terminal - Bay 12,,,,-63.57457,,7612,,,0
+,44.670536,dartmouth Bridge Terminal - Bay 13,,,,-63.574829,,7613,,,0
+,44.700253,commodore Dr after Lamont Terrace,,,,-63.566021,,8659,,,0
+,44.69981,lamont Terr opposite Walmart,,,,-63.567459,,8658,,,0
+,44.635357,st Margarets Bay Rd in front of Long Lake Park,,,,-63.651623,,8651,,,0
+,44.63649,st Margarets Bay Rd in front of civic address 120,,,,-63.633808,,8650,,,0
+,44.635529,st Margarets Bay Rd opposite Long Lake Park,,,,-63.650688,,8653,,,0
+,44.636551,st Margarets Bay Rd in front of civic address 121,,,,-63.633671,,8652,,,0
+,44.703529,country View Dr after Mcclure Cl,,,,-63.565487,,8655,,,0
+,44.705769,country View Dr after Shubie Dr,,,,-63.564022,,8654,,,0
+,44.696926,finnian Row opposite Home Depot,,,,-63.566036,,8657,,,0
+,44.700291,gale Terr after Commodore Dr,,,,-63.564693,,8656,,,0
+,44.770386,downsview Dr after Old Sackville Rd,,,,-63.696712,,8431,,,0
+,44.771473,downsview in front of Wendys,,,,-63.693016,,8433,,,0
+,44.76965,downsview Dr before Old Sackville Rd,,,,-63.696667,,8432,,,0
+,44.649364,water St Terminal,,,,-63.572838,,8435,,,0
+,44.724575,waverley Rd after civic address 743,,,,-63.542324,,8437,,,0
+,44.68856,braemar Dr in front of Sutherland Terr,,,,-63.546715,,8436,,,0
+,44.735222,waverley Rd after civic address 933,,,,-63.549496,,8439,,,0
+,44.734985,waverley Rd after civic address 928,,,,-63.5494,,8438,,,0
+,44.583447,herring Cove Rd opposite Barry Cr,,,,-63.586742,,6914,,,0
+,44.60043,herring Cove Rd in front of civic address 543,,,,-63.607327,,6915,,,0
+,44.626621,highfield St before Punch Bowl Dr,,,,-63.6175,,6916,,,0
+,44.685665,highfield Park Dr in front of civic address 90,,,,-63.59021,,6917,,,0
+,44.634945,herring Cove Rd opposite civic address 47,,,,-63.621227,,6910,,,0
+,44.592983,herring Cove Rd opposite civic address 636,,,,-63.597603,,6911,,,0
+,44.577396,herring Cove Rd opposite civic address 894,,,,-63.576923,,6912,,,0
+,44.583618,herring Cove Rd after Barry Cr,,,,-63.586853,,6913,,,0
+,44.6838,highfield Park Dr after and opposite Terminal,,,,-63.589771,,6918,,,0
+,44.687031,highfield Park Dr in front of Coventry Apts,,,,-63.590656,,6919,,,0
+,44.639656,coburg Rd [westbound] before Henry St,,,,-63.588783,,6448,,,0
+,44.638916,coburg Rd [eastbound] before Lemarchant,,,,-63.591228,,6449,,,0
+,44.66642,gaston Rd after Macrae Ave,,,,-63.542084,,6723,,,0
+,44.681358,windmill Rd in front of civic address 370,,,,-63.596104,,8516,,,0
+,44.644047,barrington St [northbound] before Spring Garden Rd,,,,-63.572464,,6123,,,0
+,44.697834,windmill Rd in front of civic address 623,,,,-63.604336,,8517,,,0
+,44.695431,windmill Rd after Victoria Rd,,,,-63.601288,,8514,,,0
+,44.688339,flying Cloud Dr before civic address 265,,,,-63.494793,,6709,,,0
+,44.684723,flying Cloud Dr in front of civic address 157,,,,-63.493721,,6708,,,0
+,44.698673,windmill Rd after Wright Ave,,,,-63.605373,,8515,,,0
+,44.640953,spring Garden Rd [westbound] before Carlton St,,,,-63.584908,,8329,,,0
+,44.640694,spring Garden Rd [eastbound] before Carlton St,,,,-63.585217,,8328,,,0
+,44.670883,flamingo Dr before Dove St,,,,-63.652645,,6701,,,0
+,44.667049,portland St [eastbound] after Prince Arthur St,,,,-63.546387,,8044,,,0
+,44.674732,flamingo Dr before Starling St,,,,-63.649853,,6703,,,0
+,44.669369,flamingo Dr before Meadowlark Cr,,,,-63.655807,,6702,,,0
+,44.670837,flamingo Dr opposite Dove St,,,,-63.652618,,6705,,,0
+,44.674149,flamingo Dr before Skylark St,,,,-63.649834,,6704,,,0
+,44.679901,flying Cloud Dr in front of civic address 39,,,,-63.493084,,6707,,,0
+,44.669415,flamingo Dr opposite and after Meadowlark Dr,,,,-63.655933,,6706,,,0
+,44.668533,windmill Rd after Dawson St,,,,-63.58276,,8510,,,0
+,44.687477,windmill Rd after Princess Margaret Blvd,,,,-63.599144,,8511,,,0
+,44.664501,parkland Dr before Lancaster Dr,,,,-63.671036,,7434,,,0
+,44.66581,parkland Dr before Langbrae Dr,,,,-63.672417,,7435,,,0
+,44.667374,parkland Dr before Woodbury Complex,,,,-63.67503,,7436,,,0
+,44.662529,parkland Dr opposite Bethany Way,,,,-63.670864,,7437,,,0
+,44.666405,parkland Dr after and opposite Carrington Pl,,,,-63.673794,,7430,,,0
+,44.666775,parkland Dr in front of civic address 334,,,,-63.674763,,7431,,,0
+,44.661835,parkland Dr before Bethany Way,,,,-63.67067,,7432,,,0
+,44.67046,parkland Dr before Farnham Gate Rd,,,,-63.675934,,7433,,,0
+,44.70578,wright Ave before Raddall Ave,,,,-63.593204,,8860,,,0
+,44.659927,parkland Dr opposite civic address 51,,,,-63.670013,,7438,,,0
+,44.646572,pearl Dr in front of civic address 46,,,,-63.47562,,7439,,,0
+,44.707829,fielding Dr before Akerley Blvd,,,,-63.60685,,6675,,,0
+,44.705261,fielding Dr in front of civic address 15,,,,-63.601917,,6674,,,0
+,44.703701,fielding Dr before Wright Ave,,,,-63.599037,,6677,,,0
+,44.706429,fielding Dr before Moore Rd,,,,-63.604069,,6676,,,0
+,44.683548,forest Hills Pkwy opposite Cole Harbour Place,,,,-63.491116,,6671,,,0
+,44.6772,forest Hills Pkwy before Circassion Dr,,,,-63.492058,,6670,,,0
+,44.704273,fielding Dr after Wright Ave,,,,-63.599876,,6673,,,0
+,44.706604,fielding Dr after Moore Rd,,,,-63.604179,,6672,,,0
+,44.773132,first Lake Dr after Cabot Cr,,,,-63.659058,,6679,,,0
+,44.705616,fielding Dr in front of civic address 12,,,,-63.602303,,6678,,,0
+,44.695049,hillsboro Dr before civic address 2a,,,,-63.492416,,6936,,,0
+,44.695007,hillsboro Dr before civic address 3,,,,-63.492558,,6937,,,0
+,44.667469,windmill Rd in front of Best St,,,,-63.580658,,8127,,,0
+,44.620594,purcells Cove Rd opposite Rnsys,,,,-63.582588,,8125,,,0
+,44.606861,purcells Cove Rd opposite Ferguson Cove Rd,,,,-63.563885,,8124,,,0
+,44.60136,purcells Cove Rd opposite Devil's Hill Rd,,,,-63.561581,,8123,,,0
+,44.62376,purcells Cove Rd opposite civic address 291,,,,-63.594772,,8121,,,0
+,44.623169,purcells Cove Rd opposite civic address 251,,,,-63.599346,,8120,,,0
+,44.782372,nictaux Dr after Metropolitan Ave,,,,-63.673344,,7290,,,0
+,44.782215,nictaux Dr before Metropolitan Ave,,,,-63.673344,,7291,,,0
+,44.789928,sackville Dr opposite civic address 1401,,,,-63.715393,,7292,,,0
+,44.78989,sackville Dr in front of civic address 1401,,,,-63.71516,,7293,,,0
+,44.772739,sackville Dr in front of Superstore,,,,-63.691978,,7294,,,0
+,44.77702,sackville Dr after Beaverbank Rd,,,,-63.696594,,7295,,,0
+,44.758301,sackville Dr after Hillcrest Ave,,,,-63.668453,,7296,,,0
+,44.775059,sackville Dr after Irene Ave,,,,-63.694302,,7297,,,0
+,44.781704,sackville Dr after Jubilee Ln,,,,-63.703716,,7298,,,0
+,44.766125,sackville Dr after Leaside civic address 506,,,,-63.681965,,7299,,,0
+,44.679573,windmill Rd after Trinity Ave,,,,-63.594631,,8513,,,0
+,44.659065,berts Dr in front of Main Ave,,,,-63.637104,,6296,,,0
+,44.678711,bellevista Dr before civic address 71,,,,-63.517765,,6294,,,0
+,44.679958,bellevista Dr in front of civic address 35,,,,-63.514866,,6293,,,0
+,44.677219,bellevista Dr after Woodlawn Rd,,,,-63.527149,,6292,,,0
+,44.647022,bell Rd [eastbound] after Robie St,,,,-63.589264,,6291,,,0
+,44.71117,bedford Hwy opposite civic address 838,,,,-63.671516,,6290,,,0
+,44.657726,astral Dr before Spence Dr,,,,-63.485813,,6059,,,0
+,44.651623,astral Dr before Shrewsbury Rd,,,,-63.476715,,6058,,,0
+,44.650837,astral Dr before Carisbrooke Lane,,,,-63.475407,,6055,,,0
+,44.655209,astral Dr before Brookifield Ave,,,,-63.481308,,6054,,,0
+,44.657257,astral Dr before Grenadier Dr,,,,-63.482735,,6057,,,0
+,44.657227,astral Dr before civic address 37,,,,-63.487259,,6056,,,0
+,44.653084,astral Dr [outbound] after civic address 257,,,,-63.479073,,6051,,,0
+,44.656796,astral Dr [inbound] before Caldwell Rd,,,,-63.488792,,6050,,,0
+,44.655636,astral Dr after Brookfield Ave,,,,-63.481499,,6053,,,0
+,44.657452,astral Dr [outbound] in front of civic address 117,,,,-63.483246,,6052,,,0
+,44.659275,dutch Village Rd before Alma Cr,,,,-63.631207,,9042,,,0
+,44.750095,damascus Rd opposite Walmart,,,,-63.645504,,9041,,,0
+,44.750355,damascus Rd in front of Walmart,,,,-63.645641,,9040,,,0
+,44.743504,highway 7in front ofcivic4787,,,,-63.301277,,8912,,,0
+,44.738842,highway 7after Laurie Rd,,,,-63.305801,,8913,,,0
+,44.747139,highway 7beforelorianne Dr,,,,-63.293079,,8910,,,0
+,44.747311,highway 7aftercove Rd,,,,-63.300274,,8911,,,0
+,44.740654,highway 7in front ofcivic 4295,,,,-63.324516,,8916,,,0
+,44.737499,highway 7oppositeparker Lane,,,,-63.377335,,8917,,,0
+,44.737911,highway 7beforenarrows Lane,,,,-63.309383,,8914,,,0
+,44.739838,highway 7in front of civic address 4396,,,,-63.31918,,8915,,,0
+,44.739079,highway 7in front ofcivic 3293,,,,-63.381447,,8918,,,0
+,44.739693,highway 7in front ofcivic 3165,,,,-63.386459,,8919,,,0
+,44.744812,north Preston Rd opposite civic address 1032,,,,-63.464291,,7113,,,0
+,44.705563,lake Major Rd before Cranehill Rd,,,,-63.467339,,7112,,,0
+,44.716515,lake Major Rd in front of civic address 301,,,,-63.467216,,7111,,,0
+,44.714149,lake Major Rd in front of civic address 237,,,,-63.46722,,7110,,,0
+,44.738914,north Preston Rd in front of civic address 859,,,,-63.464268,,7117,,,0
+,44.740959,north Preston Rd in front of Smith Lane,,,,-63.464748,,7116,,,0
+,44.71656,lake Major Rd opposite civic address 301,,,,-63.467407,,7115,,,0
+,44.712799,lake Major Rd opposite civic address 190,,,,-63.467323,,7114,,,0
+,44.598728,herring Cove Rd in front of civic address 554,,,,-63.604908,,6877,,,0
+,44.599693,herring Cove Rd in front of civic address 540,,,,-63.606201,,6876,,,0
+,44.636211,lakelands Blvd after St Margarets Bay Rd,,,,-63.669098,,7119,,,0
+,44.73785,north Preston Rd in front of civic address 864,,,,-63.464035,,7118,,,0
+,44.608334,herring Cove Rd in front of civic address 412,,,,-63.615719,,6873,,,0
+,44.620293,herring Cove Rd in front of civic address 235,,,,-63.616726,,6872,,,0
+,44.622898,herring Cove Rd in front of civic address 213,,,,-63.617893,,6871,,,0
+,44.623055,herring Cove Rd in front of civic address 204,,,,-63.617714,,6870,,,0
+,44.664925, Ferry Stop - Alderney,,,,-63.57024,,1074,,,0
+,44.648632, Ferry Stop - Woodside,,,,-63.547245,,1075,,,0
+,44.649456, Ferry Stop - Halifax,,,,-63.572861,,1073,,,0
+,44.636951,robie St [northbound] opposite civic address 1222,,,,-63.584991,,8220,,,0
+,44.651688,robie St [northbound] opposite civic address 2432,,,,-63.592888,,8221,,,0
+,44.653625,robie St [northbound] opposite civic address 2542,,,,-63.593929,,8222,,,0
+,44.646744,robie St [northbound] opposite Pepperell St,,,,-63.590034,,8223,,,0
+,44.636269,robie St [southbound] after South St,,,,-63.585007,,8225,,,0
+,44.739189,rockmanor Dr after Redbank Rd,,,,-63.651218,,8226,,,0
+,44.737854,rockmanor Dr after Rocky Lake Dr,,,,-63.651829,,8227,,,0
+,44.737637,rockmanor Dr before Rocky Lake Dr,,,,-63.651974,,8228,,,0
+,44.741367,rockmanor Dr opposite civic address 122,,,,-63.648926,,8229,,,0
+,44.66993,dartmouth Bridge Terminal - Bay 9,,,,-63.573776,,7609,,,0
+,44.670147,dartmouth Bridge Terminal - Bay 8,,,,-63.573566,,7608,,,0
+,44.67028,dartmouth Bridge Terminal - Bay 7,,,,-63.57378,,7607,,,0
+,44.670403,dartmouth Bridge Terminal - Bay 6,,,,-63.57399,,7606,,,0
+,44.670536,dartmouth Bridge Terminal - Bay 5,,,,-63.574223,,7605,,,0
+,44.670677,dartmouth Bridge Terminal - Bay 4,,,,-63.574463,,7604,,,0
+,44.670803,dartmouth Bridge Terminal - Bay 3,,,,-63.574684,,7603,,,0
+,44.670925,dartmouth Bridge Terminal - Bay 2,,,,-63.574894,,7602,,,0
+,44.671036,dartmouth Bridge Terminal - Bay 1,,,,-63.575092,,7601,,,0
+,44.758549,glendale Ave before Estates Rd,,,,-63.65353,,8682,,,0
+,44.632553,herring Cove Rd in front of Winchester Ave,,,,-63.618496,,6906,,,0
+,44.637661,coburg Rd [eastbound] opposite Coburg Place,,,,-63.59621,,6453,,,0
+,44.64024,coburg Rd [eastbound] before Robie St,,,,-63.587109,,6452,,,0
+,44.646469,quinpool Rd [westbound] after Vernon St,,,,-63.593666,,8138,,,0
+,44.641449,quinpool Rd in front of civic address 7137,,,,-63.617172,,8139,,,0
+,44.647324,cogswell St [eastbound] after Robie St,,,,-63.589695,,6457,,,0
+,44.636898,herring Cove Rd before and opposite Melwood Ave,,,,-63.620647,,6900,,,0
+,44.643944,quinpool Rd [westbound] after Beech St,,,,-63.602406,,8134,,,0
+,44.643307,quinpool Rd [eastbound] after Connaught Ave,,,,-63.604118,,8135,,,0
+,44.756187,cobequid Rd before civic address 112 To Sackville Terminal,,,,-63.662071,,8688,,,0
+,44.644405,quinpool Rd [westbound] after Oxford St,,,,-63.600838,,8137,,,0
+,44.640305,quinpool Rd in front of Horse Shoe Island,,,,-63.613693,,8130,,,0
+,44.64196,quinpool Rd after South Armcrescent St,,,,-63.608833,,8131,,,0
+,44.641323,quinpool Rd after Armdale Rotary,,,,-63.619808,,8132,,,0
+,44.643833,quinpool Rd [eastbound] before Beech St,,,,-63.60236,,8133,,,0
+,44.659832,robie St [northbound] after Young St,,,,-63.602493,,8192,,,0
+,44.659275,robie St [southbound] after Young St,,,,-63.602016,,8193,,,0
+,44.648537,robie St [southbound] after Welsford St,,,,-63.591408,,8190,,,0
+,44.785782,stokil Dr before Smokey Dr,,,,-63.686234,,8358,,,0
+,44.784016,stokil Dr before Spinner Cr,,,,-63.682076,,8359,,,0
+,44.669334,st Paul's Ave before Vestry St,,,,-63.607456,,8350,,,0
+,44.697342,starboard Dr after Brigadier Ct,,,,-63.667248,,8351,,,0
+,44.697189,starboard Dr before Larry Uteck Blvd,,,,-63.66721,,8352,,,0
+,44.790134,stokil Dr after Beaver Bank Rd,,,,-63.691685,,8353,,,0
+,44.787449,stokil Dr after Grennan Dr,,,,-63.687714,,8354,,,0
+,44.785725,stokil Dr after Sampson Dr,,,,-63.685867,,8355,,,0
+,44.788136,stokil Dr opposite Grennan Dr,,,,-63.688148,,8356,,,0
+,44.641476,robie St [southbound] in front of civic address 1560,,,,-63.587635,,8194,,,0
+,44.643276,robie St [southbound] in front of civic address 1682,,,,-63.588558,,8195,,,0
+,44.659546,parkland Dr after civic address 51,,,,-63.66967,,7427,,,0
+,44.673439,parkland Dr before Heathside Cr,,,,-63.675838,,7426,,,0
+,44.674179,parkland Dr opposite Carlina Ct,,,,-63.676121,,7425,,,0
+,44.671658,parkland Dr after civic address 512,,,,-63.676117,,7424,,,0
+,44.654369,oxford St [southbound] before Young St,,,,-63.609966,,7423,,,0
+,44.650166,oxford St [southbound] before Summit St,,,,-63.604317,,7422,,,0
+,44.644341,oxford St [northbound] before Quinpool Rd,,,,-63.600197,,7421,,,0
+,44.646828,oxford St [southbound] before Oak St,,,,-63.601555,,7420,,,0
+,44.710697,lake Major Rd after civic address 148,,,,-63.467876,,7104,,,0
+,44.665524,parkland Dr after and opposite Langbrae Dr,,,,-63.672176,,7429,,,0
+,44.670513,parkland Dr after Farnham Gate Rd,,,,-63.676075,,7428,,,0
+,44.677101,dunbrack St [northbound] after Rock Haven Dr,,,,-63.663113,,6600,,,0
+,44.676891,dunbrack St [southbound] after Ross St,,,,-63.66346,,6601,,,0
+,44.65686,dunbrack St [southbound] after Willet St,,,,-63.650936,,6602,,,0
+,44.660664,dunbrack St in front of Northcliffe,,,,-63.652473,,6603,,,0
+,44.652863,dunbrack St [southbound] before Main Ave,,,,-63.650204,,6604,,,0
+,44.655087,dunbrack St opposite Birkdale Cr,,,,-63.651394,,6605,,,0
+,44.66037,dunbrack St opposite Northcliffe Centre,,,,-63.652657,,6606,,,0
+,44.673141,dunbrack St opposite Farnham Gate Rd,,,,-63.663845,,6607,,,0
+,44.617008,old Sambro Rd opposite Schnare St,,,,-63.621601,,6608,,,0
+,44.656647,dutch Village Rd in front of Andrew St,,,,-63.631912,,6609,,,0
+,44.649338,oxford St [northbound] after North St,,,,-63.602921,,7411,,,0
+,44.669514,manor Dr before Peddar's Way,,,,-63.543926,,7177,,,0
+,44.569363,lancaster Dr before St. Paul Ave,,,,-63.562489,,9020,,,0
+,44.667809,barrington St [northbound] opposite Richmond St,,,,-63.598293,,6119,,,0
+,44.641872,barrington St [southbound] in front of Morris St,,,,-63.571533,,6114,,,0
+,44.65942,barrington St [southbound] before North St,,,,-63.588863,,6115,,,0
+,44.659039,barrington St [northbound] before North St,,,,-63.588165,,6116,,,0
+,44.666676,barrington St [northbound] opposite Hanover St,,,,-63.596874,,6110,,,0
+,44.636391,barrington St [southbound] before Inglis St,,,,-63.569614,,6111,,,0
+,44.63866,barrington St [southbound] before Kent St,,,,-63.569958,,6112,,,0
+,44.641602,barrington St [northbound] before Morris St,,,,-63.571171,,6113,,,0
+,44.646652,mumford Rd opposite St Agnes School,,,,-63.618114,,7283,,,0
+,44.646736,mumford Rd opposite St Agnes School,,,,-63.61824,,7282,,,0
+,44.649529,mumford Rd before Ralston Ave,,,,-63.624264,,7281,,,0
+,44.649014,mumford Rd before Ashburn Ave,,,,-63.627724,,7280,,,0
+,44.7845,nappan Dr after Nictaux Dr,,,,-63.676952,,7287,,,0
+,44.782612,nappan Dr after civic address 59,,,,-63.675564,,7286,,,0
+,44.648453,mumford Terminal Downtown [on Mumford Rd],,,,-63.621464,,7285,,,0
+,44.648315,mumford Terminal Downtown [in Terminal],,,,-63.621231,,7284,,,0
+,44.78479,nappan Dr before Nictaux Dr,,,,-63.67701,,7289,,,0
+,44.782265,nappan Dr before Newcombe Dr,,,,-63.674988,,7288,,,0
+,44.664143,alderney Dr [eastbound] before Prince St,,,,-63.565468,,6028,,,0
+,44.664116,alderney Dr [westbound] before Prince St,,,,-63.565933,,6029,,,0
+,44.678799,albro Lake Rd before and opposite Chapman St,,,,-63.585072,,6020,,,0
+,44.680355,albro Lake Rd before and opposite Slayter St,,,,-63.583202,,6021,,,0
+,44.677685,albro Lake Rd before Richmond St,,,,-63.586452,,6022,,,0
+,44.684017,albro Lake Rd before civic address 176,,,,-63.578884,,6023,,,0
+,44.682381,albro Lake Rd opposite Sheridan St,,,,-63.580963,,6024,,,0
+,44.666321,alderney Dr [northbound] in front of Alderney Manor,,,,-63.571434,,6025,,,0
+,44.66621,alderney Dr [southbound] opposite Alderney Manor,,,,-63.571548,,6026,,,0
+,44.66441,alderney Dr Metrolink,,,,-63.568645,,6027,,,0
+,44.702633,ilsley Ave before civic address 41,,,,-63.591686,,6955,,,0
+,44.648739,joseph Howe Dr [southbound] before Mumford Rd,,,,-63.629837,,6612,,,0
+,44.602509,caldwell Rd after Himmelman Dr,,,,-63.466633,,6334,,,0
+,44.670124,caldwell Rd after Portland St,,,,-63.501942,,6335,,,0
+,44.648582,caldwell Rd after Sherwood St,,,,-63.482937,,6336,,,0
+,44.608978,caldwell Rd after Thorncrest Ct,,,,-63.471519,,6337,,,0
+,44.695053,brownlow Ave before civic address 250 [to Sackville],,,,-63.577621,,6330,,,0
+,44.7435,cain St in front of Churchill Terr,,,,-63.46574,,6331,,,0
+,44.662491,caldwell Rd after Cherrywood Dr,,,,-63.49461,,6332,,,0
+,44.611427,caldwell Rd after Cow Bay Rd,,,,-63.473278,,6333,,,0
+,44.667221,caldwell Rd after Wexford Rd,,,,-63.499332,,6338,,,0
+,44.604191,caldwell Rd before civic address 2001,,,,-63.46727,,6339,,,0
+,44.680428,tacoma Dr before Valleyfiled,,,,-63.536716,,9076,,,0
+,44.633148,kelly St before Halef Crt,,,,-63.628742,,9074,,,0
+,44.633095,kelly St in front of civic address 36,,,,-63.628826,,9073,,,0
+,44.709255, Findlay Dr before Wright Ave,,,,-63.565815,,9070,,,0
+,44.657513,dutch Village Rd before Rufus Ave,,,,-63.6325,,6614,,,0
+,44.744553,hwy 7before William Porter Connector,,,,-63.286034,,9078,,,0
+,44.74469,hwy 7 [inbound] after William Porter Connector,,,,-63.286007,,9079,,,0
+,44.662266,young St [westbound] after Gottingen St,,,,-63.598961,,8628,,,0
+,44.657982,young St [westbound] in front of Superstore,,,,-63.604702,,8629,,,0
+,44.661507,radcliffe Dr after Lacewood Dr,,,,-63.664085,,8158,,,0
+,44.665775,radcliffe Dr before Barkton Ln,,,,-63.661385,,8159,,,0
+,44.668808,wyse Rd [outbound] Sportsplex Metrolink,,,,-63.575901,,8624,,,0
+,44.744396,lakeview Shopping Centre[inbound],,,,-63.28355,,8909,,,0
+,44.669342,wyse Rd [inbound] Sportsplex Metrolink,,,,-63.576183,,8625,,,0
+,44.737968,highway 207aftershore Rd,,,,-63.276085,,8905,,,0
+,44.732086,highway 207oppositeles Collins,,,,-63.272411,,8904,,,0
+,44.707645,highway 207oppositebellefountain Rd,,,,-63.258686,,8901,,,0
+,44.685402,highway 207oppositecivic 6459,,,,-63.257496,,8900,,,0
+,44.717274,highway 207oppositecivic 7209,,,,-63.264397,,8903,,,0
+,44.710953,highway 207in front ofparish Hall,,,,-63.259922,,8902,,,0
+,44.597134,york Redoubt Turning Loop,,,,-63.554832,,8627,,,0
+,44.67511,wyse Rd before Elmwood Ave,,,,-63.585796,,8620,,,0
+,44.672291,wyse Rd opposite Boland Rd,,,,-63.581909,,8621,,,0
+,44.625381,herring Cove Rd after Highfield St,,,,-63.617111,,6848,,,0
+,44.60231,herring Cove Rd in front of civic address 500,,,,-63.609779,,6849,,,0
+,44.676105,wyse Rd opposite Chappel St,,,,-63.587124,,8622,,,0
+,44.667656,windmill Rd opposite Hare Ln,,,,-63.575832,,7128,,,0
+,44.667656,windmill Rd [northbound] after Mott St,,,,-63.578377,,7129,,,0
+,44.686802,leaman Dr opposite Ambercrest Pl,,,,-63.580364,,7126,,,0
+,44.68504,leaman Dr before Albro Lake Rd,,,,-63.578171,,7127,,,0
+,44.698685,larry Uteck Blvd in front of Ecole Beaubassin,,,,-63.663857,,7124,,,0
+,44.674877,heathside Cr before Parkland Dr,,,,-63.675972,,6841,,,0
+,44.595798,herring Cove Rd in front of civic address 611,,,,-63.600872,,6846,,,0
+,44.588211,herring Cove Rd in front of Parkmoor Ave,,,,-63.592815,,6847,,,0
+,44.636227,lakelands Blvd before St Margarets Bay Rd,,,,-63.669479,,7120,,,0
+,44.618481,herring Cove Rd opposite Clovis St,,,,-63.615314,,6845,,,0
+,44.648815,duke St [westbound] before Market St,,,,-63.576691,,6590,,,0
+,44.608395,rockingstone Rd opposite civic address 25,,,,-63.623417,,8232,,,0
+,44.608204,rockingstone Rd in front of civic address 25,,,,-63.623318,,8231,,,0
+,44.740318,rockmanor Dr opposite and after Birchwood Crt,,,,-63.649231,,8230,,,0
+,44.670433,dunbrack St after Knightsridge Dr,,,,-63.662781,,6594,,,0
+,44.663395,dunbrack St after Lacewood Dr,,,,-63.654831,,6595,,,0
+,44.669891,dunbrack St after Langbrae Dr,,,,-63.662807,,6596,,,0
+,44.65295,dunbrack St [northbound] after Main Ave,,,,-63.649796,,6597,,,0
+,44.666386,dunbrack St after Lincoln Cross,,,,-63.658783,,6598,,,0
+,44.665611,dunbrack St [southbound] after Radcliffe Dr,,,,-63.658188,,6599,,,0
+,44.659561,james St [inbound] before St Margarets Bay Rd,,,,-63.741005,,8239,,,0
+,44.659645,james St [outbound] after St Margarets Bay Rd,,,,-63.741112,,8238,,,0
+,44.487267,ketch Harbour Rd oppositesable Rd,,,,-63.558857,,7638,,,0
+,44.481136,ketch Harbour Rdin front of civic address 1399,,,,-63.576714,,7639,,,0
+,44.506348,ketch Harbour Rd after Portovista Dr,,,,-63.543106,,7632,,,0
+,44.496723,ketch Harbour Rd in front of Pork Ave,,,,-63.543659,,7633,,,0
+,44.517593,ketch Harbour Rd in front of civic address 737,,,,-63.536102,,7630,,,0
+,44.514793,ketch Harbour Rd before Portovista Dr,,,,-63.537579,,7631,,,0
+,44.493076,ketch Harbour Rd in front of First Pond Dr,,,,-63.550709,,7636,,,0
+,44.491142,ketch Harbour Rd in front ofcivic 1173,,,,-63.556309,,7637,,,0
+,44.494999,ketch Harbour Rd opposite Grace Ave,,,,-63.545647,,7634,,,0
+,44.493309,ketch Harbour Rd in front of St Peters Parish Hall,,,,-63.548405,,7635,,,0
+,44.693733,hillsboro Dr after civic address 12,,,,-63.491898,,6932,,,0
+,44.693428,hillsboro Dr after civic address 15,,,,-63.491928,,6933,,,0
+,44.684418,highfield Terminal [southbound],,,,-63.589169,,6930,,,0
+,44.626793,highfield St opposite Punch Bowl Dr,,,,-63.617626,,6931,,,0
+,44.861004,pratt And Whitney Dr opposite Hotels,,,,-63.543297,,8699,,,0
+,44.861267,pratt And Whitney Dr in front of Hotels,,,,-63.543961,,8698,,,0
+,44.696823,hillsboro Dr after Hwy #7,,,,-63.493256,,6934,,,0
+,44.69619,hillsboro Dr before Barbara Dr,,,,-63.49284,,6935,,,0
+,44.885895,halifax International Airport in front of Silver Dart Dr,,,,-63.515945,,8695,,,0
+,44.636421,quarry Rd before St Margarets Bay Rd,,,,-63.63134,,8126,,,0
+,44.879692,barnes Dr [inbound] after Red Wing,,,,-63.521465,,8697,,,0
+,44.882645,barnes Dr before Cygnet,,,,-63.518215,,8696,,,0
+,44.640961,chain Lake Dr in front of civic address 127,,,,-63.660412,,8691,,,0
+,44.633808,purcells Cove Rd opposite civic address 85,,,,-63.615307,,8122,,,0
+,44.65979,young St [westbound] before Robie St,,,,-63.602291,,8693,,,0
+,44.682201,parkland Dr opposite Castlepark Grove,,,,-63.677834,,8692,,,0
+,44.570934,st Paul's Ave opposite civic address 104,,,,-63.562035,,8349,,,0
+,44.645546,springvale Ave before and opposite Winter St,,,,-63.635616,,8348,,,0
+,44.644829,springvale Ave after civic address 72,,,,-63.636963,,8343,,,0
+,44.797119,springfield Ave Turning Loop,,,,-63.739262,,8342,,,0
+,44.799572,springfield Ave before Hwy 1,,,,-63.737297,,8341,,,0
+,44.799591,springfield Ave after Hwy 1,,,,-63.737461,,8340,,,0
+,44.645794,springvale Ave in front of civic address 48,,,,-63.63483,,8347,,,0
+,44.646435,springvale Ave in front of civic address 24,,,,-63.632702,,8346,,,0
+,44.646858,springvale Ave in front of civic address 11,,,,-63.630604,,8345,,,0
+,44.646973,springvale Ave in front of civic address 10,,,,-63.630188,,8344,,,0
+,44.798885,beaverbank Rd in front of civic address 311,,,,-63.688354,,8712,,,0
+,44.644207,oxford St [southbound] after Quinpool Rd,,,,-63.600246,,7412,,,0
+,44.654411,oxford St [northbound] after Young St,,,,-63.609745,,7413,,,0
+,44.641064,oxford St [northbound] after Jublilee Rd,,,,-63.598442,,7410,,,0
+,44.801292,beaverbank in front of civic address 345,,,,-63.688198,,8713,,,0
+,44.653305,oxford St [southbound] before Liverpool St,,,,-63.608559,,7416,,,0
+,44.653202,oxford St [northbound] before Liverpool St,,,,-63.608166,,7417,,,0
+,44.636135,oxford St in front of Armbrae Academy,,,,-63.596127,,7414,,,0
+,44.636395,oxford St [northbound] in front of civic address 1411,,,,-63.596172,,7415,,,0
+,44.649147,oxford St [southbound] before North St,,,,-63.602921,,7418,,,0
+,44.642868,oxford St [southbound] before Norwood St,,,,-63.599529,,7419,,,0
+,44.656147,dutch Village Rd before Rosedale Ave,,,,-63.632191,,6613,,,0
+,44.824036,beaverbank Rd in front of civic address 911,,,,-63.680607,,8718,,,0
+,44.65884,dutch Village Rd before Deal St,,,,-63.63139,,6611,,,0
+,44.648819,joseph Howe Dr in front of civic address 3109,,,,-63.629814,,6610,,,0
+,44.647865,east Perimeter Rd after Mumford Rd,,,,-63.618839,,6617,,,0
+,44.659855,dutch Village Rd [westbound] opposite Percy St,,,,-63.629593,,6616,,,0
+,44.830715,beaverbank Rd in front of civic address 1071,,,,-63.68092,,8719,,,0
+,44.645645,mumford Rd after Chebucto Rd,,,,-63.615364,,7276,,,0
+,44.651344,east Perimeter Rd before Bayers Rd,,,,-63.616333,,6619,,,0
+,44.649227,east Perimeter Rd 2nd Stop,,,,-63.616482,,6618,,,0
+,44.666256,seaforth Back Rdbeforehighway 207,,,,-63.258236,,8897,,,0
+,44.672565,seaforth Back Rdoppositecivic 220,,,,-63.258759,,8895,,,0
+,44.706928,shubie Dr opposite Kiltearn Row,,,,-63.565563,,8894,,,0
+,44.656754,mount Hope Ave opposite Neptune,,,,-63.541122,,8893,,,0
+,44.656662,mount Hope Ave in front of Neptune,,,,-63.54155,,8892,,,0
+,44.63821,coburg Rd [westbound] before Lilac St,,,,-63.59462,,6451,,,0
+,44.655598,acadia St before Pleasant,,,,-63.548855,,8890,,,0
+,44.66671,barrington St [southbound] before Hanover St,,,,-63.597088,,6109,,,0
+,44.648331,barrington St [southbound] before George St,,,,-63.57476,,6108,,,0
+,44.660114,barrington St [southbound] before Fleetclub,,,,-63.589634,,6107,,,0
+,44.648125,barrington St [northbound] in front of George St,,,,-63.574463,,6106,,,0
+,44.649757,barrington St [southbound] before Duke St,,,,-63.575546,,6105,,,0
+,44.654068,barrington St [southbound] before Cornwallis St,,,,-63.58189,,6104,,,0
+,44.64669,barrington St [southbound] before civic address 1656,,,,-63.573967,,6103,,,0
+,44.645473,barrington St [southbound] before Blowers St,,,,-63.573353,,6102,,,0
+,44.65757,barrington St [northbound] before Artz St,,,,-63.586178,,6101,,,0
+,44.669502,barrington St [southbound] in front of Mulgrave Pk,,,,-63.601376,,6100,,,0
+,44.753975,cobequid Terminal [on Cobequid Rd],,,,-63.663113,,6446,,,0
+,44.638031,coburg Rd [eastbound] in front of Dunn Bldg,,,,-63.59462,,6447,,,0
+,44.76083,cobequid Rd in front of civic address 276,,,,-63.656811,,6444,,,0
+,44.680439,arklow Dr in front of civic address 371,,,,-63.484825,,6039,,,0
+,44.681362,arklow Dr in front of civic address 293,,,,-63.487167,,6038,,,0
+,44.677906,arklow Dr after Ashley,,,,-63.483395,,6033,,,0
+,44.658962,alma Cr before Titus St,,,,-63.632751,,6032,,,0
+,44.664589,alderney Dr [southbound] in front of Terminal,,,,-63.568966,,6031,,,0
+,44.665257,alderney Dr [northbound] opposite Terminal,,,,-63.569698,,6030,,,0
+,44.677799,arklow Dr in front of civic address 177,,,,-63.487305,,6037,,,0
+,44.681412,arklow Dr after Lanarkshire Crt,,,,-63.486839,,6036,,,0
+,44.676556,arklow Dr after John Stewart Dr,,,,-63.48024,,6035,,,0
+,44.677254,arklow Dr after Dalkeith Dr,,,,-63.4869,,6034,,,0
+,44.766937,cobequid Rd before Mcveigh Ct,,,,-63.646439,,6440,,,0
+,44.764519,cobequid Rd in front of civic address 477,,,,-63.649445,,6441,,,0
+,44.713955,hammonds Plains Rd opposite Rockcliffe Cr,,,,-63.834698,,6831,,,0
+,44.694763,windmill Rd before Victoria Rd,,,,-63.600655,,8530,,,0
+,44.650917,cogswell St [westbound] after Brunswick St,,,,-63.579712,,6455,,,0
+,44.667358,ochterloney St [westbound] before Wentworth St,,,,-63.567646,,7389,,,0
+,44.674686,windmill Rd before Wallace St,,,,-63.590267,,8531,,,0
+,44.668564,novalea Dr [southbound] after and opposite Vestry St,,,,-63.607979,,7382,,,0
+,44.673435,oathill after civic address 35,,,,-63.546055,,7383,,,0
+,44.664837,novalea Dr [northbound] opposite Stanley Place,,,,-63.602036,,7381,,,0
+,44.669239,ochterloney St after Pine St,,,,-63.565384,,7386,,,0
+,44.666111,ochterloney St before Edward St,,,,-63.569103,,7387,,,0
+,44.673389,oathill opposite civic address 35,,,,-63.545868,,7384,,,0
+,44.669258,ochterloney St in front of civic address 133,,,,-63.565434,,7385,,,0
+,44.703499,windmill Rd opposite Akerley Blvd,,,,-63.612495,,8533,,,0
+,44.682617,windmill Rd opposite civic address 395,,,,-63.597248,,8534,,,0
+,44.69099,windmill Rd opposite civic address 520,,,,-63.600067,,8535,,,0
+,44.639462,coburg Rd [eastbound] before Henry St,,,,-63.588959,,6454,,,0
+,44.695423,brownlow Ave after civic address 260 [to Sackville],,,,-63.575649,,6326,,,0
+,44.695061,brownlow Ave in front of civic address 250,,,,-63.577545,,6325,,,0
+,44.698326,brownlow Ave in front of civic address 202,,,,-63.580624,,6324,,,0
+,44.698395,brownlow Ave in front of civic address 202 [to Sackville],,,,-63.580662,,6323,,,0
+,44.652645,brookfield Ave in front of Willowdale Dr,,,,-63.483532,,6322,,,0
+,44.651428,brookfield Ave after Caldwell Rd,,,,-63.485104,,6321,,,0
+,44.682526,broadholme Ln after O'hara Dr,,,,-63.671909,,6320,,,0
+,44.702251,windmill Rd opposite Dawn Dr,,,,-63.608715,,8537,,,0
+,44.695549,brownlow Ave in front of civic address 236 [to Sackville],,,,-63.579079,,6329,,,0
+,44.695595,brownlow Ave in front of civic address 236,,,,-63.579102,,6328,,,0
+,44.649933,albemarle St after Duke St (metrox),,,,-63.577614,,9061,,,0
+,44.66135,baker Dr after Lindenwood,,,,-63.530064,,9067,,,0
+,44.661205,baker Dr opposite Lindenwood,,,,-63.530254,,9066,,,0
+,44.670776,penhorn Terminal Metrolink [to Portland Hills],,,,-63.53809,,7445,,,0
+,44.672092,peddar's Way opposite civic address 47,,,,-63.544754,,7444,,,0
+,44.629852,mountain Ave in front of civic address 57,,,,-63.625099,,7254,,,0
+,44.629059,mountain Ave opposite Withrod Dr,,,,-63.625877,,7255,,,0
+,44.68322,mount Edward Rd in front of civic address 84,,,,-63.518597,,7256,,,0
+,44.685108,mount Edward Rd after civic address 115,,,,-63.514126,,7257,,,0
+,44.708607,mosher Dr before Gurholt Dr,,,,-63.610775,,7250,,,0
+,44.632225,mountain Ave in front of civic address 10,,,,-63.622215,,7251,,,0
+,44.630547,mountain Ave in front of civic address 30,,,,-63.624157,,7252,,,0
+,44.631386,mountain Ave in front of civic address 29c,,,,-63.623249,,7253,,,0
+,44.683651,mount Edward Rd after civic address 89,,,,-63.517479,,7258,,,0
+,44.689018,mount Edward Rd after Cranberry Cr,,,,-63.505363,,7259,,,0
+,44.683487,pinecrest Dr after Albro Lake Rd,,,,-63.580101,,7449,,,0
+,44.710213,pettipas Dr in front of civic address 19,,,,-63.612442,,7448,,,0
+,44.592979,herring Cove Rd after civic address 642,,,,-63.597466,,6855,,,0
+,44.596226,herring Cove Rd after civic address 609,,,,-63.601406,,6854,,,0
+,44.612446,herring Cove Rd after Dentith Rd,,,,-63.617725,,6857,,,0
+,44.632072,herring Cove Rd after Cowie Hill Rd,,,,-63.618599,,6856,,,0
+,44.590813,herring Cove Rd after Bronson Ave,,,,-63.595589,,6851,,,0
+,44.683674,parkland Dr in front of civic address 980,,,,-63.675114,,9034,,,0
+,44.613564,herring Cove Rd after civic address 349,,,,-63.616875,,6853,,,0
+,44.619915,herring Cove Rd after Catamaran Rd,,,,-63.616451,,6852,,,0
+,44.681248,parkland Dr before and opposite The Wedgewood,,,,-63.678188,,9035,,,0
+,44.589226,herring Cove Rd after Fotherby Ave,,,,-63.593857,,6859,,,0
+,44.606766,herring Cove Rd after Drysale Rd,,,,-63.614334,,6858,,,0
+,44.606129,leiblin Dr opposite Avon Cr,,,,-63.623905,,7139,,,0
+,44.595657,leiblin Dr before Ivylea Cr,,,,-63.636204,,7138,,,0
+,44.668186,leeds St [eastbound] before Rosemeade Ave,,,,-63.613712,,7131,,,0
+,44.670258,leeds St before Novalea Dr,,,,-63.610714,,7130,,,0
+,44.668453,leeds St [westbound] before Rosemeade Ave,,,,-63.613621,,7133,,,0
+,44.601936,leiblin Dr in front of Elmdale Cr,,,,-63.62883,,7135,,,0
+,44.714138,kearney Lake Rd before Bluewater Rd,,,,-63.715927,,7014,,,0
+,44.60627,leiblin Dr after Avon Cr,,,,-63.62365,,7137,,,0
+,44.598583,leiblin Dr in front of Guildwood Cr,,,,-63.632824,,7136,,,0
+,44.662529,charles St before civic address 15,,,,-63.748943,,9039,,,0
+,44.633652,walter Havill Dr in front of civic address 81,,,,-63.632698,,8804,,,0
+,44.635132,walter Havill Dr in front of civic address 137,,,,-63.635307,,8805,,,0
+,44.635395,walter Havill Dr after Stonegate Dr,,,,-63.637154,,8806,,,0
+,44.62756,ragged Lake Blvd after Prospect Rd,,,,-63.665222,,8807,,,0
+,44.635059,stonehaven Rd in front of civic address 36,,,,-63.62949,,8800,,,0
+,44.634228,alton Dr in front of civic address 26,,,,-63.629417,,8801,,,0
+,44.631836,walter Havill Dr in front of civic address 21,,,,-63.62957,,8802,,,0
+,44.632038,walter Havill Dr in front of civic address 39,,,,-63.631523,,8803,,,0
+,44.627331,ragged Lake Blvd before Prospect Rd,,,,-63.665585,,8808,,,0
+,44.635345,walter Havill Dr after Nw Arm Dr,,,,-63.637661,,8809,,,0
+,44.667252,duffus St after Novalea Dr,,,,-63.606567,,6583,,,0
+,44.667652,duffus St after Novalea Dr,,,,-63.605747,,6582,,,0
+,44.604736,herring Cove Rd in front of civic address 470,,,,-63.612637,,6875,,,0
+,44.670746,duffus St after Barrington St,,,,-63.60186,,6580,,,0
+,44.783714,beaverbank Rd in front of civic address 92,,,,-63.692223,,8758,,,0
+,44.672329,cole Harbour Rd[outbound] after Bisset Rd,,,,-63.476612,,8759,,,0
+,44.665417,robie St [southbound] before Lady Hammond Rd,,,,-63.611107,,8208,,,0
+,44.660954,robie St [northbound] before Livingstone St,,,,-63.604195,,8209,,,0
+,44.807919,beaverbank Rd opposite Majestic,,,,-63.688362,,8754,,,0
+,44.800983,beaverbank Rd in front of Emerson Golf,,,,-63.68856,,8755,,,0
+,44.663406,robie St [northbound] before Cabot St,,,,-63.607868,,8204,,,0
+,44.650314,robie St [southbound] before Compton St,,,,-63.592308,,8205,,,0
+,44.824509,beaverbank Rd after Danny Dr,,,,-63.680973,,8750,,,0
+,44.821751,beaverbank Rd in front of civic address 840,,,,-63.681469,,8751,,,0
+,44.817661,beaverbank Rd after Greenforest,,,,-63.684776,,8752,,,0
+,44.812698,beaverbank Rd in front of civic address 619,,,,-63.686329,,8753,,,0
+,44.68116,cranberry Cr after Valkyrie Cr,,,,-63.500076,,6521,,,0
+,44.542458,ketch Harbour Rd opposite Kestrel,,,,-63.550415,,7624,,,0
+,44.532043,ketch Harbour Rd after Harbourview,,,,-63.540615,,7627,,,0
+,44.536201,ketch Harbour Rd after Bullfrog,,,,-63.54528,,7626,,,0
+,44.560917,ketch Harbour Rd in front of civic address 139,,,,-63.563194,,7621,,,0
+,44.562881,ketch Harbour Rd opposite Village Rd,,,,-63.564453,,7620,,,0
+,44.545784,ketch Harbour Rd opposite Kittiwake,,,,-63.554207,,7623,,,0
+,44.549469,ketch Harbour Rd after and opposite Ashley,,,,-63.557709,,7622,,,0
+,44.52034,ketch Harbour Rd after Camperdown Rd,,,,-63.535656,,7629,,,0
+,44.524212,ketch Harbour Rd before Seaview Dr,,,,-63.536201,,7628,,,0
+,44.631477,purcells Cove Rd opposite civic address 153,,,,-63.608704,,8118,,,0
+,44.623787,purcells Cove Rd opposite civic address 233,,,,-63.601833,,8119,,,0
+,44.684364,highfield Terminal [northbound],,,,-63.589336,,6929,,,0
+,44.690754,highfield Park Dr in front of civic address 15,,,,-63.584354,,6928,,,0
+,44.612576,purcells Cove Rd before Keefe Dr,,,,-63.574989,,8112,,,0
+,44.618473,purcells Cove Rd before Melvin Rd,,,,-63.578136,,8113,,,0
+,44.599899,purcells Cove Rd before Country Cr,,,,-63.559891,,8110,,,0
+,44.599075,purcells Cove Rd before Homestead Rd,,,,-63.558796,,8111,,,0
+,44.628269,purcells Cove Rd before Westgate Dr,,,,-63.607571,,8116,,,0
+,44.597126,purcells Cove Rd before York Redoubt Entrance,,,,-63.557228,,8117,,,0
+,44.615246,purcells Cove Rd before Oceanview Dr,,,,-63.577724,,8114,,,0
+,44.61594,purcells Cove Rd before Rocklyn Rd,,,,-63.577518,,8115,,,0
+,44.647701,hollis St [southbound] before Prince,,,,-63.573048,,8822,,,0
+,44.683552,woodlawn Rd before Main St,,,,-63.528896,,8598,,,0
+,44.679451,woodlawn Rd before Mt Edward Rd,,,,-63.526176,,8599,,,0
+,44.672638,woodlawn Rd before Bruce St,,,,-63.531425,,8596,,,0
+,44.675442,woodlawn Rd before Ellenvale Ave,,,,-63.528782,,8597,,,0
+,44.683342,woodlawn Rd in front of civic address 14,,,,-63.528889,,8594,,,0
+,44.677311,woodlawn Rd before Belle Vista Dr,,,,-63.527462,,8595,,,0
+,44.678417,woodlawn Rd in front of civic address 61,,,,-63.526184,,8592,,,0
+,44.675442,woodlawn Rd in front of civic address 92,,,,-63.528984,,8593,,,0
+,44.678463,woodlawn Rd in front of civic address 54,,,,-63.526398,,8590,,,0
+,44.674198,woodlawn Rd in front of civic address 103,,,,-63.528889,,8591,,,0
+,44.691868,taranaki Dr in front of civic address 238,,,,-63.493572,,8376,,,0
+,44.691986,taranaki Dr in front of civic address 251,,,,-63.49382,,8377,,,0
+,44.694565,taranaki Dr in front of civic address 171,,,,-63.494545,,8375,,,0
+,44.629574,tamarack Dr opposite Medina Ct,,,,-63.628582,,8372,,,0
+,44.62817,tamarack Dr opposite and before Mountain Rd,,,,-63.627419,,8373,,,0
+,44.629826,tamarack Dr after Medina Ct,,,,-63.628765,,8370,,,0
+,44.62833,tamarack Dr after Mountain Rd,,,,-63.62748,,8371,,,0
+,44.690826,taranaki Dr in front of civic address 289,,,,-63.494041,,8378,,,0
+,44.693558,taranaki Dr before civic address 192,,,,-63.49469,,8379,,,0
+,44.657154,windsor St opposite Windsor Park,,,,-63.607819,,8574,,,0
+,44.682159,windward Ave after Lea St,,,,-63.511715,,8575,,,0
+,44.682087,windward Ave before Lucien Dr,,,,-63.510391,,8576,,,0
+,44.644554,winter St before Piers Ave,,,,-63.635139,,8577,,,0
+,44.660366,windsor St opposite Connolly St,,,,-63.618736,,8570,,,0
+,44.655941,windsor St opposite Cork St,,,,-63.60611,,8571,,,0
+,44.654984,windsor St opposite London St,,,,-63.604458,,8572,,,0
+,44.658272,windsor St opposite Willow Park,,,,-63.609665,,8573,,,0
+,44.6357,withrod Dr in front of Sullivans Terr,,,,-63.622692,,8578,,,0
+,44.635757,withrod Dr in front of civic address 5,,,,-63.622704,,8579,,,0
+,44.698452,larry Uteck Blvd opposite Ecole Beaubassin,,,,-63.665489,,7125,,,0
+,44.640598,oxford St [southbound] after Jubilee Rd,,,,-63.598312,,7409,,,0
+,44.651432,oxford St [southbound] after Almon St,,,,-63.606052,,7408,,,0
+,44.651073,oxford St [northbound] in front of civic address 2749,,,,-63.605301,,7405,,,0
+,44.64695,oxford St [northbound] in front of civic address 2505,,,,-63.601509,,7404,,,0
+,44.65192,oxford St [northbound] after Almon St,,,,-63.606472,,7407,,,0
+,44.642662,oxford St [northbound] in front of Norwood St,,,,-63.599304,,7406,,,0
+,44.638119,oxford St [northbound] in front of civic address 1545,,,,-63.596893,,7401,,,0
+,44.69717,outrigger Cr after Fleetview Dr,,,,-63.669434,,7400,,,0
+,44.639366,oxford St [northbound] in front of civic address 1615,,,,-63.597523,,7403,,,0
+,44.638931,oxford St [southbound] in front of civic address 1598,,,,-63.597412,,7402,,,0
+,44.564983,lancaster Dr opposite civic address 111,,,,-63.563919,,7122,,,0
+,44.672119,spring Ave in front of Pembrooke Ct,,,,-63.518089,,8325,,,0
+,44.653774,eisener St after Wedgewood Ave,,,,-63.7384,,6628,,,0
+,44.675137,flamingo Dr before Bedford Hwy,,,,-63.648369,,6700,,,0
+,44.669334,eisener Blvd opposite Superstore Entr.,,,,-63.524921,,6626,,,0
+,44.670242,eisener Blvd after Superstore Entr.,,,,-63.524757,,6627,,,0
+,44.653404,eisener Blvd before civic address 118,,,,-63.738148,,6624,,,0
+,44.668053,eisener Blvd opposite Library,,,,-63.52232,,6625,,,0
+,44.726254,bluewater Rd before Hammonds Plains Rd,,,,-63.707508,,6622,,,0
+,44.69865,eileen Stubbs Ave before and opposite civic address 201 To Sackville,,,,-63.578636,,6623,,,0
+,44.649338,east Perimeter Rd before Parkade,,,,-63.616604,,6620,,,0
+,44.647861,east Perimeter Rd before Mumford Rd,,,,-63.619236,,6621,,,0
+,44.676075,spring Ave after Dorothea Dr,,,,-63.516838,,8326,,,0
+,44.678162,john Stewart Dr after Halo Lane,,,,-63.480389,,6994,,,0
+,44.680416,spikenard St before Weyburn Rd,,,,-63.530804,,8321,,,0
+,44.673218,ross St before civic address 61,,,,-63.667885,,7123,,,0
+,44.681007,spikenard St in front of civic address 90,,,,-63.52821,,8320,,,0
+,44.680088,spikenard St opposite civic address 74,,,,-63.532188,,8323,,,0
+,44.721832,basinview Dr before Roy Cr,,,,-63.678574,,6138,,,0
+,44.720161,basinview Dr in front of civic address 147,,,,-63.679417,,6139,,,0
+,44.723438,basinview Dr after and opposite civic address 284,,,,-63.679272,,6132,,,0
+,44.728046,basinview Dr in front of civic address 548,,,,-63.680733,,6133,,,0
+,44.718357,basinview Dr after Glen Moir Terr,,,,-63.681297,,6130,,,0
+,44.717289,basinview Dr after Hammonds Plains Rd,,,,-63.682564,,6131,,,0
+,44.723312,basinview Dr before civic address 284,,,,-63.679222,,6136,,,0
+,44.724949,basinview Dr before Granville Rd,,,,-63.682884,,6137,,,0
+,44.723591,basinview Dr before Carriageway Ct,,,,-63.681503,,6134,,,0
+,44.720039,basinview Dr before civic address 138,,,,-63.679695,,6135,,,0
+,44.64262,quinpool Rd [eastbound] before Bloomingdale Terr,,,,-63.606087,,8142,,,0
+,44.479168,ketch Harbour Rdoppositecivic 1722,,,,-63.602558,,7645,,,0
+,44.705296,akerley Blvd [eastbound] in front of civic address 10,,,,-63.609913,,6006,,,0
+,44.710186,akerley Blvd in front of civic address 35,,,,-63.604275,,6007,,,0
+,44.716263,akerley Blvd after Williams Ave,,,,-63.585724,,6004,,,0
+,44.704029,akerley Blvd in front of Windmill Rd,,,,-63.611134,,6005,,,0
+,44.711449,akerley Blvd [westbound] after Joe Zatzman Ave,,,,-63.600536,,6002,,,0
+,44.711971,akerley Blvd [eastbound] after Joe Zatzman Ave,,,,-63.598206,,6003,,,0
+,44.714821,akerley Blvd after Burnside Dr,,,,-63.589775,,6000,,,0
+,44.713818,akerley Blvd after civic address 95,,,,-63.593662,,6001,,,0
+,44.715008,akerley Blvd [inbound] before Burnside Dr,,,,-63.590179,,6008,,,0
+,44.707726,akerley Blvd before Fielding Ave,,,,-63.607403,,6009,,,0
+,44.637684,robie St [southbound] after University Ave,,,,-63.585648,,8188,,,0
+,44.640965,quinpool Rd [eastbound] before and opposite Macdonald St,,,,-63.611042,,8144,,,0
+,44.631817,osborne St after Kelly St,,,,-63.627766,,7395,,,0
+,44.62014,old Sambro Rd in front of civic address 11,,,,-63.618919,,7394,,,0
+,44.633305,osborne St in front of civic address 5,,,,-63.625942,,7397,,,0
+,44.631496,osborne St in front of Sunset Ave,,,,-63.627998,,7396,,,0
+,44.613602,old Sambro Rd [inbound] in front of civic address 132,,,,-63.623238,,7391,,,0
+,44.610405,old Sambro Rd [inbound] after Sussex,,,,-63.623978,,7390,,,0
+,44.610352,old Sambro Rd before Sussex,,,,-63.624043,,7393,,,0
+,44.612663,old Sambro Rd in front of civic address 143,,,,-63.624084,,7392,,,0
+,44.672565,otago Dr [southbound] opposite civic address 29,,,,-63.499012,,7399,,,0
+,44.672493,otago Dr [northbound] after civic address 25,,,,-63.498814,,7398,,,0
+,44.754345,cobequid Terminal To Sackville [inside Terminal],,,,-63.663273,,6445,,,0
+,44.661499,lacewood Terminal [on Willet St],,,,-63.657337,,7086,,,0
+,44.666698,ochterloney St before King St,,,,-63.568413,,7388,,,0
+,44.690514,braemar Dr before Braemar Apt,,,,-63.546505,,6312,,,0
+,44.685776,braemar Dr before Parclo,,,,-63.547493,,6313,,,0
+,44.679886,prince Albert Rd in front of Superstore,,,,-63.549103,,6311,,,0
+,44.653061,brentwood Ave after civic address 73,,,,-63.736359,,6316,,,0
+,44.654671,brentwood Ave before St Margarets Bay Rd,,,,-63.733688,,6317,,,0
+,44.688427,braemar Dr opposite Maple St,,,,-63.546932,,6314,,,0
+,44.654842,brentwood Ave in front of civic address 5,,,,-63.733624,,6315,,,0
+,44.643463,quinpool Rd [westbound] before Poplar St,,,,-63.603954,,8146,,,0
+,44.683674,broadholme Ln after Kearney Lake Rd,,,,-63.673592,,6319,,,0
+,44.756367,cobequid Rd before and opposite Hillside Ave,,,,-63.66193,,6442,,,0
+,44.656662,regency Pk Dr opposite Solutions Dr,,,,-63.66877,,9090,,,0
+,44.658127,regency Pk Dr before Lacewood Dr,,,,-63.669163,,9091,,,0
+,44.699806,peakview Way after Starboard Dr,,,,-63.688217,,9092,,,0
+,44.675499,spring Ave in front of Grandview Dr,,,,-63.516708,,8324,,,0
+,44.761814,cobequid Rd before and opposite Judy Anne Ct,,,,-63.652187,,6443,,,0
+,44.640675,morris St before Birmingham St,,,,-63.575562,,7247,,,0
+,44.640522,morris St in front of Spencer House,,,,-63.575562,,7246,,,0
+,44.702641,montague Rd before Gander Ave,,,,-63.497826,,7245,,,0
+,44.699951,montague Rd opposite civic address 54,,,,-63.494907,,7244,,,0
+,44.705631,montague Rd before Serpentine Ave,,,,-63.499123,,7243,,,0
+,44.698559,montague Rd after Hwy #107,,,,-63.493252,,7242,,,0
+,44.64315,milsom Ave before Arlington Ave,,,,-63.638565,,7241,,,0
+,44.792633,millwood Dr opposite and before Rossing Dr,,,,-63.704441,,7240,,,0
+,44.707787,mosher Dr before Akerley Blvd,,,,-63.60844,,7249,,,0
+,44.709106,mosher Dr in front of civic address 31,,,,-63.612358,,7248,,,0
+,44.698669,windmill Rd [southbound] before Wright Ave,,,,-63.605537,,8532,,,0
+,44.643166,spring Garden Rd [eastbound] after Queen St,,,,-63.576057,,8327,,,0
+,44.733856,hammonds Plains Rd before civic address 1881,,,,-63.772945,,6820,,,0
+,44.73325,hammonds Plains Rd before civic address 2465,,,,-63.807217,,6821,,,0
+,44.710079,hammonds Plains Rd before civic address 3334,,,,-63.842808,,6822,,,0
+,44.730896,hammonds Plains Rd before civic address 1546,,,,-63.754852,,6823,,,0
+,44.707138,hammonds Plains Rd before Flat Lake Dr,,,,-63.849606,,6824,,,0
+,44.718769,hammonds Plains Rd before Lake Dr,,,,-63.685623,,6825,,,0
+,44.722141,hammonds Plains Rd before Northwood Rd,,,,-63.823368,,6826,,,0
+,44.710072,hammonds Plains Rd before and opposite Nottingham Dr,,,,-63.84301,,6827,,,0
+,44.733776,hammonds Plains Rd opposite and after civic address 1881,,,,-63.772934,,6828,,,0
+,44.72451,hammonds Plains Rd opposite and after civic address 2465,,,,-63.820744,,6829,,,0
+,44.637959,cunard Centre,,,,-63.565678,,8817,,,0
+,44.636204,quarry Rd in front of civic address 3,,,,-63.631371,,8816,,,0
+,44.634464,alton Dr in front of Glades Lodge,,,,-63.62915,,8815,,,0
+,44.641678,lower Water after Terminal Rd,,,,-63.568306,,8814,,,0
+,44.631809,walter Havill Dr in front of civic address 12,,,,-63.629742,,8813,,,0
+,44.631943,walter Havill Dr opposite civic address 49,,,,-63.631824,,8812,,,0
+,44.633648,walter Havill Dr opposite civic address 81,,,,-63.63282,,8811,,,0
+,44.635033,walter Havill Dr in front of civic address 150,,,,-63.635265,,8810,,,0
+,44.642731,lower Water St [northbound] in front of 1475,,,,-63.568867,,8819,,,0
+,44.639671,harbour Walk South in front of civic address 1113,,,,-63.566261,,8818,,,0
+,44.642269,robie St [northbound] opposite Binney St,,,,-63.587742,,8219,,,0
+,44.659843,robie St [southbound] before Young St,,,,-63.602856,,8218,,,0
+,44.830425,beaverbank Rd in front of civic address 1064,,,,-63.681198,,8749,,,0
+,44.835472,beaverbank Rd in front of civic address 1210,,,,-63.680904,,8748,,,0
+,44.837811,beaverbank Rd in front of civic address 1260,,,,-63.679329,,8747,,,0
+,44.844681,beaverbank Rd before Rosley,,,,-63.68504,,8746,,,0
+,44.849037,beaverbank Rd opposite Kinsac Rd,,,,-63.685619,,8745,,,0
+,44.855541,beaverbank Rd in front of civic address 1736,,,,-63.685196,,8744,,,0
+,44.858101,beaverbank Rd in front of civic address 1796,,,,-63.686337,,8743,,,0
+,44.868687,beaverbank Rd in front of civic address 2072,,,,-63.693287,,8742,,,0
+,44.871273,beaverbank Rd in front of civic address 2120,,,,-63.695774,,8741,,,0
+,44.873432,beaverbank Rd in front of civic address 2224,,,,-63.697491,,8740,,,0
+,44.494434,old Sambro Rdin front ofcivic 3172,,,,-63.625614,,7650,,,0
+,44.497444,old Sambro Rdin front ofcivic 3027,,,,-63.63102,,7651,,,0
+,44.505264,old Sambro Rdin front ofcivic 2770,,,,-63.637615,,7652,,,0
+,44.509514,old Sambro Rdin front ofhoney Crt,,,,-63.639446,,7653,,,0
+,44.516338,old Sambro Rdin front ofgrover Dr,,,,-63.641361,,7654,,,0
+,44.519672,old Sambro Rdin front of Hazel St,,,,-63.64135,,7655,,,0
+,44.528263,old Sambro Rdin front ofcivic 2198,,,,-63.641464,,7656,,,0
+,44.531517,old Sambro Rdin front offrancie Dr,,,,-63.641811,,7657,,,0
+,44.539333,old Sambro Rdin front ofcivic 1946,,,,-63.64043,,7658,,,0
+,44.54306,old Sambro Rdin front offraser Rd,,,,-63.641159,,7659,,,0
+,44.699799,commodore Dr before Brownlow Ave,,,,-63.581673,,6490,,,0
+,44.665333,lady Hammond Rd before Robie St,,,,-63.610241,,7096,,,0
+,44.695438,brownlow Ave in front of civic address 260,,,,-63.575523,,6327,,,0
+,44.665245,lady Hammond Rd [eastbound] after Robie St,,,,-63.609814,,7094,,,0
+,44.665241,lady Hammond Rd [westbound] before Basinview Dr,,,,-63.615326,,7095,,,0
+,44.638882,barrington St [northbound] before Hollis St,,,,-63.569836,,7092,,,0
+,44.664154,lady Hammond Rd [westbound] after Macintosh St,,,,-63.619659,,7093,,,0
+,44.665295,lady Hammond Rd [westbound] after High St,,,,-63.612797,,7091,,,0
+,44.657898,connaught Ave after Chisholm Ave,,,,-63.618992,,6492,,,0
+,44.69339,windmill Rd opposite civic address 552,,,,-63.600624,,8536,,,0
+,44.709778,lake Loon Rd after civic address 141,,,,-63.49268,,7098,,,0
+,44.708679,lake Loon Rd after Montague Rd,,,,-63.499992,,7099,,,0
+,44.607624,purcells Cove Rd in front of civic address 600,,,,-63.566441,,8105,,,0
+,44.608871,purcells Cove Rd in front of civic address 558,,,,-63.568962,,8104,,,0
+,44.633751,purcells Cove Rd in front of civic address 87,,,,-63.615055,,8107,,,0
+,44.607658,purcells Cove Rd in front of civic address 601,,,,-63.567013,,8106,,,0
+,44.634392,purcells Cove Rd in front of civic address 46,,,,-63.619133,,8101,,,0
+,44.632519,purcells Cove Rd in front of civic address 137,,,,-63.609776,,8100,,,0
+,44.609467,purcells Cove Rd in front of civic address 533,,,,-63.572266,,8103,,,0
+,44.609875,purcells Cove Rd in front of civic address 527,,,,-63.572849,,8102,,,0
+,44.608551,purcells Cove Rd before Battery Dr,,,,-63.568291,,8109,,,0
+,44.620895,purcells Cove Rd in front of Rnsys,,,,-63.582829,,8108,,,0
+,44.697102,ilsley Ave opposite civic address 120,,,,-63.584686,,6958,,,0
+,44.69558,ilsley Ave opposite Macdonald Ave,,,,-63.583858,,6959,,,0
+,44.699909,commodore Dr after and opposite Brownlow Ave [to Sackville],,,,-63.581985,,6488,,,0
+,44.699936,commodore Dr after and opposite Brownlow Ave,,,,-63.58186,,6489,,,0
+,44.702774,ilsley Ave in front of civic address 40,,,,-63.592354,,6950,,,0
+,44.704388,ilsley Ave after Wright Ave,,,,-63.595165,,6951,,,0
+,44.671558,cole Harbour Rd in front of Sobeys,,,,-63.492218,,6480,,,0
+,44.671101,cole Harbour Rd before Dorothea Dr,,,,-63.501549,,6481,,,0
+,44.700256,commodore Dr [westbound] after Eileen Stubbs Ave,,,,-63.580303,,6486,,,0
+,44.700241,commodore Dr after Eileen Stubbs Ave [to Sackville],,,,-63.580406,,6487,,,0
+,44.699417,colonna Place before Montebello Dr,,,,-63.539661,,6484,,,0
+,44.701546,colonna Place in front of civic address 57,,,,-63.541214,,6485,,,0
+,44.671482,woodlawn Rd after Portland St,,,,-63.531898,,8589,,,0
+,44.676949,woodlawn Rd after Guysborough Ave,,,,-63.528175,,8588,,,0
+,44.681709,woodland Ave after Laurier St,,,,-63.574631,,8581,,,0
+,44.679665,woodland Ave after Clark St,,,,-63.576973,,8580,,,0
+,44.68066,woodland Ave after Pine Hill Rd,,,,-63.575974,,8583,,,0
+,44.681839,woodland Ave after and opposite Laurier St,,,,-63.574211,,8582,,,0
+,44.677803,woodland Ave after Slayter St,,,,-63.579529,,8585,,,0
+,44.679752,woodland Ave after Sheridan St,,,,-63.577118,,8584,,,0
+,44.677711,woodland / Slayter,,,,-63.57938,,8587,,,0
+,44.680546,woodland Ave before Frederick St,,,,-63.575859,,8586,,,0
+,44.635227,stonehaven Rd before Glenmore Ave,,,,-63.630054,,8361,,,0
+,44.783875,stokil Dr opposite civic address 101,,,,-63.682533,,8360,,,0
+,44.646286,summer St after Bell Rd (qeii Infirmary),,,,-63.586098,,8363,,,0
+,44.634815,stonehaven Rd opposite civic address 10,,,,-63.626778,,8362,,,0
+,44.644577,summer St [northbound] after Veterans Memorial Ln,,,,-63.585052,,8365,,,0
+,44.646255,summer St before Bell Rd (qeii Infirmary),,,,-63.585949,,8364,,,0
+,44.646206,susie Lake Dr after Chain Lake Dr,,,,-63.67374,,8367,,,0
+,44.645771,susie Lake Dr in front of civic address 100,,,,-63.674431,,8366,,,0
+,44.660873,windsor St before Strawberry Hill St,,,,-63.616146,,8567,,,0
+,44.652256,windsor St before North St,,,,-63.598625,,8566,,,0
+,44.659988,windsor St before Maxwell St,,,,-63.612755,,8565,,,0
+,44.655037,windsor St before London St,,,,-63.60471,,8564,,,0
+,44.661964,windsor St before Kempt Rd,,,,-63.621872,,8563,,,0
+,44.66074,windsor St before Hood St,,,,-63.615795,,8562,,,0
+,44.655968,windsor St before Cork St,,,,-63.606247,,8561,,,0
+,44.66037,windsor St before Connaught Ave,,,,-63.620312,,8560,,,0
+,44.653114,windsor St before Summit St,,,,-63.600464,,8569,,,0
+,44.653011,windsor St before Summit St,,,,-63.60014,,8568,,,0
+,44.728214,dartmouth Rd after O'brine St,,,,-63.64941,,6554,,,0
+,44.7281,dartmouth Rd before Dartmour Cr,,,,-63.646366,,6555,,,0
+,44.728386,dartmouth Rd before Ridgevale Dr,,,,-63.649559,,6556,,,0
+,44.730259,dartmouth Rd before Wardoor St,,,,-63.655842,,6557,,,0
+,44.726551,dartmouth Rd after civic address 128,,,,-63.643574,,6550,,,0
+,44.728271,dartmouth Rd after civic address 94,,,,-63.646404,,6551,,,0
+,44.726418,dartmouth Rd after Eaglewood Dr,,,,-63.643677,,6552,,,0
+,44.730419,dartmouth Rd after North St,,,,-63.655663,,6553,,,0
+,44.614025,dentith Rd in front of South Centre Mall Park N Ride,,,,-63.619541,,6558,,,0
+,44.613113,dentith Rd before Herring Cove Rd,,,,-63.618179,,6559,,,0
+,44.616096,pleasant St [southbound] in front of civic address 1363,,,,-63.499733,,7478,,,0
+,44.658798,pleasant St in front of civic address 229,,,,-63.551113,,7479,,,0
+,44.655521,pleasant St [southbound] after Renfrew St,,,,-63.549988,,7470,,,0
+,44.630096,pleasant St [northbound] after Shearwater Main Gate,,,,-63.519806,,7471,,,0
+,44.648331,pleasant St [northbound] after Trunk 111,,,,-63.545319,,7472,,,0
+,44.618252,pleasant St after Ultramar Oil Facility,,,,-63.502266,,7473,,,0
+,44.625252,pleasant St [southbound] after and opposite civic address 1038,,,,-63.513412,,7474,,,0
+,44.627956,pleasant St in front of Bayden Powell Ctr,,,,-63.517109,,7475,,,0
+,44.665405,pleasant St [northbound] in front of civic address 129,,,,-63.554447,,7476,,,0
+,44.617008,pleasant St [southbound] in front of civic address 1335 Legion,,,,-63.500801,,7477,,,0
+,44.668045,eisener Blvd before Library,,,,-63.521816,,6639,,,0
+,44.676811,ellenvale Ave after civic address 38,,,,-63.522701,,6631,,,0
+,44.677372,ellenvale Ave after Anderson St,,,,-63.51997,,6630,,,0
+,44.676128,ellenvale Ave after Waltdale Dr,,,,-63.525829,,6633,,,0
+,44.677845,ellenvale Ave after Spring Ave,,,,-63.518536,,6632,,,0
+,44.676579,ellenvale Ave before Alberta St,,,,-63.522961,,6635,,,0
+,44.676308,ellenvale Ave in front of civic address 20,,,,-63.525753,,6634,,,0
+,44.681347,endeavour Dr after Baffin Blvd,,,,-63.610878,,6637,,,0
+,44.677753,ellenvale Ave before Spring Ave,,,,-63.518223,,6636,,,0
+,44.618423,pleasant St [northbound] before Ultramar Refinery,,,,-63.502213,,7500,,,0
+,44.619911,pleasant St [southbound] before civic address 1244,,,,-63.504631,,7487,,,0
+,44.653538,barrington St [southbound] in front of civic address 2170,,,,-63.581165,,6125,,,0
+,44.643955,barrington St [southbound] after Spring Garden Rd,,,,-63.572571,,6124,,,0
+,44.663986,barrington St [northbound] opposite Devonshire St,,,,-63.593544,,6127,,,0
+,44.64613,barrington St [northbound] before Sackville St,,,,-63.573509,,6121,,,0
+,44.667934,barrington St [southbound] before Richmond St,,,,-63.598709,,6120,,,0
+,44.665745,radcliffe Dr before Dunbrack St,,,,-63.658733,,8156,,,0
+,44.644379, Barrington St [southbound] before Spring Garden Rd,,,,-63.572811,,6122,,,0
+,44.723442,basinview Dr after Atlee Ct,,,,-63.681339,,6129,,,0
+,44.664143,radcliffe Dr [westbound] after Essex Ln,,,,-63.665104,,8157,,,0
+,44.702,larry Uteck Blvd before Southgate,,,,-63.675873,,8875,,,0
+,44.701347,larry Uteck Blvd in front of civic address 361 (the Gardens),,,,-63.670364,,8874,,,0
+,44.711067,akerley Blvd before Joe Zatzman Ave,,,,-63.600945,,6011,,,0
+,44.710106,akerley Blvd before Isnor Dr,,,,-63.603836,,6010,,,0
+,44.707817,akerley Blvd before Mosher Dr,,,,-63.607643,,6013,,,0
+,44.705471,akerley Blvd before Morris Dr,,,,-63.610142,,6012,,,0
+,44.709076,akerley Blvd before and opposite civic address 31,,,,-63.605877,,6015,,,0
+,44.703781,akerley Blvd before Windmill Rd,,,,-63.611691,,6014,,,0
+,44.68412,albro Lake Rd after Cedar Ct,,,,-63.579044,,6017,,,0
+,44.713165,akerley Blvd opposite civic address 95,,,,-63.594643,,6016,,,0
+,44.677731,albro Lake Rd after Richmond St,,,,-63.586147,,6019,,,0
+,44.678738,albro Lake Rd after Chapman St,,,,-63.584831,,6018,,,0
+,44.700603,larry Uteck Blvd in front of Ecole Secondaire Du Sommet,,,,-63.679653,,8879,,,0
+,44.700565,larry Uteck Blvd after Roundabout,,,,-63.683361,,8878,,,0
+,44.644722,robie St [southbound] in front of civic address 1762,,,,-63.589348,,8196,,,0
+,44.692394,bradorian Dr after civic address 16,,,,-63.487278,,6308,,,0
+,44.687714,booth St before civic address 21,,,,-63.525497,,6305,,,0
+,44.673527,boland Rd opposite and after Cairn St,,,,-63.579792,,6304,,,0
+,44.689167,bradorian Dr in front of civic address 98,,,,-63.485504,,6307,,,0
+,44.685898,booth St before civic address 5,,,,-63.524166,,6306,,,0
+,44.672989,blue Thistle Rd before Moss Ct,,,,-63.673702,,6301,,,0
+,44.674988,boland Rd before Victoria Rd,,,,-63.578133,,6303,,,0
+,44.672997,boland Rd after Cairn St,,,,-63.580532,,6302,,,0
+,44.654995,regency Pk Dr opposite Greenpark Close,,,,-63.665451,,9089,,,0
+,44.655609,thomas Raddall Dr in front of Halifax West,,,,-63.664185,,9088,,,0
+,44.657436,thomas Raddall opposite Soccer Field,,,,-63.661831,,9087,,,0
+,44.659134,thomas Raddall opposite Canada Games Centre,,,,-63.66584,,9086,,,0
+,44.659184,thomas Raddall in front of Canada Games Centre,,,,-63.665573,,9085,,,0
+,44.65728,thomas Raddall in front of Soccer Field,,,,-63.661339,,9084,,,0
+,44.655128,thomas Raddall Dr opposite Halifax West,,,,-63.664124,,9083,,,0
+,44.654858,regency Pk Dr before Greenpark Close,,,,-63.665688,,9082,,,0
+,44.656414,regency Pk Dr before Solutions Dr,,,,-63.668957,,9081,,,0
+,44.65786,regency Pk Dr after Lacewood,,,,-63.669506,,9080,,,0
+,44.631912, Ragger Lake Transit Center Ramp,,,,-63.669395,,1125,,,0
+,44.655457,mount Hope Ave opposite Eric Spicer Bldg,,,,-63.54343,,7272,,,0
+,44.646118,mumford Rd before Leppert St,,,,-63.616646,,7273,,,0
+,44.656666,acadia St opposite Ragus Rd,,,,-63.545853,,7270,,,0
+,44.65543,acadia St opposite Professional Centre,,,,-63.54884,,7271,,,0
+,44.737045,highway 207 in front of civic address 7703,,,,-63.275806,,8790,,,0
+,44.649483,mumford Rd [southbound] after Olivet St,,,,-63.624313,,7277,,,0
+,44.646091,mumford Rd before Leppert St,,,,-63.616592,,7274,,,0
+,44.645603,mumford Rd [northbound] after Chebucto Rd,,,,-63.615288,,7275,,,0
+,44.649055,mumford Rd after and opposite Helmock St,,,,-63.626698,,7279,,,0
+,44.630165, Temp Ragged Lake Transit Cntr To Mumford,,,,-63.669228,,1126,,,0
+,44.663681,pleasant St [northbound] opposite civic address 148,,,,-63.553581,,8008,,,0
+,44.657787,pleasant St [southbound] opposite civic address 243,,,,-63.550724,,8009,,,0
+,44.68042,harris Rd opposite civic address 7,,,,-63.54512,,6833,,,0
+,44.680519,harris Rd in front of civic address 7,,,,-63.545071,,6832,,,0
+,44.731987,highway 207in front of Les Collins,,,,-63.27269,,8791,,,0
+,44.725079,hammonds Plains Rd after Gatehouse Run,,,,-63.738174,,6830,,,0
+,44.673862,hawthorne St in front of civic address 113,,,,-63.562885,,6837,,,0
+,44.672832,hawthorne St after Prince Albert Rd,,,,-63.561314,,6836,,,0
+,44.681637,hartlen St before Main St,,,,-63.537323,,6835,,,0
+,44.681805,hartlen St after Main St,,,,-63.537403,,6834,,,0
+,44.673763,hawthorne St opposite civic address 113,,,,-63.562988,,6839,,,0
+,44.673042,hawthorne St before Prince Albert Rd,,,,-63.561413,,6838,,,0
+,44.665306,pleasant St [southbound] opposite civic address 129,,,,-63.554573,,8006,,,0
+,44.630276,herring Cove Rd after Brighton Ave,,,,-63.618225,,6850,,,0
+,44.643986,spring Garden Rd [eastbound] before Barrington St,,,,-63.572979,,8338,,,0
+,44.670811,portland St [eastbound] in front of civic address 886,,,,-63.504227,,8054,,,0
+,44.646297,hollis St [southbound] after Sackville St,,,,-63.572334,,8823,,,0
+,44.646599,lower Water St [northbound] in front of civic address 1601,,,,-63.570957,,8821,,,0
+,44.673016,flamingo Dr after Oriole St,,,,-63.652386,,8415,,,0
+,44.643993,hollis St [southbound] after Parkade Entrance,,,,-63.571167,,8824,,,0
+,44.642651,hollis St [southbound] in front of civic address 1332,,,,-63.570492,,8825,,,0
+,44.709908,lake Major Rd in front of civic address 137,,,,-63.467804,,7108,,,0
+,44.668537,portland Hills Dr before Leland,,,,-63.508102,,8828,,,0
+,44.666737,portland Hills Dr before Summerfield,,,,-63.508301,,8829,,,0
+,44.725849,highway 207opposite civic address 7402,,,,-63.267258,,8793,,,0
+,44.736225,highway 7 after civic address 3102,,,,-63.38826,,8778,,,0
+,44.739311,highway 7 in front of Lake Echo Community Centre,,,,-63.386375,,8779,,,0
+,44.725761,upper Partridge River Rd in front of civic address 52,,,,-63.41959,,8772,,,0
+,44.722095,highway 7 after Lower Partridge River Rd,,,,-63.415737,,8773,,,0
+,44.725849,brooks Dr in front of civic address 253,,,,-63.427456,,8770,,,0
+,44.728172,brooks Dr in front of civic address 377,,,,-63.4217,,8771,,,0
+,44.729412,highway 7 after Arbor Hill,,,,-63.393925,,8776,,,0
+,44.734234,highway 7 after Robina Dr,,,,-63.390675,,8777,,,0
+,44.720612,highway 7 opposite civic address 2559,,,,-63.406349,,8774,,,0
+,44.721355,highway 7 before Mineville Rd,,,,-63.401367,,8775,,,0
+,44.48539,ketch Harbour Rdin front ofcivic 1613,,,,-63.592674,,7643,,,0
+,44.486534,ketch Harbour Rdin front ofcivic 1567,,,,-63.590958,,7642,,,0
+,44.485119,ketch Harbour Rdin front of civic address 1491,,,,-63.583481,,7641,,,0
+,44.482376,ketch Harbour Rdin front ofcivic 1449,,,,-63.579617,,7640,,,0
+,44.481895,old Sambro Rdin front of Kelly Dr,,,,-63.608238,,7647,,,0
+,44.48,old Sambro Rdin front ofwest Pennant Rd,,,,-63.607021,,7646,,,0
+,44.644455,pleasant St [northbound] before Everette St,,,,-63.540668,,7488,,,0
+,44.48093,ketch Harbour Rdin front ofcivic 1687,,,,-63.600357,,7644,,,0
+,44.488617,old Sambro Rdoppositecivic 3318,,,,-63.618477,,7649,,,0
+,44.486771,old Sambro Rdoppositecivic 3387,,,,-63.613613,,7648,,,0
+,44.717449,highway 207after Eleanor Marie Lane,,,,-63.264969,,8794,,,0
+,44.68047,windmill Rd opposite Parkstone Rd,,,,-63.595425,,8541,,,0
+,44.658825,lacewood Dr opposite and after Parkland Dr,,,,-63.668537,,7081,,,0
+,44.879658,barnes Dr [outbound] before Red Wing,,,,-63.521282,,9014,,,0
+,44.661102,lacewood Dr before and opposite Glenforest Dr,,,,-63.638687,,7083,,,0
+,44.661964,lacewood Dr before Willet St,,,,-63.658775,,7082,,,0
+,44.6642,lacewood Dr opposite Cedarbrae Lane,,,,-63.648468,,7085,,,0
+,44.661625,lacewood Dr [eastbound] opposite Braeside Lane,,,,-63.640762,,7084,,,0
+,44.661251,lacewood Terminal [inside],,,,-63.656727,,7087,,,0
+,44.696663,kearney Lake Rd opposite and before civic address 377,,,,-63.696075,,7031,,,0
+,44.664097,lady Hammond Rd opposite Macintosh St,,,,-63.619225,,7089,,,0
+,44.665028,lady Hammond Rd opposite Basinview Dr,,,,-63.615635,,7088,,,0
+,44.677891,dorothea Dr after Swanton Dr,,,,-63.5079,,9016,,,0
+,44.676525,dorothea Dr civic address 58,,,,-63.505402,,9017,,,0
+,44.72897,sunrise Hill after Windrock Dr,,,,-63.678764,,9010,,,0
+,44.711071,highway 207in front ofst.anselms Church,,,,-63.26025,,8795,,,0
+,44.670597,windmill Rd opposite Jamieson St,,,,-63.584103,,8540,,,0
+,44.873165,barnes Dr [outbound] after Baldwin,,,,-63.527603,,9011,,,0
+,44.741486,riverview Cr in front of civic address 46,,,,-63.651211,,8170,,,0
+,44.644726,connaught Ave in front of civic address 2248,,,,-63.606201,,6494,,,0
+,44.654831,connaught Ave before Chester Ave,,,,-63.616894,,6497,,,0
+,44.743362,riverview Cr after Rockmanor Dr,,,,-63.650814,,8173,,,0
+,44.740074,riverview Cr after Rockmanor Dr,,,,-63.650448,,8174,,,0
+,44.67622,valleyfield Rd before Langley Ave,,,,-63.531605,,7036,,,0
+,44.682934,robert Burns Dr after Primrose St,,,,-63.586304,,8176,,,0
+,44.682823,robert Burns Dr [westbound] after Primrose St,,,,-63.585903,,8177,,,0
+,44.653008,robie St [southbound] after Charles St,,,,-63.593849,,8178,,,0
+,44.643753,robie St [northbound] after Veterans Memorial Lane,,,,-63.588543,,8179,,,0
+,44.875927,barnes Dr [outbound] opposite Park And Fly Lot,,,,-63.524643,,9013,,,0
+,44.658394,connaught Ave opposite Chisholm Ave,,,,-63.618847,,6499,,,0
+,44.652611,connaught Ave before Roslyn Rd,,,,-63.615383,,6498,,,0
+,44.694149,ilsley Ave opposite Civ 200,,,,-63.583038,,6949,,,0
+,44.701447,hwy #7 opposite Westphal Way,,,,-63.477921,,6948,,,0
+,44.723778,innovation Dr after Gary Martin,,,,-63.703884,,6549,,,0
+,44.708164,highway 207in front ofbellefontain Rd,,,,-63.259205,,8796,,,0
+,44.70269,hwy #7 [inbound] after Cherrybrook Rd,,,,-63.472374,,6942,,,0
+,44.698666,hwy #7 in front of civic address 802,,,,-63.485729,,6941,,,0
+,44.702812,hubley Centre,,,,-63.85817,,6940,,,0
+,44.69978,hwy #7 opposite civic address 925,,,,-63.483742,,6947,,,0
+,44.699863,hwy #7 after Riley Rd,,,,-63.483917,,6946,,,0
+,44.701538,hwy #7 in front of Westphal Way,,,,-63.478172,,6945,,,0
+,44.698589,hwy #7 after Maclaughlin Rd,,,,-63.486439,,6944,,,0
+,44.640945,pleasant St [southbound] after Imperial Oil Entrance,,,,-63.533981,,7469,,,0
+,44.604103,leiblin Dr in front of Carnation Cr,,,,-63.62624,,7134,,,0
+,44.667881,pleasant St after civic address 54,,,,-63.558998,,7468,,,0
+,44.714157,topple Dr in front of civic address 21,,,,-63.605919,,8398,,,0
+,44.712185,topple Dr before Vidito Dr,,,,-63.607994,,8399,,,0
+,44.660122,titus St before Evans Ave,,,,-63.634808,,8396,,,0
+,44.674618,thistle St before Beech St,,,,-63.568069,,8390,,,0
+,44.677597,thistle St before Crichton Park Rd,,,,-63.564919,,8391,,,0
+,44.670948,thistle St opposite Dartmouth High Sch,,,,-63.571949,,8393,,,0
+,44.66058,windsor St after Connaught Ave,,,,-63.620113,,8552,,,0
+,44.66185,windsor St after Lady Hammond Rd,,,,-63.622158,,8553,,,0
+,44.657833,windsor St in front of Willow Park,,,,-63.608788,,8550,,,0
+,44.660286,windsor St before Connolly St,,,,-63.618965,,8551,,,0
+,44.654148,windsor St before Almon St,,,,-63.602543,,8556,,,0
+,44.654278,windsor St before Almon St,,,,-63.603024,,8557,,,0
+,44.652325,windsor St after North Rd,,,,-63.598648,,8554,,,0
+,44.657139,windsor St in front of Windsor Park Entr.,,,,-63.608002,,8555,,,0
+,44.636101,pleasant St [southbound] opposite Carleton St,,,,-63.52742,,8004,,,0
+,44.624119,pleasant St [southbound] opposite civic address 1080,,,,-63.511528,,8005,,,0
+,44.651203,windsor St before Charles St,,,,-63.596676,,8558,,,0
+,44.65134,windsor St before Charles St,,,,-63.596962,,8559,,,0
+,44.660202,pleasant St [northbound] before and opposite Stephen St,,,,-63.552113,,8000,,,0
+,44.632221,pleasant St [northbound] opposite Albacore Pl,,,,-63.522026,,8001,,,0
+,44.628567,pleasant St opposite Bayden Powell Ctr,,,,-63.517715,,8002,,,0
+,44.661743,pleasant St [southbound] opposite Cameron St,,,,-63.553497,,8003,,,0
+,44.695862,cutter Dr before Starboard Dr,,,,-63.671875,,6547,,,0
+,44.65097,cunard St after Robie St,,,,-63.590237,,6546,,,0
+,44.650295,cunard St opposite Hunter St,,,,-63.594128,,6545,,,0
+,44.650436,cunard St before Hunter St,,,,-63.594307,,6544,,,0
+,44.651291,cunard St after June St,,,,-63.589966,,6543,,,0
+,44.670719,cumberland Dr before Cole Harbour Rd,,,,-63.489597,,6542,,,0
+,44.668442,cumberland Dr after Colby Dr,,,,-63.490547,,6541,,,0
+,44.687302,crystal Dr before Primrose St,,,,-63.580925,,6540,,,0
+,44.68721,raymoor Dr after Strath Ln,,,,-63.536144,,8160,,,0
+,44.679955,wedgewood Ave opposite civic address 17,,,,-63.668369,,8480,,,0
+,44.679508,wedgewood Ave opposite civic address 47,,,,-63.672249,,8481,,,0
+,44.680786,weyburn Rd after civic address 32,,,,-63.531288,,8482,,,0
+,44.683506,weyburn Rd after Main St,,,,-63.532455,,8483,,,0
+,44.682178,weyburn Rd before Athabaskan Ln,,,,-63.531845,,8484,,,0
+,44.682446,wildwood Blvd in front of civic address 83,,,,-63.497746,,8485,,,0
+,44.682156,wildwood Blvd before civic address 108,,,,-63.497826,,8486,,,0
+,44.684494,wildwood Blvd before Gregory Dr,,,,-63.498543,,8487,,,0
+,44.660336,willet St after Chadwick Pl,,,,-63.65654,,8488,,,0
+,44.657242,willet St after Chelsea Lane,,,,-63.652107,,8489,,,0
+,44.621433,pleasant St [southbound] in front of Autoport,,,,-63.507805,,7461,,,0
+,44.682152,plaza after Eljay civic address 15,,,,-63.51569,,7460,,,0
+,44.648937,pleasant St [southbound] after Atlantic St,,,,-63.545902,,7467,,,0
+,44.649948,pleasant St [northbound] after Atlantic St,,,,-63.546326,,7466,,,0
+,44.659409,pleasant St [southbound] after Arthur St,,,,-63.551746,,7465,,,0
+,44.655556,pleasant St after Acadia St,,,,-63.54974,,7464,,,0
