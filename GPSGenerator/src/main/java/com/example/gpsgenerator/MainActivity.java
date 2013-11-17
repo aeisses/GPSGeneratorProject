@@ -26,65 +26,50 @@ import java.io.InputStream;
 
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Random;
 
 public class MainActivity extends ActionBarActivity {
 
-    public static final double[] locations = {
-            -63.6551,44.6437,
-            -63.6557,44.6438,
-            -63.656,44.6439,
-            -63.6563,44.644,
-            -63.6565,44.644,
-            -63.6566,44.644,
-            -63.6567,44.6441,
-            -63.6567,44.6441,
-            -63.6568,44.6441,
-            -63.6568,44.6441,
-            -63.6568,44.6441,
-            -63.6569,44.6442,
-            -63.6569,44.6442,
-            -63.6569,44.6442,
-            -63.657,44.6442,
-            -63.657,44.6442,
-            -63.6571,44.6443,
-            -63.6571,44.6443,
-            -63.6571,44.6443,
-            -63.6572,44.6444,
-            -63.6572,44.6444,
-            -63.6572,44.6445,
-            -63.6573,44.6445,
-            -63.6573,44.6445,
-            -63.6573,44.6446,
-            -63.6573,44.6446,
-            -63.6573,44.6447,
-            -63.6573,44.6447,
-            -63.6573,44.6448,
-            -63.6573,44.6448,
-            -63.6573,44.6449,
-            -63.6573,44.6449,
-            -63.6573,44.6449,
-            -63.6573,44.645,
-            -63.6573,44.645,
-            -63.6573,44.645,
-            -63.6572,44.6451,
-            -63.6572,44.6451,
-            -63.6572,44.6451,
-            -63.6572,44.6451,
-            -63.6571,44.6452,
-            -63.6571,44.6452,
-            -63.6571,44.6452,
-            -63.6571,44.6452,
-            -63.657,44.6453,
-            -63.657,44.6453,
-            -63.6569,44.6453,
-            -63.6569,44.6453,
-            -63.6569,44.6454,
-            -63.6568,44.6454,
-            -63.6568,44.6454,
-            -63.6567,44.6454,
-            -63.6567,44.6454,
-            -63.6566,44.6454};
-            //-63.6566,44.6454 -63.6566,44.6454 -63.6565,44.6454 -63.6565,44.6454 -63.6564,44.6454 -63.6564,44.6454 -63.6564,44.6454 -63.6563,44.6454 -63.6562,44.6454 -63.6562,44.6454 -63.6561,44.6454 -63.656,44.6454 -63.656,44.6454 -63.6559,44.6454 -63.6559,44.6454 -63.6558,44.6453 -63.6558,44.6453 -63.6557,44.6453 -63.6556,44.6453 -63.6556,44.6452 -63.6555,44.6452 -63.6555,44.6452 -63.6554,44.6452 -63.6554,44.6451 -63.6553,44.6451 -63.6553,44.6451 -63.6552,44.645 -63.6552,44.645 -63.6552,44.645 -63.6552,44.645 -63.6551,44.6449 -63.6551,44.6449 -63.6551,44.6449 -63.655,44.6448 -63.655,44.6448 -63.655,44.6447 -63.655,44.6447 -63.655,44.6447 -63.6549,44.6447 -63.6549,44.6446 -63.6549,44.6446 -63.6549,44.6445 -63.6549,44.6444 -63.6549,44.6444 -63.6549,44.6444 -63.655,44.6441 -63.6551,44.6437};
+    public static final double[] startlocations = {
+            44.648100, -63.620820,
+            44.647865, -63.618840,
+            44.649227, -63.616480,
+            44.651344, -63.616333,
+            44.653248, -63.612846,
+            44.654370, -63.609966,
+            44.653305, -63.608560,
+            44.651432, -63.606052,
+            44.650166, -63.604317,
+            44.649147, -63.602920,
+            44.646828, -63.601555,
+            44.644207, -63.600246,
+            44.642868, -63.599530,
+            44.640600, -63.598312,
+            44.638930, -63.597412,
+            44.637660, -63.596210,
+            44.638030, -63.594620,
+            44.638916, -63.591230,
+            44.639460, -63.588960,
+            44.640240, -63.587110,
+            44.640694, -63.585217,
+            44.641330, -63.582977,
+            44.642117, -63.579960,
+            44.642654, -63.577988,
+            44.643295, -63.575546,
+            44.643986, -63.572980,
+            44.646130, -63.573510,
+            44.646755, -63.573837,
+            44.648410, -63.574604,
+            44.650246, -63.575570,
+            44.650917, -63.579712,
+            44.650650, -63.581276,
+            44.652283, -63.583730,
+            44.653310, -63.585220,
+            44.654346, -63.586685,
+            44.655710, -63.588676,
+            44.658012, -63.589750,
+            44.671036, -63.575092};
+    public double[] locations;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -98,8 +83,38 @@ public class MainActivity extends ActionBarActivity {
         }
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
+        locations = new double[((startlocations.length-2)*4)+2];
+        for (int i = 0; i<startlocations.length-2; i+=2)
+        {
+            double startPointLat = startlocations[i];
+            double endPointLat = startlocations[i+2];
+            double startPointLong = startlocations[i+1];
+            double endPointLong = startlocations[i+3];
+            double increaseLat = (double)((endPointLat - startPointLat)/4);
+            double increaseLong = (double)((endPointLong - startPointLong)/4);
+            int j = i*4;
+            locations[j] = startlocations[i];
+            locations[j+1] = startlocations[i+1];
+            for (int k = 1; k<4; k++) {
+                locations[j+(2*k)] = startlocations[i]+(increaseLat*k);
+                locations[j+1+(2*k)] = startlocations[i+1]+(increaseLong*k);
+            }
+        }
+        locations[locations.length-2] = startlocations[startlocations.length-2];
+        locations[locations.length-1] = startlocations[startlocations.length-1];
 //        EditText urlBar = (EditText)findViewById(R.id.urlBar);
 //        urlBar.setText("http://knowtime.ca/api/alpha_1/users/new/1", TextView.BufferType.EDITABLE);
+    }
+
+    public double[] getRandomPoint(double lat, double lng)
+    {
+        double[] returnArray = new double[2];
+        Random r = new Random();
+        double deltaLat = (double)((r.nextInt(200)-100)/10000);
+        double deltaLng = (double)((r.nextInt(200)-100)/10000);
+        returnArray[0] = lat + deltaLat;
+        returnArray[1] = lng + deltaLng;
+        return returnArray;
     }
 
     public void fileRead(View view)
@@ -121,7 +136,7 @@ public class MainActivity extends ActionBarActivity {
         }
     }
 
-    public void sendLocations(View view)
+    public void sendBusLocations(View view)
     {
         TextView textView = (TextView)findViewById(R.id.textView);
         textView.setText("Sending");
@@ -129,13 +144,38 @@ public class MainActivity extends ActionBarActivity {
             @Override
             public void run() {
                 try {
-                    String locationString = createNewUser();
-                    Log.i("LocationString: ",locationString);
-                    for (int i=0; i<locations.length; i+=2)
+                    boolean oneForward = true;
+                    boolean twoForward = false;
+                    boolean threeForward = true;
+                    boolean fourForward = false;
+                    String locationStringUserOne = createNewUser();
+                    String locationStringUserTwo = createNewUser();
+                    String locationStringUserThree = createNewUser();
+                    String locationStringUserFour = createNewUser();
+                    int userOneStartPoint = 0;
+                    int userTwoStartPoint = (int)(locations.length/2)-1;
+                    int userThreeStartPoint = (int)(locations.length/2)-1;
+                    int userFourStartPoint = locations.length;
+
+//                    Log.i("LocationString: ",locationString);
+//                    for (int i=0; i<locations.length; i+=2)
+                    while(true)
                     {
-                        if (sendLocationToServer(locationString,locations[i],locations[i+1]))
+                        if (userOneStartPoint >= locations.length-2) {
+                            userOneStartPoint = locations.length-2;
+                            oneForward = false;
+                        }
+                        if (userOneStartPoint <= 0) {
+                            userOneStartPoint = 0;
+                            oneForward = true;
+                        }
+                        if (sendLocationToServer(locationStringUserOne,locations[userOneStartPoint],locations[userOneStartPoint+1]))
                         {
-                            Log.i("Location ","sent");
+                            if (oneForward) {
+                                userOneStartPoint+=2;
+                            } else {
+                                userOneStartPoint-=2;
+                            }
                             try {
                                 Thread.sleep(1000);
                             } catch (InterruptedException e) {
@@ -144,6 +184,175 @@ public class MainActivity extends ActionBarActivity {
                             }
                         } else {
                             break;
+                        }
+                        if (userTwoStartPoint >= locations.length-2) {
+                            userTwoStartPoint = locations.length-2;
+                            twoForward = false;
+                        }
+                        if (userTwoStartPoint <= 0) {
+                            userTwoStartPoint = 0;
+                            twoForward = true;
+                        }
+                        if (sendLocationToServer(locationStringUserTwo,locations[userTwoStartPoint],locations[userTwoStartPoint+1]))
+                        {
+                            if (twoForward) {
+                                userTwoStartPoint+=2;
+                            } else {
+                                userTwoStartPoint-=2;
+                            }
+                            try {
+                                Thread.sleep(1000);
+                            } catch (InterruptedException e) {
+                                // TODO Auto-generated catch block
+                                e.printStackTrace();
+                            }
+                        } else {
+                            break;
+                        }
+                        if (userThreeStartPoint >= locations.length-2) {
+                            userThreeStartPoint = locations.length-2;
+                            threeForward = false;
+                        }
+                        if (userThreeStartPoint <= 0) {
+                            userThreeStartPoint = 0;
+                            threeForward = true;
+                        }
+                        if (sendLocationToServer(locationStringUserThree,locations[userThreeStartPoint],locations[userThreeStartPoint+1]))
+                        {
+                            if (threeForward) {
+                                userThreeStartPoint+=2;
+                            } else {
+                                userThreeStartPoint-=2;
+                            }
+                            try {
+                                Thread.sleep(1000);
+                            } catch (InterruptedException e) {
+                                // TODO Auto-generated catch block
+                                e.printStackTrace();
+                            }
+                        } else {
+                            break;
+                        }
+                        if (userFourStartPoint >= locations.length-2) {
+                            userFourStartPoint = locations.length-2;
+                            fourForward = false;
+                        }
+                        if (userFourStartPoint <= 0) {
+                            userFourStartPoint = 0;
+                            fourForward = true;
+                        }
+                        if (sendLocationToServer(locationStringUserFour,locations[userFourStartPoint],locations[userFourStartPoint+1]))
+                        {
+                             if (fourForward) {
+                                userFourStartPoint+=2;
+                            } else {
+                                userFourStartPoint-=2;
+                            }
+                            try {
+                                Thread.sleep(1000);
+                            } catch (InterruptedException e) {
+                                // TODO Auto-generated catch block
+                                e.printStackTrace();
+                            }
+                        } else {
+                            break;
+                        }
+                    }
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            TextView textView = (TextView)findViewById(R.id.textView);
+                            textView.setText("Waiting");
+                        }
+                    });
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+        thread.start();
+    }
+
+    public void sendPeopleLocations(View view)
+    {
+        TextView textView = (TextView)findViewById(R.id.textView);
+        textView.setText("Sending");
+        Thread thread = new Thread(new Runnable(){
+            @Override
+            public void run() {
+                try {
+                    String locationStringUserOne = createNewUser();
+                    String locationStringUserTwo = createNewUser();
+                    String locationStringUserThree = createNewUser();
+                    String locationStringUserFour = createNewUser();
+                    int movementPoint = 0;
+                    boolean isForward = true;
+                    while(true)
+                    {
+                        if (isForward) {
+                            movementPoint++;
+                        } else {
+                            movementPoint--;
+                        }
+                        double[] randArray = getRandomPoint(locations[movementPoint],locations[movementPoint+1]);
+                        if (sendLocationToServer(locationStringUserOne,randArray[0],randArray[1]))
+                        {
+
+                            try {
+                                Thread.sleep(1000);
+                            } catch (InterruptedException e) {
+                                // TODO Auto-generated catch block
+                                e.printStackTrace();
+                            }
+                        } else {
+                            break;
+                        }
+                        randArray = getRandomPoint(locations[movementPoint],locations[movementPoint+1]);
+                        if (sendLocationToServer(locationStringUserOne,randArray[0],randArray[1]))
+                        {
+
+                            try {
+                                Thread.sleep(1000);
+                            } catch (InterruptedException e) {
+                                // TODO Auto-generated catch block
+                                e.printStackTrace();
+                            }
+                        } else {
+                            break;
+                        }
+                        randArray = getRandomPoint(locations[movementPoint],locations[movementPoint+1]);
+                        if (sendLocationToServer(locationStringUserOne,randArray[0],randArray[1]))
+                        {
+
+                            try {
+                                Thread.sleep(1000);
+                            } catch (InterruptedException e) {
+                                // TODO Auto-generated catch block
+                                e.printStackTrace();
+                            }
+                        } else {
+                            break;
+                        }
+                        randArray = getRandomPoint(locations[movementPoint],locations[movementPoint+1]);
+                        if (sendLocationToServer(locationStringUserOne,randArray[0],randArray[1]))
+                        {
+
+                            try {
+                                Thread.sleep(1000);
+                            } catch (InterruptedException e) {
+                                // TODO Auto-generated catch block
+                                e.printStackTrace();
+                            }
+                        } else {
+                            break;
+                        }
+                        if (movementPoint < 0) {
+                            isForward = true;
+                            movementPoint = 0;
+                        }
+                        if (movementPoint >= locations.length) {
+                            isForward = false;
+                            movementPoint = locations.length - 1;
                         }
                     }
                     runOnUiThread(new Runnable() {
