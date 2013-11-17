@@ -110,8 +110,8 @@ public class MainActivity extends ActionBarActivity {
     {
         double[] returnArray = new double[2];
         Random r = new Random();
-        double deltaLat = (double)((r.nextInt(200)-100)/10000);
-        double deltaLng = (double)((r.nextInt(200)-100)/10000);
+        double deltaLat = (double)((r.nextInt(200)-100)/100000.0);
+        double deltaLng = (double)((r.nextInt(200)-100)/100000.0);
         returnArray[0] = lat + deltaLat;
         returnArray[1] = lng + deltaLng;
         return returnArray;
@@ -171,6 +171,7 @@ public class MainActivity extends ActionBarActivity {
                         }
                         if (sendLocationToServer(locationStringUserOne,locations[userOneStartPoint],locations[userOneStartPoint+1]))
                         {
+                            Log.i("SendingOne","Location");
                             if (oneForward) {
                                 userOneStartPoint+=2;
                             } else {
@@ -195,6 +196,7 @@ public class MainActivity extends ActionBarActivity {
                         }
                         if (sendLocationToServer(locationStringUserTwo,locations[userTwoStartPoint],locations[userTwoStartPoint+1]))
                         {
+                            Log.i("SendingTwo","Location");
                             if (twoForward) {
                                 userTwoStartPoint+=2;
                             } else {
@@ -219,6 +221,7 @@ public class MainActivity extends ActionBarActivity {
                         }
                         if (sendLocationToServer(locationStringUserThree,locations[userThreeStartPoint],locations[userThreeStartPoint+1]))
                         {
+                            Log.i("SendingThree","Location");
                             if (threeForward) {
                                 userThreeStartPoint+=2;
                             } else {
@@ -243,6 +246,7 @@ public class MainActivity extends ActionBarActivity {
                         }
                         if (sendLocationToServer(locationStringUserFour,locations[userFourStartPoint],locations[userFourStartPoint+1]))
                         {
+                            Log.i("SendingFour","Location");
                              if (fourForward) {
                                 userFourStartPoint+=2;
                             } else {
@@ -276,7 +280,6 @@ public class MainActivity extends ActionBarActivity {
     public void sendPeopleLocations(View view)
     {
         TextView textView = (TextView)findViewById(R.id.textView);
-        textView.setText("Sending");
         Thread thread = new Thread(new Runnable(){
             @Override
             public void run() {
@@ -290,10 +293,12 @@ public class MainActivity extends ActionBarActivity {
                     while(true)
                     {
                         if (isForward) {
-                            movementPoint++;
+                            movementPoint+=2;
                         } else {
-                            movementPoint--;
+                            movementPoint-=2;
                         }
+                        Log.i("Start Point Lat"," "+locations[movementPoint]);
+                        Log.i("Start Point Lng"," "+locations[movementPoint+1]);
                         double[] randArray = getRandomPoint(locations[movementPoint],locations[movementPoint+1]);
                         if (sendLocationToServer(locationStringUserOne,randArray[0],randArray[1]))
                         {
@@ -354,6 +359,7 @@ public class MainActivity extends ActionBarActivity {
                             isForward = false;
                             movementPoint = locations.length - 1;
                         }
+
                     }
                     runOnUiThread(new Runnable() {
                         @Override
@@ -408,6 +414,8 @@ public class MainActivity extends ActionBarActivity {
 
     public Boolean sendLocationToServer(String url, double lat, double lng)
     {
+        Log.i("Lat:"," "+lat);
+        Log.i("Lng:"," "+lng);
         try {
             HttpClient client = new DefaultHttpClient();
             HttpPost post = new HttpPost(url);
