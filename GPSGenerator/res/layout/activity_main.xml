@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+  <TextView
+        android:text="@string/hello_world"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send 4 Bus Locations"
+        android:id="@+id/fourbuses"
+        android:onClick="sendBusLocations"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/urlBar"
+        android:editable="true"
+        android:text="http://api.knowtime.ca/alpha_1/users/new/1"
+        android:layout_marginBottom="28dp"
+        android:layout_above="@+id/fourbuses"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4 People on one Bus"
+        android:id="@+id/fourpeople"
+        android:onClick="sendPeopleLocations"
+        android:layout_marginTop="45dp"
+        android:layout_below="@+id/fourbuses"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fourpeople"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp"
+        android:text="new Button"
+        android:onClick="sendAllRoutes" />
+
+</RelativeLayout>
